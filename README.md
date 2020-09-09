@@ -1,19 +1,20 @@
 ## Cappuchino Parse 
 ==================
 _To be documented._
-Install
+
+## Install
 -------
 ```sh
 $ npm install
 ```
-Usage
+## Usage
 -----
 ```sh
 $ npm start
 ```
-Testing
+## Testing
 -------
 _To be documented._
-License
+## License
 -------
 _To be documented._
