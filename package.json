@@ -4,7 +4,8 @@
   "description": "parsse fcyt pdf",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npx npm-force-resolutions"
   },
   "keywords": [
     "parse",
@@ -26,6 +27,6 @@
     "nodemon": "^2.0.4"
   },
   "resolutions": {
-    "pdf-text/lodash": "^4.17.20"
+    "lodash": "^4.17.20"
   }
 }
