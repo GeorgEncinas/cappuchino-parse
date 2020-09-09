@@ -1,0 +1,4 @@
+dist/data
+dist/data.old
+dist-*
+node_modules
