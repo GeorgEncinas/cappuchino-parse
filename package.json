@@ -1,0 +1,29 @@
+{
+  "name": "cappuchino-parse",
+  "version": "1.0.0",
+  "description": "parsse fcyt pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parse",
+    "pdf",
+    "fcyt"
+  ],
+  "author": "Jorge R. Encinas",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.0.0",
+    "eslint": "^5.3.0",
+    "file": "^0.2.2",
+    "md5-file": "^4.0.0",
+    "moment": "^2.27.0",
+    "pdf-text": "^0.4.0",
+    "pdf-text-extract": "^1.5.0",
+    "pdf.js-extract": "0.0.8",
+    "pdfreader": "^0.2.4",
+    "request": "^2.87.0",
+    "rimraf": "^3.0.2"
+  }
+}
