@@ -52,7 +52,11 @@ const request=require('request')
                         index: buffer
                     }
                     // fs.writeFileSync(join(path_body,'index.json'),JSON.stringify(res,null,4));
-                    fs.appendFileSync(join(path_body,'index.json'),JSON.stringify(res,null,4));
+                    // try {
+                        fs.appendFileSync(join(path_body,'index.json'),JSON.stringify(res,null,4));
+                    // } catch (err) {
+                    //     fs.writeFileSync(join(path_body,'index.json'),JSON.stringify(res,null,4));
+                    // }
                 }
                 
                 buffer.forEach((element)=>{
@@ -65,11 +69,19 @@ const request=require('request')
     }
 
 fs.stat(path,(error,stats)=>{
+    fs.stat(path_body,(error,stats)=>{
+        if (error) fs.mkdir(path, { recursive: true }, (error)=>{
+
+        })
+    })
     if(error){
-        fs.mkdir(path,(error)=>{
+        console.log('::::::::::error:', {path} ,{error})
+        fs.mkdir(path, { recursive: true }, (error)=>{
+            if (error ) console.log(';;;;;error mkdir:', {error})
             get();
         });
     }else{
         get();
     }
 });
+
