@@ -408,4 +408,22 @@
             }
         }
     ]
+}{
+    "madeIn": "SCESI UMSS",
+    "semester": "2021-01",
+    "date": "2021-2-24 18:14:12",
+    "support": "@georg",
+    "index": [
+        {
+            "curriculum": "320902 CIVIL (NUEVO)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/320902.pdf",
+            "name": "320902.pdf",
+            "time": "17:59",
+            "date": {
+                "day": "24",
+                "month": "02",
+                "year": "2021"
+            }
+        }
+    ]
 }
