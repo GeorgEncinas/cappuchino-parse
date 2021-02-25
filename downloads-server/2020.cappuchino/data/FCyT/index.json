@@ -1,13 +1,5 @@
 [
     {
-        "code": "320902",
-        "name": "LICENCIATURA EN INGENIERIA CIVIL (NUEVO)",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2021",
-        "support": "@georg",
-        "path": "2021-01"
-    },
-    {
         "code": "399501",
         "name": "LICENCIATURA EN BIOLOGIA",
         "madeIn": "SCESI UMSS",
@@ -40,16 +32,32 @@
         "path": "2020-02"
     },
     {
-        "code": "409701",
-        "name": "LICENCIATURA EN INGENIERIA DE ALIMENTOS",
+        "code": "411702",
+        "name": "LICENCIATURA EN INGENIERIA DE SISTEMAS N",
         "madeIn": "SCESI UMSS",
-        "semester": "2/2020",
+        "semester": "1/2021",
         "support": "@georg",
-        "path": "2020-02"
+        "path": "2021-01"
     },
     {
-        "code": "411702",
-        "name": "LICENCIATURA EN ING. DE SISTEMAS (N)",
+        "code": "419701",
+        "name": "LICENCIATURA EN INGENIERIA DE SISTEMAS",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2021",
+        "support": "@georg",
+        "path": "2021-01"
+    },
+    {
+        "code": "320902",
+        "name": "LICENCIATURA EN INGENIERIA CIVIL (NUEVO)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2021",
+        "support": "@georg",
+        "path": "2021-01"
+    },
+    {
+        "code": "409701",
+        "name": "LICENCIATURA EN INGENIERIA DE ALIMENTOS",
         "madeIn": "SCESI UMSS",
         "semester": "2/2020",
         "support": "@georg",
@@ -59,9 +67,9 @@
         "code": "299701",
         "name": "LICENCIATURA EN INGENIERIA ELECTRICA",
         "madeIn": "SCESI UMSS",
-        "semester": "2/2020",
+        "semester": "1/2021",
         "support": "@georg",
-        "path": "2020-02"
+        "path": "2021-01"
     },
     {
         "code": "650001",
@@ -75,9 +83,9 @@
         "code": "429701",
         "name": "LICENCIATURA EN INGENIERIA ELECTRONICA",
         "madeIn": "SCESI UMSS",
-        "semester": "2/2020",
+        "semester": "1/2021",
         "support": "@georg",
-        "path": "2020-02"
+        "path": "2021-01"
     },
     {
         "code": "309801",
@@ -91,9 +99,9 @@
         "code": "134111",
         "name": "LICENCIATURA EN INGENIERIA INFORMATICA",
         "madeIn": "SCESI UMSS",
-        "semester": "2/2020",
+        "semester": "1/2021",
         "support": "@georg",
-        "path": "2020-02"
+        "path": "2021-01"
     },
     {
         "code": "439801",
@@ -130,14 +138,6 @@
     {
         "code": "389701",
         "name": "LICENCIATURA EN QUIMICA",
-        "madeIn": "SCESI UMSS",
-        "semester": "2/2020",
-        "support": "@georg",
-        "path": "2020-02"
-    },
-    {
-        "code": "419701",
-        "name": "LICENCIATURA EN ING.DE SISTEMAS (ANT)",
         "madeIn": "SCESI UMSS",
         "semester": "2/2020",
         "support": "@georg",

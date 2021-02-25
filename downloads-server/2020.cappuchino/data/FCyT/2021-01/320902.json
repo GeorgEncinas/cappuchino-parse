@@ -1743,19 +1743,19 @@
                             "schedule": [
                                 {
                                     "day": "LU",
-                                    "start": "1545",
-                                    "end": "1715",
+                                    "start": "815",
+                                    "end": "945",
                                     "duration": 2,
-                                    "room": "692C",
+                                    "room": "AUDCIV",
                                     "teacher": "OMONTE OJALVO JOSE ROBERTO",
                                     "isClass": true
                                 },
                                 {
                                     "day": "MA",
-                                    "start": "1715",
-                                    "end": "1845",
+                                    "start": "1115",
+                                    "end": "1245",
                                     "duration": 2,
-                                    "room": "607",
+                                    "room": "AUDCIV",
                                     "teacher": "OMONTE OJALVO JOSE ROBERTO",
                                     "isClass": true
                                 },
