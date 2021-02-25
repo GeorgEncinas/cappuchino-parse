@@ -373,7 +373,7 @@ const pdftext = require('pdf-text')
                             semester: `${parseInt(gest[2])}/${gest[1]}`,
                             support: "@georg"
                         });
-                        // console.log("-------")
+                        console.log("-------")
                         // console.log(json.code)
                         // console.log(json.name)
                         callback();
@@ -385,7 +385,7 @@ const pdftext = require('pdf-text')
         });
     }, 100)
 
-q.drain = () => {
+q.drain(()=>{
     summary = summary.sort((a, b) => {
         if (a.name > b.name) {
             return 1;
@@ -402,7 +402,7 @@ q.drain = () => {
 
             console.log('  > summary saved');
         });
-}
+})
 
 var summary = []
 

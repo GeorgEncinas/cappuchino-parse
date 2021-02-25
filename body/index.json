@@ -426,4 +426,77 @@
             }
         }
     ]
+}{
+    "madeIn": "SCESI UMSS",
+    "semester": "2021-01",
+    "date": "2021-2-25 19:30:11",
+    "support": "@georg",
+    "index": [
+        {
+            "curriculum": "320902 CIVIL (NUEVO)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/320902.pdf",
+            "name": "320902.pdf",
+            "time": "15:04",
+            "date": {
+                "day": "25",
+                "month": "02",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "299701 ELECTRICA",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/299701.pdf",
+            "name": "299701.pdf",
+            "time": "15:04",
+            "date": {
+                "day": "25",
+                "month": "02",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "429701 ELECTRONICA",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/429701.pdf",
+            "name": "429701.pdf",
+            "time": "15:05",
+            "date": {
+                "day": "25",
+                "month": "02",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "134111 INFORMATICA (ING)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
+            "name": "134111.pdf",
+            "time": "15:05",
+            "date": {
+                "day": "25",
+                "month": "02",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "419701 SISTEMAS",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/419701.pdf",
+            "name": "419701.pdf",
+            "time": "15:05",
+            "date": {
+                "day": "25",
+                "month": "02",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "411702 SISTEMAS (NUEVO)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/411702.pdf",
+            "name": "411702.pdf",
+            "time": "15:05",
+            "date": {
+                "day": "25",
+                "month": "02",
+                "year": "2021"
+            }
+        }
+    ]
 }
