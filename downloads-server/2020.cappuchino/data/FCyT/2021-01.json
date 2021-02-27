@@ -7,6 +7,13 @@
         "support": "@georg"
     },
     {
+        "code": "409701",
+        "name": "LICENCIATURA EN INGENIERIA DE ALIMENTOS",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2021",
+        "support": "@georg"
+    },
+    {
         "code": "419701",
         "name": "LICENCIATURA EN INGENIERIA DE SISTEMAS",
         "madeIn": "SCESI UMSS",
@@ -28,6 +35,13 @@
         "support": "@georg"
     },
     {
+        "code": "650001",
+        "name": "LICENCIATURA EN INGENIERIA ELECTROMECANICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2021",
+        "support": "@georg"
+    },
+    {
         "code": "429701",
         "name": "LICENCIATURA EN INGENIERIA ELECTRONICA",
         "madeIn": "SCESI UMSS",
@@ -37,6 +51,27 @@
     {
         "code": "134111",
         "name": "LICENCIATURA EN INGENIERIA INFORMATICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "319801",
+        "name": "LICENCIATURA EN INGENIERIA MECANICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "339701",
+        "name": "LICENCIATURA EN INGENIERIA QUIMICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "389701",
+        "name": "LICENCIATURA EN QUIMICA",
         "madeIn": "SCESI UMSS",
         "semester": "1/2021",
         "support": "@georg"
