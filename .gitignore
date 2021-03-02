@@ -2,3 +2,8 @@ dist/data
 dist/data.old
 dist-*
 node_modules
+
+# firebase exclude
+.firebase
+.firebaserc
+firebase.json
