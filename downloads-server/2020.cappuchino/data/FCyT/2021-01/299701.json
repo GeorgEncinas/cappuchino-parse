@@ -1367,21 +1367,6 @@
                             "teacher": "PEREZ CESPEDES ROBERTO"
                         },
                         {
-                            "code": "D4",
-                            "schedule": [
-                                {
-                                    "day": "VI",
-                                    "start": "1115",
-                                    "end": "1245",
-                                    "duration": 2,
-                                    "room": "684L0",
-                                    "teacher": "PEREZ CESPEDES ROBERTO",
-                                    "isClass": false
-                                }
-                            ],
-                            "teacher": "PEREZ CESPEDES ROBERTO"
-                        },
-                        {
                             "code": "E",
                             "schedule": [
                                 {
@@ -1473,21 +1458,6 @@
                                 }
                             ],
                             "teacher": "LUCANO LUCANO MARCELO JAVIER"
-                        },
-                        {
-                            "code": "E5",
-                            "schedule": [
-                                {
-                                    "day": "VI",
-                                    "start": "1415",
-                                    "end": "1545",
-                                    "duration": 2,
-                                    "room": "684L0",
-                                    "teacher": "PEREZ CESPEDES ROBERTO",
-                                    "isClass": false
-                                }
-                            ],
-                            "teacher": "PEREZ CESPEDES ROBERTO"
                         }
                     ]
                 },

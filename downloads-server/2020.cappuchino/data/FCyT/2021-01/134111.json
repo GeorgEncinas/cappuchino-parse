@@ -2152,10 +2152,10 @@
                                 },
                                 {
                                     "day": "MA",
-                                    "start": "1115",
-                                    "end": "1245",
+                                    "start": "1245",
+                                    "end": "1415",
                                     "duration": 2,
-                                    "room": "691E",
+                                    "room": "690D",
                                     "teacher": "CALANCHA NAVIA BORIS",
                                     "isClass": true
                                 },
