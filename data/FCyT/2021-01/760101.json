@@ -779,36 +779,6 @@
                     ]
                 },
                 {
-                    "code": "2006001",
-                    "name": "METODOS MATEMATICOS DE LA FISICA",
-                    "groups": [
-                        {
-                            "code": "1",
-                            "schedule": [
-                                {
-                                    "day": "LU",
-                                    "start": "815",
-                                    "end": "945",
-                                    "duration": 2,
-                                    "room": "FISCOM",
-                                    "teacher": "GUTIERREZ MARTINEZ VICTOR",
-                                    "isClass": true
-                                },
-                                {
-                                    "day": "MI",
-                                    "start": "945",
-                                    "end": "1115",
-                                    "duration": 2,
-                                    "room": "FISCOM",
-                                    "teacher": "GUTIERREZ MARTINEZ VICTOR",
-                                    "isClass": true
-                                }
-                            ],
-                            "teacher": "GUTIERREZ MARTINEZ VICTOR"
-                        }
-                    ]
-                },
-                {
                     "code": "2006031",
                     "name": "FISICA BASICA IV",
                     "groups": [
@@ -876,89 +846,24 @@
                             "schedule": [
                                 {
                                     "day": "MA",
-                                    "start": "645",
-                                    "end": "815",
+                                    "start": "1415",
+                                    "end": "1545",
                                     "duration": 2,
                                     "room": "684B",
-                                    "teacher": "FUENTES MIRANDA IVAN",
+                                    "teacher": "FLORES FLORES FREDDY",
                                     "isClass": true
                                 },
                                 {
-                                    "day": "SA",
-                                    "start": "815",
-                                    "end": "945",
+                                    "day": "JU",
+                                    "start": "1415",
+                                    "end": "1545",
                                     "duration": 2,
                                     "room": "684B",
-                                    "teacher": "FUENTES MIRANDA IVAN",
+                                    "teacher": "FLORES FLORES FREDDY",
                                     "isClass": true
                                 }
                             ],
-                            "teacher": "FUENTES MIRANDA IVAN"
-                        }
-                    ]
-                },
-                {
-                    "code": "2006037",
-                    "name": "TERMODINAMICA",
-                    "groups": [
-                        {
-                            "code": "1",
-                            "schedule": [
-                                {
-                                    "day": "MI",
-                                    "start": "1715",
-                                    "end": "1845",
-                                    "duration": 2,
-                                    "room": "684B",
-                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
-                                    "isClass": true
-                                },
-                                {
-                                    "day": "VI",
-                                    "start": "945",
-                                    "end": "1115",
-                                    "duration": 2,
-                                    "room": "684B",
-                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
-                                    "isClass": true
-                                }
-                            ],
-                            "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "code": "G",
-            "subjects": [
-                {
-                    "code": "2006036",
-                    "name": "FISICA TEORICA II",
-                    "groups": [
-                        {
-                            "code": "1",
-                            "schedule": [
-                                {
-                                    "day": "MA",
-                                    "start": "1845",
-                                    "end": "2015",
-                                    "duration": 2,
-                                    "room": "620",
-                                    "teacher": "FERNANDEZ LEON JUAN A.",
-                                    "isClass": true
-                                },
-                                {
-                                    "day": "SA",
-                                    "start": "1115",
-                                    "end": "1245",
-                                    "duration": 2,
-                                    "room": "617B",
-                                    "teacher": "FERNANDEZ LEON JUAN A.",
-                                    "isClass": true
-                                }
-                            ],
-                            "teacher": "FERNANDEZ LEON JUAN A."
+                            "teacher": "FLORES FLORES FREDDY"
                         }
                     ]
                 }
