@@ -1165,4 +1165,209 @@
             }
         }
     ]
+}{
+    "madeIn": "SCESI UMSS",
+    "semester": "2021-01",
+    "date": "2021-3-5 15:25:50",
+    "support": "@georg",
+    "index": [
+        {
+            "curriculum": "409701 ALIMENTOS",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/409701.pdf",
+            "name": "409701.pdf",
+            "time": "14:19",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "399501 BIOLOGIA",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/399501.pdf",
+            "name": "399501.pdf",
+            "time": "14:13",
+            "date": {
+                "day": "05",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "320902 CIVIL (NUEVO)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/320902.pdf",
+            "name": "320902.pdf",
+            "time": "14:19",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "299701 ELECTRICA",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/299701.pdf",
+            "name": "299701.pdf",
+            "time": "14:20",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "650001 ELECTROMECANICA",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/650001.pdf",
+            "name": "650001.pdf",
+            "time": "14:20",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "429701 ELECTRONICA",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/429701.pdf",
+            "name": "429701.pdf",
+            "time": "14:20",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "760101 FISICA (DID)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/760101.pdf",
+            "name": "760101.pdf",
+            "time": "10:50",
+            "date": {
+                "day": "04",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "359201 FISICA (LIC)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/359201.pdf",
+            "name": "359201.pdf",
+            "time": "10:50",
+            "date": {
+                "day": "04",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "309801 INDUSTRIAL",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/309801.pdf",
+            "name": "309801.pdf",
+            "time": "14:21",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "134111 INFORMATICA (ING)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
+            "name": "134111.pdf",
+            "time": "14:22",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "114071 MATEMATICA (DID)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/114071.pdf",
+            "name": "114071.pdf",
+            "time": "18:14",
+            "date": {
+                "day": "04",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "439801 MATEMATICA (ING)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/439801.pdf",
+            "name": "439801.pdf",
+            "time": "18:15",
+            "date": {
+                "day": "04",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "349701 MATEMATICA (LIC)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/349701.pdf",
+            "name": "349701.pdf",
+            "time": "18:16",
+            "date": {
+                "day": "04",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "319801 MECANICA",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/319801.pdf",
+            "name": "319801.pdf",
+            "time": "14:23",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "339701 QUIMICA (ING)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/339701.pdf",
+            "name": "339701.pdf",
+            "time": "14:23",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "389701 QUIMICA (LIC)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/389701.pdf",
+            "name": "389701.pdf",
+            "time": "14:23",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "419701 SISTEMAS",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/419701.pdf",
+            "name": "419701.pdf",
+            "time": "15:05",
+            "date": {
+                "day": "25",
+                "month": "02",
+                "year": "2021"
+            }
+        },
+        {
+            "curriculum": "411702 SISTEMAS (NUEVO)",
+            "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/411702.pdf",
+            "name": "411702.pdf",
+            "time": "14:24",
+            "date": {
+                "day": "01",
+                "month": "03",
+                "year": "2021"
+            }
+        }
+    ]
 }
