@@ -101,16 +101,17 @@ if (current.length) {
 const message = `☕️ Carreras nuevamente actualizado el ${currentTime}
 ${msgCareers}
 
-Actualicen la pagina y denle una revisada
+Actualicen la página y denle una revisada
 
 Paginas oficiales:
-✔️ https://capuchino-scesi.web.app 
-😥 http://scesi.org/capuchino (puede que no te cargue por problemas actuales en la red de la UMSS)
+✔️ http://scesi.org/capuchino (Principal)
+✔️ https://capuchino-scesi.web.app (Respaldo)
 
-Además puedes unirte a nuestros canales para enterarte de actualizaciones de *cappuchino*, actividades de nuestra sociedad como también de nuestra carrera y universidad.
+Además, puedes unirte a nuestros canales para enterarte de actualizaciones de *cappuchino*, actividades de nuestra sociedad como también de nuestra carrera y universidad.
 http://scesi.org/canal-whatsapp
 http://scesi.org/canal-telegram
-`
+
+`;
 
 console.log('------ message ------')
 console.log(message)
