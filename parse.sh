@@ -2,11 +2,11 @@
 
 # node backup.js 2020-02 data/FCyT
 
-node get2.js 2021-01
+node get2.js 2021-02
 
-node parse2.filter.js 2021-01
+node parse2.filter.js 2021-02
 
-node parse2.gestion.js 2021-01 2020-02
+node parse2.gestion.js 2021-02 2021-01
 
 mkdir downloads-server/2020.cappuchino/data/FCyT/2021-02
 mkdir public/data/FCyT/2021-02
