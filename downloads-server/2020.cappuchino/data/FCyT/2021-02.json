@@ -1,0 +1,44 @@
+[
+    {
+        "code": "320902",
+        "name": "LICENCIATURA EN INGENIERIA CIVIL (NUEVO)",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "419701",
+        "name": "LICENCIATURA EN INGENIERIA DE SISTEMAS",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "411702",
+        "name": "LICENCIATURA EN INGENIERIA DE SISTEMAS N",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "299701",
+        "name": "LICENCIATURA EN INGENIERIA ELECTRICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "429701",
+        "name": "LICENCIATURA EN INGENIERIA ELECTRONICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "134111",
+        "name": "LICENCIATURA EN INGENIERIA INFORMATICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    }
+]
