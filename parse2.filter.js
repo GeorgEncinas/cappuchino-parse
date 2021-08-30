@@ -32,15 +32,21 @@ const pdftext = require('pdf-text')
         //         }
         //     }
         // }
+        const ignoreMd5 = "94fa8f0a767b2c38aa83fbcdf273e484";
+        valids = [];
         for (let i = 0; i < data.length; i++) {
-            const element = data[i][1];
-            ignoreMd5 = '2932c4ff94c93cf0dc1a33e902852845'
-            if (element==ignoreMd5){
-                data.splice(i,1)
-                // console.log(element[0],data[i])
-                console.log('  > ignoring:',data[i][0])
+            const md5 = data[i][1];
+            const file = data[i][0];
+            console.log('md5', md5, file)
+            if (md5 === ignoreMd5) {
+              console.log("  > ignoring:", file);
+            } else {
+                valids.push(data[i]);
             }
         }
+        data.length = 0;
+        data.push(...valids);
+        console.log(data);
     }
     , async = require('async')
     , pdf2json = (path, done) => {
@@ -152,6 +158,7 @@ const pdftext = require('pdf-text')
         var materias = []
 
         pageInfo.forEach( (element) =>{
+            let localLevel;
             try {
                 localLevel = regex2.exec(chunks[element.level])[1]
             } catch (error) {
@@ -270,7 +277,8 @@ const pdftext = require('pdf-text')
         ////////////////////////
         // prepare result pdf 2 JSON
         ////////////////////////
-        carrera = regex1.exec(chunks[5])
+        var carrera = regex1.exec(chunks[5])
+        console.log('carrera >', carrera, chunks)
 
         console.log({ carrera, origin: chunks[5] }, 'debugg')
         if (!carrera) {
