@@ -2060,10 +2060,10 @@
                                 },
                                 {
                                     "day": "MI",
-                                    "start": "1545",
-                                    "end": "1800",
+                                    "start": "1715",
+                                    "end": "1930",
                                     "duration": 3,
-                                    "room": "625C",
+                                    "room": "AULVIR",
                                     "teacher": "LANGE GONZALES WILHELM EDUARDO",
                                     "isClass": true
                                 }
