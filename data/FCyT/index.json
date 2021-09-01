@@ -115,17 +115,17 @@
         "code": "319801",
         "name": "LICENCIATURA EN INGENIERIA MECANICA",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2021",
+        "semester": "2/2021",
         "support": "@georg",
-        "path": "2021-01"
+        "path": "2021-02"
     },
     {
         "code": "339701",
         "name": "LICENCIATURA EN INGENIERIA QUIMICA",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2021",
+        "semester": "2/2021",
         "support": "@georg",
-        "path": "2021-01"
+        "path": "2021-02"
     },
     {
         "code": "349701",
@@ -139,8 +139,8 @@
         "code": "389701",
         "name": "LICENCIATURA EN QUIMICA",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2021",
+        "semester": "2/2021",
         "support": "@georg",
-        "path": "2021-01"
+        "path": "2021-02"
     }
 ]
