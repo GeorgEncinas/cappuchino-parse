@@ -1,5 +1,19 @@
 [
     {
+        "code": "760101",
+        "name": "LICENCIATURA EN DIDACTICA DE LA FISICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "359201",
+        "name": "LICENCIATURA EN FISICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
         "code": "320902",
         "name": "LICENCIATURA EN INGENIERIA CIVIL (NUEVO)",
         "madeIn": "SCESI UMSS",
@@ -44,6 +58,13 @@
     {
         "code": "429701",
         "name": "LICENCIATURA EN INGENIERIA ELECTRONICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2021",
+        "support": "@georg"
+    },
+    {
+        "code": "309801",
+        "name": "LICENCIATURA EN INGENIERIA INDUSTRIAL",
         "madeIn": "SCESI UMSS",
         "semester": "2/2021",
         "support": "@georg"
