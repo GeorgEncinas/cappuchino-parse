@@ -32,13 +32,16 @@ const pdftext = require('pdf-text')
         //         }
         //     }
         // }
-        const ignoreMd5 = "94fa8f0a767b2c38aa83fbcdf273e484";
+        const ignoreMd5 = [
+          "94fa8f0a767b2c38aa83fbcdf273e484",
+          "c75cdc246112ab30369408426f2d3f80",
+        ];
         valids = [];
         for (let i = 0; i < data.length; i++) {
             const md5 = data[i][1];
             const file = data[i][0];
             console.log('md5', md5, file)
-            if (md5 === ignoreMd5) {
+            if (ignoreMd5.includes(md5)) {
               console.log("  > ignoring:", file);
             } else {
                 valids.push(data[i]);
