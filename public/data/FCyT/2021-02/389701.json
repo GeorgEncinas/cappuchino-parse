@@ -1007,10 +1007,10 @@
                             "schedule": [
                                 {
                                     "day": "LU",
-                                    "start": "1845",
-                                    "end": "2015",
+                                    "start": "1415",
+                                    "end": "1545",
                                     "duration": 2,
-                                    "room": "617",
+                                    "room": "612",
                                     "teacher": "SOTO MOREIRA JUAN CARLOS",
                                     "isClass": true
                                 },

@@ -3203,11 +3203,11 @@
                                     "isClass": true
                                 },
                                 {
-                                    "day": "JU",
-                                    "start": "1715",
-                                    "end": "1845",
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "945",
                                     "duration": 2,
-                                    "room": "MAGCIV",
+                                    "room": "AULVIR",
                                     "teacher": "SAINZ FERRUFINO MARCELO GUSTAVO",
                                     "isClass": false
                                 },

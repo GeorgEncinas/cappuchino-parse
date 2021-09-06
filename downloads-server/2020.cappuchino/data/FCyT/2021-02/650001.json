@@ -1293,6 +1293,15 @@
                             "code": "9",
                             "schedule": [
                                 {
+                                    "day": "LU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "651",
+                                    "teacher": "SOTO MOREIRA JUAN CARLOS",
+                                    "isClass": true
+                                },
+                                {
                                     "day": "MA",
                                     "start": "815",
                                     "end": "945",
@@ -1303,19 +1312,10 @@
                                 },
                                 {
                                     "day": "JU",
-                                    "start": "1715",
-                                    "end": "1845",
+                                    "start": "1545",
+                                    "end": "1715",
                                     "duration": 2,
-                                    "room": "693B",
-                                    "teacher": "SOTO MOREIRA JUAN CARLOS",
-                                    "isClass": true
-                                },
-                                {
-                                    "day": "SA",
-                                    "start": "645",
-                                    "end": "815",
-                                    "duration": 2,
-                                    "room": "642",
+                                    "room": "651",
                                     "teacher": "SOTO MOREIRA JUAN CARLOS",
                                     "isClass": true
                                 }
