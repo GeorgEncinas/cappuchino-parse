@@ -35,6 +35,8 @@ const pdftext = require('pdf-text')
         const ignoreMd5 = [
           "94fa8f0a767b2c38aa83fbcdf273e484",
           "c75cdc246112ab30369408426f2d3f80",
+          "978B4FB55114FC58B892E29F781D6945".toLowerCase(), // 399501.pdf
+          "383225C78F628798A8803A00E997AC41".toLowerCase(), // 409701.pdf
         ];
         valids = [];
         for (let i = 0; i < data.length; i++) {
