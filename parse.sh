@@ -26,8 +26,11 @@ cp data/FCyT/news.json public/data/FCyT/.
 cp data/index.json downloads-server/2020.cappuchino/data/.
 cp data/index.json public/data/.
 
-Compress-Archive -Path .\public\* -DestinationPath downloads-server\2020.cappuchino\2022-01.1.cappuchino.zip
-scp -P9195 .\downloads-server\2020.cappuchino\2022-01.2.cappuchino.zip scesi@dozer-ssh.scesi.org:~/.
+Compress-Archive -Path .\public\* -DestinationPath downloads-server\2020.cappuchino\2022-01.3.cappuchino.zip
+scp -P9195 .\downloads-server\2020.cappuchino\2022-01.3.cappuchino.zip scesi@dozer-ssh.scesi.org:~/.
 
-# sudo unzip 2021-02.4.cappuchino.zip -d /srv/www/2021.cappuchino
+# sudo unzip 2022-01.3.cappuchino.zip -d /srv/www/2022.cappuchino
 # firebase deploy
+
+# update redirect in old anual gestion
+# update gestion in scesi.org/admin for scesi.org/capuchino and scesi.org/cappuchino in anual
