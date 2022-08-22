@@ -37,6 +37,8 @@ const pdftext = require('pdf-text')
           "c75cdc246112ab30369408426f2d3f80",
           "978B4FB55114FC58B892E29F781D6945".toLowerCase(), // 399501.pdf
           "383225C78F628798A8803A00E997AC41".toLowerCase(), // 409701.pdf
+          "757e41e24aba686c9bb8e5f91149b2cd",
+          "A1364DAC78F6A231D312C10B5B65FEF0".toLowerCase(), // Aviso 2 Horarios 1-2022.pdf
         ];
         valids = [];
         for (let i = 0; i < data.length; i++) {

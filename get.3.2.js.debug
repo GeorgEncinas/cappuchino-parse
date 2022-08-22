@@ -1,0 +1,269 @@
+// @ts-check
+if (process.argv.length < 3) {
+    console.log("no parameters found");
+    process.exit(1);
+  }
+  
+  const fs = require("fs");
+  var request = require("request");
+  const { timer, firstValueFrom } = require("rxjs");
+  const join = require("path").join;
+  const promisify = require("util").promisify;
+  const writeFileAsync = promisify(fs.writeFile);
+  const gestion = process.argv[2];
+  const path = join(__dirname, "data", "FCyT", gestion);
+  var options = {
+    method: "GET",
+    url: "https://sheets.googleapis.com/v4/spreadsheets/1V2ZpuUI_laRO4NkBaAqyCx1uMbYdu1y0YWCFt70fumY?includeGridData=true&ranges=A6%3AD24&key=AIzaSyBRbzQTTT_izNqu8FvGdx8APKv9AxQWMDg",
+    headers: {
+      Accept: "application/json",
+    },
+  };
+  
+  const retrieve = () => {
+    new Promise((resolve, reject) => {
+      request(options, function (error, response) {
+        if (error) reject(new Error(error));
+        const body = JSON.parse(response.body);
+        var _a;
+        const urls = [];
+        (_a = body.sheets) === null || _a === void 0
+          ? void 0
+          : _a.forEach((sheet) => {
+              var _a;
+              (_a = sheet.data) === null || _a === void 0
+                ? void 0
+                : _a.forEach((singleData) => {
+                    var _a;
+                    (_a = singleData.rowData) === null || _a === void 0
+                      ? void 0
+                      : _a.forEach((row) => {
+                          var _a;
+                          (_a = row.values) === null || _a === void 0
+                            ? void 0
+                            : _a.forEach((value) => {
+                                var _a, _b, _c;
+                                const uri =
+                                  (_c =
+                                    (_b =
+                                      (_a =
+                                        value === null || value === void 0
+                                          ? void 0
+                                          : value.userEnteredFormat) === null ||
+                                      _a === void 0
+                                        ? void 0
+                                        : _a.textFormat) === null || _b === void 0
+                                      ? void 0
+                                      : _b.link) === null || _c === void 0
+                                    ? void 0
+                                    : _c.uri;
+                                if (uri) {
+                                  urls.push(uri);
+                                }
+                              });
+                        });
+                  });
+            });
+        console.log(urls);
+        const urlFiltered = urls.filter((v, i, a) => a.indexOf(v) === i);
+        resolve(urlFiltered);
+      });
+    })
+      .then((urls) => {
+        const downloadUrls = [];
+        return new Promise((resolve, reject) => {
+          urls.forEach((url) => {
+            const regex = /[\w-]{33}/;
+            const id = regex.exec(url);
+            if (id) {
+              const downloadUrl = `https://drive.google.com/uc?id=${id}&export=download`;
+              downloadUrls.push(downloadUrl);
+            }
+          });
+          resolve(downloadUrls);
+        });
+      })
+      .then(async (downloadUrls) => {
+        console.log(downloadUrls);
+        // downloadUrls.unshift(
+        //   "https://apiimages.centromovil.com.bo/images/771Hy4lQ1O5jpqsbPTWoK48l.jpg"
+        // );
+        downloadUrls.shift();
+        const downloaded = [];
+        const getResponse = async (downloadUrl, folder) => {
+          if (!folder) {
+            throw new Error("required dest folder download");
+          }
+          return new Promise((resolve, reject) => {
+            const req = request({
+              method: "GET",
+              url: downloadUrl,
+              headers: {},
+            });
+            req.on("error", (err) => {
+              reject(err);
+            });
+            req.on("response", (response) => {
+              let filename;
+              const disposition = response.headers["content-disposition"];
+              var filenameRegex = /filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/;
+              var matches = filenameRegex.exec(disposition);
+              if (matches != null && matches[1]) {
+                filename = matches[1].replace(/['"]/g, "");
+                const fullPatch = join(folder, filename);
+                const writeStream = fs.createWriteStream(fullPatch);
+                response.pipe(writeStream);
+                writeStream.on("error", (err) => {
+                  reject(err);
+                });
+                writeStream.on("finish", function () {
+                  console.log(`Saved file '${filename}' in ${folder}`);
+                  resolve(filename);
+                });
+              }
+            });
+          });
+  
+          // return promise;
+          // }
+          try {
+            const response = await new Promise((resolve, reject) => {
+              request(
+                {
+                  method: "GET",
+                  url: downloadUrl,
+                  headers: {},
+                },
+                (err, response) => {
+                  if (err) {
+                    reject(err);
+                  }
+                  resolve(response);
+                }
+              );
+            });
+            return response;
+          } catch (error) {
+            if (error.body) {
+              console.log(error.body);
+            } else {
+              console.error(error);
+            }
+            return;
+          }
+        };
+        // });
+        for (const downloadUrl of downloadUrls) {
+          const timeOut = 2000;
+          console.log(`Wait for ${timeOut}`);
+          await firstValueFrom(timer(timeOut));
+          // const pdf = await new Promise((resolve, reject) => {
+          //   request(
+          //     {
+          //       method: "GET",
+          //       url: downloadUrl,
+          //       headers: {},
+          //     },
+          //     (err, response) => {
+          //       if (err) {
+          //         reject(err);
+          //       }
+          //       let filename;
+          //       const disposition = response.headers["content-disposition"];
+          //       var filenameRegex = /filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/;
+          //       var matches = filenameRegex.exec(disposition);
+          //       if (matches != null && matches[1]) {
+          //         filename = matches[1].replace(/['"]/g, "");
+          //         const fullPatch = join(path, filename);
+          //         writeFileAsync(fullPatch, response.body).then(() => {
+          //           console.log(`Saved file ${filename} in ${path}`);
+          //           resolve(fullPatch);
+          //         });
+          //       } else {
+          //         console.log(`Not saved url ${downloadUrl} file in ${path}`);
+          //         reject(response);
+          //       }
+          //     }
+          //   );
+          // });
+          console.log(`try download from ${downloadUrl}`);
+          const response = await getResponse(downloadUrl, path);
+  
+          downloaded.push(response);
+        }
+        // downloadUrls.forEach((downloadUrl) => {
+        //   request(
+        //     {
+        //       method: "GET",
+  
+        //       url: downloadUrl,
+        //       headers: {
+        //         // 'Host': 'drive.google.com'
+        //       },
+        //       // headers: {
+        //       //   // 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
+        //       //   // 'Upgrade-Insecure-Requests': 1,
+        //       //   'Host': 'drive.google.com',
+        //       // }
+        //     },
+        //     (err, response) => {
+        //       // request(downloadUrl, (err, response) => {
+        //       if (err) {
+        //         console.error(err);
+        //         return;
+        //       }
+        //       // if (response.statusCode !== 200) {
+        //       //   console.log(`${response.statusCode } for ${downloadUrl}`)
+        //       //   return
+        //       // }
+        //       let filename;
+        //       const disposition = response.headers["content-disposition"];
+        //       var filenameRegex = /filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/;
+        //       var matches = filenameRegex.exec(disposition);
+        //       // console.log(response.headers, matches);
+        //       if (matches != null && matches[1]) {
+        //         filename = matches[1].replace(/['"]/g, "");
+        //         // stream = fs.createWriteStream(filename)
+        //         console.log(response, filename);
+        //         fs.writeFileSync(join(path, filename), response.body);
+        //         console.log(`Saved file ${filename} in ${path}`);
+        //         // writeFileAsync(response.)
+        //       } else {
+        //         console.log(response);
+        //       }
+        //     }
+        //   ); //.pipe(fs.createWriteStream(filename || "test.pdf"));
+        // });
+        // }
+  
+        // resolve(downloadUrls);
+        // });
+        return downloadUrls;
+      });
+  
+    // const fs = require("fs");
+  
+    // const id = "1uL_l83K25v1Q3dABT76kPOu00m05La-I";
+    // const testUrl = `https://drive.google.com/uc?export=download&id=${id}`;
+  
+    // function getFromUrl(url) {
+    //   var filename = "";
+    //   const writeStream = request(testUrl, (err, response) => {
+    //     if (err) {
+    //       console.error(err);
+    //       return;
+    //     }
+    //     const disposition = response.headers["content-disposition"];
+    //     var filenameRegex = /filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/;
+    //     var matches = filenameRegex.exec(disposition);
+    //     if (matches != null && matches[1]) {
+    //       filename = matches[1].replace(/['"]/g, "");
+    //     }
+    //   }).pipe(fs.createWriteStream(filename || "test.pdf"));
+    // }
+  
+    // 'content-disposition': 'attachment;filename="411702.pdf";filename*=UTF-8\'\'411702.pdf'
+  };
+  
+  retrieve();
+  

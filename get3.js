@@ -92,6 +92,7 @@ execAsyncTask(`strings "Horarios 1-2022 - Hoja 1.pdf" | grep https`)
     return ids;
   })
   .then((ids) => {
+    // const chromeless = new Chromeless();
     ids.forEach((id, i) => {
       const gestion = process.argv[2];
       const path = join(__dirname, "data", "FCyT", gestion);
@@ -99,28 +100,33 @@ execAsyncTask(`strings "Horarios 1-2022 - Hoja 1.pdf" | grep https`)
       fs.mkdir(path, { recursive: true }, (error) => {
         const command = `wget "https://drive.google.com/uc?export=download&id=${id}" -O ${path}/${fileNames[i]}`;
 
-        const chromeless = new Chromeless();
+        // execAsyncTask(command);
 
-        const chrome = async () => {
-          try {
-            const screenshot = await chromeless
-              .goto(`https://drive.google.com/uc?export=download&id=${id}`)
-              .wait(3000)
-              .screenshot();
 
-            console.log(screenshot); // prints local file path or S3 url
+        // console.log(id);
 
-            await chromeless.end();
-          } catch (error) {}
-        };
+        // const urlDownload = `https://drive.google.com/uc?export=download&id=${id}`;
 
-        chrome().then(() => {
-          timer(1000).subscribe(() => {
-            execAsyncTask(
-              `find /home/georg/Downloads/. -name "??????.pdf" -exec mv -i {} -t ${path} \;`
-            );
-          });
-        });
+        // const chrome = async () => {
+        //   try {
+        //     const screenshot = await chromeless
+        //       .goto(urlDownload)
+        //       .wait(3000)
+        //       .screenshot();
+
+        //     console.log('>>>>>>>>>>', urlDownload); // prints local file path or S3 url
+
+        //     await chromeless.end();
+        //   } catch (error) {}
+        // };
+
+        // chrome().then(() => {
+        //   timer(2000).subscribe(() => {
+        //     execAsyncTask(
+        //       `find /home/georg/Downloads/. -name "??????.pdf" -exec mv -i {} -t ${path} \;`
+        //     );
+        //   });
+        // });
       });
     });
   });
