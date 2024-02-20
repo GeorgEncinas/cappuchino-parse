@@ -1,32 +1,25 @@
-# Tested in Powershell
+mkdir -p data/FCyT/2023-02
+node get.3.2 2023-02
 
-# node backup.js 2020-02 data/FCyT
+# first add md5 sum for invalid pdf
+node parse2.filter.js 2023-02
 
-# node get2.js 2022-01
+node parse2.gestion.js 2023-02 2023-01
 
-node get.3.2 2022-01
+sudo mkdir -p /srv/www/2022.cappuchino/data/FCyT/2023-02
+sudo cp data/FCyT/2023-02/*.json /srv/www/2022.cappuchino/data/FCyT/2023-02/.
+sudo cp data/FCyT/2023-02.json   /srv/www/2022.cappuchino/data/FCyT/.
+sudo cp data/FCyT/index.json     /srv/www/2022.cappuchino/data/FCyT/.
+sudo cp data/FCyT/news.json      /srv/www/2022.cappuchino/data/FCyT/.
+sudo cp data/index.json          /srv/www/2022.cappuchino/data/.
 
-node parse2.filter.js 2022-01
-
-node parse2.gestion.js 2022-01 2021-02
-
-mkdir downloads-server/2020.cappuchino/data/FCyT/2022-01
-mkdir public/data/FCyT/2022-01
-
-cp data/FCyT/2022-01/*.json downloads-server/2020.cappuchino/data/FCyT/2022-01/.
-cp data/FCyT/2022-01/*.json public/data/FCyT/2022-01/.
-
-cp data/FCyT/2022-01.json downloads-server/2020.cappuchino/data/FCyT/.
-cp data/FCyT/2022-01.json public/data/FCyT/.
-
-cp data/FCyT/index.json downloads-server/2020.cappuchino/data/FCyT/.
-cp data/FCyT/index.json public/data/FCyT/.
-
-cp data/FCyT/news.json downloads-server/2020.cappuchino/data/FCyT/.
-cp data/FCyT/news.json public/data/FCyT/.
-
-cp data/index.json downloads-server/2020.cappuchino/data/.
-cp data/index.json public/data/.
+mkdir -p /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/2023-2
+cp data/FCyT/2023-02/*.json /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/2023-2/.
+cp data/FCyT/2023-02.json   /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/.
+cp data/FCyT/index.json   /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/index.json
+cp data/FCyT/news.json   /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/.
+cd /mnt/data/starhuks/api_cappuchino
+./runserver.sh
 
 # añadir a bruno la carpeta downloads-server/2020.cappuchino/data/FCyT/* data/deparments/fcyt en api.starkbucks
 
@@ -34,10 +27,10 @@ cp data/index.json public/data/.
 
 # copy
 
-http-server public/
+# http-server public/
 
-Compress-Archive -Path .\public\* -DestinationPath downloads-server\2020.cappuchino\2022-01.5.cappuchino.zip
-scp -P9195 .\downloads-server\2020.cappuchino\2022-01.5.cappuchino.zip scesi@dozer-ssh.scesi.org:~/.
+# Compress-Archive -Path .\public\* -DestinationPath downloads-server\2020.cappuchino\2022-01.5.cappuchino.zip
+# scp -P9195 .\downloads-server\2020.cappuchino\2022-01.5.cappuchino.zip scesi@dozer-ssh.scesi.org:~/.
 
 # sudo unzip 2022-01.5.cappuchino.zip -d /srv/www/2022.cappuchino
 # firebase deploy
