@@ -1,0 +1,2157 @@
+{
+    "madeIn": "SCESI UMSS",
+    "support": "@georg",
+    "code": "166231",
+    "levels": [
+        {
+            "code": "A",
+            "subjects": [
+                {
+                    "code": "2004001",
+                    "name": "RECURSOS NATURALES",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": true,
+                                    "teacher": "ARZABE MAURE JOSE OMAR"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": "ARZABE MAURE JOSE OMAR"
+                                }
+                            ],
+                            "teacher": "ARZABE MAURE JOSE OMAR"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004046",
+                    "name": "QUIMICA GENERAL",
+                    "groups": [
+                        {
+                            "code": "3",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "681L7",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "652",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "692G",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                }
+                            ],
+                            "teacher": ". POR DESIGNAR"
+                        },
+                        {
+                            "code": "3A",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": true,
+                                    "teacher": "ROJAS CESPEDES JENNY"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "ROJAS CESPEDES JENNY"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": true,
+                                    "teacher": "ROJAS CESPEDES JENNY"
+                                }
+                            ],
+                            "teacher": "ROJAS CESPEDES JENNY"
+                        },
+                        {
+                            "code": "3B",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": "HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": true,
+                                    "teacher": "HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": "HOEPFNER REYNOLDS MAURICIO"
+                                }
+                            ],
+                            "teacher": "HOEPFNER REYNOLDS MAURICIO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2006018",
+                    "name": "FISICA BASICA I",
+                    "groups": [
+                        {
+                            "code": "M",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "624",
+                                    "isClass": true,
+                                    "teacher": "TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "693A",
+                                    "isClass": true,
+                                    "teacher": "TORRICO TROCHE MILKA MONICA"
+                                }
+                            ],
+                            "teacher": "TORRICO TROCHE MILKA MONICA"
+                        },
+                        {
+                            "code": "M1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                                },
+                                {
+                                    "day": "LU",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
+                                }
+                            ],
+                            "teacher": "LUCANO LUCANO MARCELO JAVIER - HEREDIA GUTIERREZ MARIA FERNANDA"
+                        },
+                        {
+                            "code": "M2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "GUTIERREZ MARTINEZ VICTOR"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "MARTINEZ RASOLOARINOV KENNETH"
+                                }
+                            ],
+                            "teacher": "GUTIERREZ MARTINEZ VICTOR - MARTINEZ RASOLOARINOV KENNETH"
+                        },
+                        {
+                            "code": "M3",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "620",
+                                    "isClass": false,
+                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                                }
+                            ],
+                            "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                        },
+                        {
+                            "code": "M4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "PEREZ CESPEDES ROBERTO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "PARISACA ALTAMIRANO JOSE FERNANDO"
+                                }
+                            ],
+                            "teacher": "PEREZ CESPEDES ROBERTO - PARISACA ALTAMIRANO JOSE FERNANDO"
+                        },
+                        {
+                            "code": "M5",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "620",
+                                    "isClass": false,
+                                    "teacher": "DAVALOS BROZOVIC JORGE"
+                                }
+                            ],
+                            "teacher": "DAVALOS BROZOVIC JORGE"
+                        },
+                        {
+                            "code": "N",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "661",
+                                    "isClass": true,
+                                    "teacher": "VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": "VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "651",
+                                    "isClass": true,
+                                    "teacher": "VILLARROEL GIL ARMANDO"
+                                }
+                            ],
+                            "teacher": "VILLARROEL GIL ARMANDO"
+                        },
+                        {
+                            "code": "N1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "PEREZ CESPEDES ROBERTO"
+                                }
+                            ],
+                            "teacher": "PEREZ CESPEDES ROBERTO"
+                        },
+                        {
+                            "code": "N2",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "JIMENEZ ALCAZAR ANDRES"
+                                }
+                            ],
+                            "teacher": "CHOQUE UNO FRANCISCO - JIMENEZ ALCAZAR ANDRES"
+                        },
+                        {
+                            "code": "N3",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "UGARTE CEJAS FELIX"
+                                }
+                            ],
+                            "teacher": "UGARTE CEJAS FELIX"
+                        },
+                        {
+                            "code": "N4",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "620",
+                                    "isClass": false,
+                                    "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                                }
+                            ],
+                            "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                        },
+                        {
+                            "code": "N5",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "GUZMAN SAAVEDRA ROCIO"
+                                }
+                            ],
+                            "teacher": "GUZMAN SAAVEDRA ROCIO"
+                        },
+                        {
+                            "code": "O",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "692H",
+                                    "isClass": true,
+                                    "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                                }
+                            ],
+                            "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                        },
+                        {
+                            "code": "O1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                }
+                            ],
+                            "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA - VARGAS VALLEJOS LUZ VIRGINIA"
+                        },
+                        {
+                            "code": "O2",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                }
+                            ],
+                            "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                        },
+                        {
+                            "code": "O3",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "ALISS PAREDES EMILIO"
+                                }
+                            ],
+                            "teacher": "ALISS PAREDES EMILIO"
+                        },
+                        {
+                            "code": "O4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "ILLANES MARTINEZ JHOELMA"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                                }
+                            ],
+                            "teacher": "ILLANES MARTINEZ JHOELMA - VASQUEZ CARRILLO MICHAEL HUASCAR"
+                        },
+                        {
+                            "code": "O5",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "TERRAZAS VARGAS JUAN CARLOS"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "CASIMIRO ICALLO ELVIS"
+                                }
+                            ],
+                            "teacher": "TERRAZAS VARGAS JUAN CARLOS - CASIMIRO ICALLO ELVIS"
+                        },
+                        {
+                            "code": "P",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "624",
+                                    "isClass": true,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "691E",
+                                    "isClass": true,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "692F",
+                                    "isClass": true,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                }
+                            ],
+                            "teacher": "MOREIRA CALIZAYA RENE"
+                        },
+                        {
+                            "code": "P1",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "MARTINEZ RASOLOARINOV KENNETH"
+                                }
+                            ],
+                            "teacher": "VARGAS VALLEJOS LUZ VIRGINIA - MARTINEZ RASOLOARINOV KENNETH"
+                        },
+                        {
+                            "code": "P2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                                }
+                            ],
+                            "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                        },
+                        {
+                            "code": "P3",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                                }
+                            ],
+                            "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                        },
+                        {
+                            "code": "P4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "SHITIKOV GAGARINA GALINA"
+                                }
+                            ],
+                            "teacher": "SHITIKOV GAGARINA GALINA"
+                        },
+                        {
+                            "code": "Q",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "617",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ LEON JUAN A."
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ LEON JUAN A."
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ LEON JUAN A."
+                                }
+                            ],
+                            "teacher": "FERNANDEZ LEON JUAN A."
+                        },
+                        {
+                            "code": "Q1",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "MARTINEZ RASOLOARINOV KENNETH"
+                                }
+                            ],
+                            "teacher": "VARGAS VALLEJOS LUZ VIRGINIA - MARTINEZ RASOLOARINOV KENNETH"
+                        },
+                        {
+                            "code": "Q2",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "620",
+                                    "isClass": false,
+                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                                }
+                            ],
+                            "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                        },
+                        {
+                            "code": "Q3",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "SHITIKOV GAGARINA GALINA"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "618",
+                                    "isClass": false,
+                                    "teacher": "PARISACA ALTAMIRANO JOSE FERNANDO"
+                                }
+                            ],
+                            "teacher": "SHITIKOV GAGARINA GALINA - PARISACA ALTAMIRANO JOSE FERNANDO"
+                        },
+                        {
+                            "code": "Q4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "621",
+                                    "isClass": false,
+                                    "teacher": "SHITIKOV GAGARINA GALINA"
+                                }
+                            ],
+                            "teacher": "SHITIKOV GAGARINA GALINA"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008019",
+                    "name": "ALGEBRA I",
+                    "groups": [
+                        {
+                            "code": "11",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "LEON ROMERO GUALBERTO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "642",
+                                    "isClass": true,
+                                    "teacher": "LEON ROMERO GUALBERTO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "693D",
+                                    "isClass": true,
+                                    "teacher": "LEON ROMERO GUALBERTO"
+                                }
+                            ],
+                            "teacher": "LEON ROMERO GUALBERTO"
+                        },
+                        {
+                            "code": "13",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "617C",
+                                    "isClass": false,
+                                    "teacher": "FLORES COCA DENNIS"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "693C",
+                                    "isClass": true,
+                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "693A",
+                                    "isClass": true,
+                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                }
+                            ],
+                            "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                        },
+                        {
+                            "code": "7",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": "PATINO TITO RONALD EDGAR"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": "PATINO TITO RONALD EDGAR"
+                                }
+                            ],
+                            "teacher": "PATINO TITO RONALD EDGAR"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008054",
+                    "name": "CALCULO I",
+                    "groups": [
+                        {
+                            "code": "13",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "652",
+                                    "isClass": false,
+                                    "teacher": "QUISPE CHOQUE VLADIMIR"
+                                },
+                                {
+                                    "day": "LU",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "ZURITA ORELLANA RIMER MAURICIO"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "625C",
+                                    "isClass": true,
+                                    "teacher": "ZURITA ORELLANA RIMER MAURICIO"
+                                }
+                            ],
+                            "teacher": "ZURITA ORELLANA RIMER MAURICIO"
+                        },
+                        {
+                            "code": "15",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "UREÑA PEREZ EDWIN CLAUDIO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": true,
+                                    "teacher": "UREÑA PEREZ EDWIN CLAUDIO"
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "693D",
+                                    "isClass": false,
+                                    "teacher": "IBARRA VAQUILLA OSMAR"
+                                }
+                            ],
+                            "teacher": "UREÑA PEREZ EDWIN CLAUDIO"
+                        },
+                        {
+                            "code": "19",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "661",
+                                    "isClass": true,
+                                    "teacher": "RELOS PACO SANTIAGO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": "RELOS PACO SANTIAGO"
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "692C",
+                                    "isClass": false,
+                                    "teacher": "FLORES COCA DENNIS"
+                                }
+                            ],
+                            "teacher": "RELOS PACO SANTIAGO"
+                        },
+                        {
+                            "code": "20",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "651",
+                                    "isClass": true,
+                                    "teacher": "RELOS PACO SANTIAGO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "661",
+                                    "isClass": true,
+                                    "teacher": "RELOS PACO SANTIAGO"
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "617B",
+                                    "isClass": false,
+                                    "teacher": "FLORES COCA DENNIS"
+                                }
+                            ],
+                            "teacher": "RELOS PACO SANTIAGO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "B",
+            "subjects": [
+                {
+                    "code": "2006019",
+                    "name": "FISICA BASICA II",
+                    "groups": [
+                        {
+                            "code": "I",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "693C",
+                                    "isClass": true,
+                                    "teacher": "VALENZUELA MIRANDA ROBERTO"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "691D",
+                                    "isClass": true,
+                                    "teacher": "VALENZUELA MIRANDA ROBERTO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "692E",
+                                    "isClass": true,
+                                    "teacher": "VALENZUELA MIRANDA ROBERTO"
+                                }
+                            ],
+                            "teacher": "VALENZUELA MIRANDA ROBERTO"
+                        },
+                        {
+                            "code": "I1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                                }
+                            ],
+                            "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                        },
+                        {
+                            "code": "I2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "PEREZ CESPEDES ROBERTO"
+                                }
+                            ],
+                            "teacher": "PEREZ CESPEDES ROBERTO"
+                        },
+                        {
+                            "code": "I3",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                                }
+                            ],
+                            "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                        },
+                        {
+                            "code": "I4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                                }
+                            ],
+                            "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                        },
+                        {
+                            "code": "J",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "691C",
+                                    "isClass": true,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "622",
+                                    "isClass": true,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                }
+                            ],
+                            "teacher": "MOREIRA CALIZAYA RENE"
+                        },
+                        {
+                            "code": "J1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                                }
+                            ],
+                            "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                        },
+                        {
+                            "code": "J2",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "TORRICO TROCHE MILKA MONICA"
+                                }
+                            ],
+                            "teacher": "TORRICO TROCHE MILKA MONICA"
+                        },
+                        {
+                            "code": "J3",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "PEREZ CESPEDES ROBERTO"
+                                }
+                            ],
+                            "teacher": "PEREZ CESPEDES ROBERTO"
+                        },
+                        {
+                            "code": "J4",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                                }
+                            ],
+                            "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL"
+                        },
+                        {
+                            "code": "K",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "642",
+                                    "isClass": true,
+                                    "teacher": "VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": "VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "624",
+                                    "isClass": true,
+                                    "teacher": "VILLARROEL GIL ARMANDO"
+                                }
+                            ],
+                            "teacher": "VILLARROEL GIL ARMANDO"
+                        },
+                        {
+                            "code": "K1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "LOPEZ ORDONEZ BENJAMIN"
+                                },
+                                {
+                                    "day": "LU",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "TORREZ PELAEZ RAUL WILDER"
+                                }
+                            ],
+                            "teacher": "LOPEZ ORDONEZ BENJAMIN - TORREZ PELAEZ RAUL WILDER"
+                        },
+                        {
+                            "code": "K2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "IQUIZE JAILLITA MARIELA"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "SHITIKOV GAGARINA GALINA"
+                                }
+                            ],
+                            "teacher": "IQUIZE JAILLITA MARIELA - SHITIKOV GAGARINA GALINA"
+                        },
+                        {
+                            "code": "K3",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "SALAZAR CLAROS SAUL"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "TORREZ PELAEZ RAUL WILDER"
+                                }
+                            ],
+                            "teacher": "SALAZAR CLAROS SAUL - TORREZ PELAEZ RAUL WILDER"
+                        },
+                        {
+                            "code": "K4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "VARGAS REINAGA JUAN CARLOS"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "CASIMIRO ICALLO ELVIS"
+                                }
+                            ],
+                            "teacher": "VARGAS REINAGA JUAN CARLOS - CASIMIRO ICALLO ELVIS"
+                        },
+                        {
+                            "code": "K5",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "LOPEZ ORDONEZ BENJAMIN"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "684L0",
+                                    "isClass": false,
+                                    "teacher": "VARGAS REINAGA JUAN CARLOS"
+                                }
+                            ],
+                            "teacher": "LOPEZ ORDONEZ BENJAMIN - VARGAS REINAGA JUAN CARLOS"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008022",
+                    "name": "ALGEBRA II",
+                    "groups": [
+                        {
+                            "code": "7",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "693D",
+                                    "isClass": false,
+                                    "teacher": "SERRANO MENA DIEGO LEONARDO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ RAMOS DAVID"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "693A",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ RAMOS DAVID"
+                                }
+                            ],
+                            "teacher": "FERNANDEZ RAMOS DAVID"
+                        },
+                        {
+                            "code": "7A",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "693B",
+                                    "isClass": true,
+                                    "teacher": "PEREZ FERREL ROBERTO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "691D",
+                                    "isClass": true,
+                                    "teacher": "PEREZ FERREL ROBERTO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": false,
+                                    "teacher": "SERRANO MENA DIEGO LEONARDO"
+                                }
+                            ],
+                            "teacher": "PEREZ FERREL ROBERTO"
+                        },
+                        {
+                            "code": "9",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": "SOTO MOREIRA JUAN CARLOS"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "692E",
+                                    "isClass": true,
+                                    "teacher": "SOTO MOREIRA JUAN CARLOS"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": false,
+                                    "teacher": "QUISPE MEDRANO REINALDO"
+                                }
+                            ],
+                            "teacher": "SOTO MOREIRA JUAN CARLOS"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008048",
+                    "name": "ESTADISTICA",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "642",
+                                    "isClass": true,
+                                    "teacher": "FERREIRA ESPINOZA ERNESTO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "FERREIRA ESPINOZA ERNESTO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "FERREIRA ESPINOZA ERNESTO"
+                                }
+                            ],
+                            "teacher": "FERREIRA ESPINOZA ERNESTO"
+                        },
+                        {
+                            "code": "2",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "690C",
+                                    "isClass": true,
+                                    "teacher": "TRUJILLO ARANIBAR WILSON ORLANDO"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "624",
+                                    "isClass": true,
+                                    "teacher": "TRUJILLO ARANIBAR WILSON ORLANDO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "625D",
+                                    "isClass": true,
+                                    "teacher": "TRUJILLO ARANIBAR WILSON ORLANDO"
+                                }
+                            ],
+                            "teacher": "TRUJILLO ARANIBAR WILSON ORLANDO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008056",
+                    "name": "CALCULO II",
+                    "groups": [
+                        {
+                            "code": "10",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "691A",
+                                    "isClass": true,
+                                    "teacher": "UREÑA PEREZ EDWIN CLAUDIO"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "692D",
+                                    "isClass": true,
+                                    "teacher": "UREÑA PEREZ EDWIN CLAUDIO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "UREÑA PEREZ EDWIN CLAUDIO"
+                                }
+                            ],
+                            "teacher": "UREÑA PEREZ EDWIN CLAUDIO"
+                        },
+                        {
+                            "code": "3",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "622",
+                                    "isClass": true,
+                                    "teacher": "SILVA RAMOS HERNAN VICTOR"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "623",
+                                    "isClass": true,
+                                    "teacher": "SILVA RAMOS HERNAN VICTOR"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": false,
+                                    "teacher": "SOSA MARZE DAVID SAUL"
+                                }
+                            ],
+                            "teacher": "SILVA RAMOS HERNAN VICTOR"
+                        },
+                        {
+                            "code": "8",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "623",
+                                    "isClass": true,
+                                    "teacher": "FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "622",
+                                    "isClass": true,
+                                    "teacher": "FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "691E",
+                                    "isClass": true,
+                                    "teacher": "FLORES GARCIA HERNAN"
+                                }
+                            ],
+                            "teacher": "FLORES GARCIA HERNAN"
+                        }
+                    ]
+                },
+                {
+                    "code": "2010008",
+                    "name": "COMPUTACION I",
+                    "groups": [
+                        {
+                            "code": "3",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "692F",
+                                    "isClass": false,
+                                    "teacher": "AUXILIAR POR DESIGNAR ."
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "625C",
+                                    "isClass": true,
+                                    "teacher": "VARGAS COLQUE AIDEE"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "691B",
+                                    "isClass": true,
+                                    "teacher": "VARGAS COLQUE AIDEE"
+                                }
+                            ],
+                            "teacher": "VARGAS COLQUE AIDEE"
+                        },
+                        {
+                            "code": "5",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "USTARIZ VARGAS HERNAN"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "USTARIZ VARGAS HERNAN"
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "607",
+                                    "isClass": false,
+                                    "teacher": "AUXILIAR POR DESIGNAR ."
+                                }
+                            ],
+                            "teacher": "USTARIZ VARGAS HERNAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "C",
+            "subjects": [
+                {
+                    "code": "2006020",
+                    "name": "FISICA BASICA III",
+                    "groups": [
+                        {
+                            "code": "G",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "617",
+                                    "isClass": true,
+                                    "teacher": "TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "693C",
+                                    "isClass": true,
+                                    "teacher": "TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "TORRICO TROCHE MILKA MONICA"
+                                }
+                            ],
+                            "teacher": "TORRICO TROCHE MILKA MONICA"
+                        },
+                        {
+                            "code": "G1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                                }
+                            ],
+                            "teacher": "CLAROS CRUZ LUIS GUALBERTO"
+                        },
+                        {
+                            "code": "G2",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "GUTIERREZ MARTINEZ VICTOR"
+                                }
+                            ],
+                            "teacher": "GUTIERREZ MARTINEZ VICTOR"
+                        },
+                        {
+                            "code": "G3",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "FLORES FLORES FREDDY"
+                                }
+                            ],
+                            "teacher": "FLORES FLORES FREDDY"
+                        },
+                        {
+                            "code": "G4",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "CUELLAR OLIVERA OSCAR"
+                                }
+                            ],
+                            "teacher": "CUELLAR OLIVERA OSCAR"
+                        },
+                        {
+                            "code": "H",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "693D",
+                                    "isClass": true,
+                                    "teacher": "VALENZUELA MIRANDA ROBERTO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "692D",
+                                    "isClass": true,
+                                    "teacher": "VALENZUELA MIRANDA ROBERTO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "693B",
+                                    "isClass": true,
+                                    "teacher": "VALENZUELA MIRANDA ROBERTO"
+                                }
+                            ],
+                            "teacher": "VALENZUELA MIRANDA ROBERTO"
+                        },
+                        {
+                            "code": "H1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "GUTIERREZ MARTINEZ VICTOR"
+                                }
+                            ],
+                            "teacher": "GUTIERREZ MARTINEZ VICTOR"
+                        },
+                        {
+                            "code": "H2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                                }
+                            ],
+                            "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                        },
+                        {
+                            "code": "H3",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "LOPEZ ORDONEZ BENJAMIN"
+                                }
+                            ],
+                            "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR - LOPEZ ORDONEZ BENJAMIN"
+                        },
+                        {
+                            "code": "H4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                }
+                            ],
+                            "teacher": "MOREIRA CALIZAYA RENE"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008058",
+                    "name": "ECUACIONES DIFERENCIALES",
+                    "groups": [
+                        {
+                            "code": "3",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "622",
+                                    "isClass": true,
+                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "624",
+                                    "isClass": true,
+                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "624",
+                                    "isClass": false,
+                                    "teacher": "ARIAS PORCO CRISTIAN"
+                                }
+                            ],
+                            "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                        },
+                        {
+                            "code": "5",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "612",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "617",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                }
+                            ],
+                            "teacher": ". POR DESIGNAR"
+                        }
+                    ]
+                },
+                {
+                    "code": "2016048",
+                    "name": "INVESTIGACION OPERATIVA I",
+                    "groups": [
+                        {
+                            "code": "3",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "682L8IN",
+                                    "isClass": true,
+                                    "teacher": "QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "682L8IN",
+                                    "isClass": true,
+                                    "teacher": "QUIROZ CHAVEZ ABDON"
+                                }
+                            ],
+                            "teacher": "QUIROZ CHAVEZ ABDON"
+                        }
+                    ]
+                },
+                {
+                    "code": "2018009",
+                    "name": "TERMODINAMICA",
+                    "groups": [
+                        {
+                            "code": "2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "693B",
+                                    "isClass": true,
+                                    "teacher": "BAUTISTA HERBAS TORIBIO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "661",
+                                    "isClass": true,
+                                    "teacher": "BAUTISTA HERBAS TORIBIO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "2015",
+                                    "end": "2145",
+                                    "duration": 2,
+                                    "room": "692E",
+                                    "isClass": true,
+                                    "teacher": "BAUTISTA HERBAS TORIBIO"
+                                }
+                            ],
+                            "teacher": "BAUTISTA HERBAS TORIBIO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2018015",
+                    "name": "DIBUJO TECNICO COMPUTARIZADO",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "692B",
+                                    "isClass": true,
+                                    "teacher": "SILVA CANO RODRIGO DIMAS"
+                                }
+                            ],
+                            "teacher": "SILVA CANO RODRIGO DIMAS"
+                        },
+                        {
+                            "code": "2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "691A",
+                                    "isClass": true,
+                                    "teacher": "HEREDIA LUIZAGA JHON EDSON"
+                                }
+                            ],
+                            "teacher": "HEREDIA LUIZAGA JHON EDSON"
+                        }
+                    ]
+                },
+                {
+                    "code": "2018135",
+                    "name": "MECANICA DE FLUIDOS",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "624",
+                                    "isClass": true,
+                                    "teacher": "COCA MENDEZ JUAN CARLOS"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "691A",
+                                    "isClass": true,
+                                    "teacher": "COCA MENDEZ JUAN CARLOS"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "691B",
+                                    "isClass": true,
+                                    "teacher": "COCA MENDEZ JUAN CARLOS"
+                                }
+                            ],
+                            "teacher": "COCA MENDEZ JUAN CARLOS"
+                        },
+                        {
+                            "code": "2",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "692A",
+                                    "isClass": true,
+                                    "teacher": "PONCE DE LEON MAURICIO LUIS"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1715",
+                                    "end": "1845",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": "PONCE DE LEON MAURICIO LUIS"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "PONCE DE LEON MAURICIO LUIS"
+                                }
+                            ],
+                            "teacher": "PONCE DE LEON MAURICIO LUIS"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "semester": "1/2024",
+    "name": "PROGRAMA LIC. EN INGENIERIA EN ENERGIA"
+}
