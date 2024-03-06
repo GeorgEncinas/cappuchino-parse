@@ -65,10 +65,7 @@ const fs=require('fs'),
             headers.push('teacher');
         }
     },{
-        regex:/^Carrera: *$/,
-        parse:(result)=>{
-            nextCareer=true;
-        }
+        regex:/^Carrera: *$/
     },{
         /* career */
         regex:/^Carrera: *([A-Z .\(\)]+)$/,
@@ -80,24 +77,16 @@ const fs=require('fs'),
     },{
         regex:/(LICENCIATURA .*)/,
         parse:(result)=>{
-            if(nextCareer){
-                nextCarrer=false;
-
-                json.name=result[0]
-                .replace(/\s+/g, ' ')
-                .trim();
-            }
+            json.name=result[0]
+            .replace(/\s+/g, ' ')
+            .trim();
         }
     },{
         regex:/(PROGRAMA .*)/,
         parse:(result)=>{
-            if(nextCareer){
-                nextCarrer=false;
-
-                json.name=result[0]
-                .replace(/\s+/g, ' ')
-                .trim();
-            }
+            json.name=result[0]
+            .replace(/\s+/g, ' ')
+            .trim();
         }
     },{
         /* day */
@@ -268,7 +257,7 @@ const fs=require('fs'),
         }
     },{
         /* subject;teacher */
-        regex:/([A-ZÑ \.]*)/,
+        regex:/([A-ZÑ\(\) \.]*)/,
         parse:(result)=>{
             switch(headers[column]){
                 case 'subject':
@@ -322,7 +311,6 @@ const fs=require('fs'),
 let headers=[],
     column=0,
     row=0,
-    nextCareer=false,
     indexLevel=-1,
     hasCodeSubject=false,
     indexSubject=-1,
