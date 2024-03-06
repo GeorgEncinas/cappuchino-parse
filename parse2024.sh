@@ -3,6 +3,8 @@ node get2 2024-01
 
 # first add md5 sum for invalid pdf
 node parse2024.js 409701
+node parse2024.js 399501
+node parse2024.js 165221
 node parse2024.js 320902
 node parse2024.js 299701
 node parse2024.js 650001

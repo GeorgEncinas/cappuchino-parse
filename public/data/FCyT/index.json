@@ -1,5 +1,13 @@
 [
     {
+        "code": "399501",
+        "name": "LICENCIATURA EN BIOLOGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2024",
+        "support": "@georg",
+        "path": "2024-01"
+    },
+    {
         "code": "760101",
         "name": "LICENCIATURA EN DIDACTICA DE LA FISICA",
         "madeIn": "SCESI UMSS",
@@ -122,6 +130,14 @@
     {
         "code": "389701",
         "name": "LICENCIATURA EN QUIMICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2024",
+        "support": "@georg",
+        "path": "2024-01"
+    },
+    {
+        "code": "165221",
+        "name": "PROG DE LIC. EN INGENIERIA EN BIOTECNOLOGIA",
         "madeIn": "SCESI UMSS",
         "semester": "1/2024",
         "support": "@georg",

@@ -66,7 +66,7 @@
                                     "start": "645",
                                     "end": "815",
                                     "duration": 2,
-                                    "room": "681B",
+                                    "room": "690E",
                                     "isClass": true,
                                     "teacher": "PEETERS ILONAA MAGDA LENA"
                                 },
@@ -81,6 +81,30 @@
                                 }
                             ],
                             "teacher": "PEETERS ILONAA MAGDA LENA"
+                        },
+                        {
+                            "code": "4",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "692G",
+                                    "isClass": true,
+                                    "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "692E",
+                                    "isClass": true,
+                                    "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+                                }
+                            ],
+                            "teacher": "GRILO SALVATIERRA MARIA ESTELA"
                         },
                         {
                             "code": "5",
@@ -170,10 +194,10 @@
                                     "duration": 2,
                                     "room": "620",
                                     "isClass": false,
-                                    "teacher": "GUZMAN SAAVEDRA ROCIO"
+                                    "teacher": "RUIZ UCUMARI IVAN"
                                 }
                             ],
-                            "teacher": "GUZMAN SAAVEDRA ROCIO"
+                            "teacher": "RUIZ UCUMARI IVAN"
                         },
                         {
                             "code": "B3",
@@ -200,10 +224,10 @@
                                     "duration": 2,
                                     "room": "621",
                                     "isClass": false,
-                                    "teacher": "GUZMAN SAAVEDRA ROCIO"
+                                    "teacher": "RUIZ UCUMARI IVAN"
                                 }
                             ],
-                            "teacher": "GUZMAN SAAVEDRA ROCIO"
+                            "teacher": "RUIZ UCUMARI IVAN"
                         },
                         {
                             "code": "B5",
@@ -701,7 +725,7 @@
                                     "start": "945",
                                     "end": "1115",
                                     "duration": 2,
-                                    "room": "644",
+                                    "room": "691B",
                                     "isClass": true,
                                     "teacher": "PEETERS ILONAA MAGDA LENA"
                                 },
@@ -758,7 +782,7 @@
                                     "start": "645",
                                     "end": "815",
                                     "duration": 2,
-                                    "room": "652D",
+                                    "room": "692H",
                                     "isClass": true,
                                     "teacher": "PEETERS ILONAA MAGDA LENA"
                                 }
@@ -1052,6 +1076,15 @@
                             "schedule": [
                                 {
                                     "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "INFLAB",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ GUZMAN HELDER OCTAVIO"
+                                },
+                                {
+                                    "day": "LU",
                                     "start": "1245",
                                     "end": "1415",
                                     "duration": 2,
@@ -1061,19 +1094,10 @@
                                 },
                                 {
                                     "day": "MA",
-                                    "start": "1415",
-                                    "end": "1545",
+                                    "start": "645",
+                                    "end": "815",
                                     "duration": 2,
-                                    "room": "607",
-                                    "isClass": true,
-                                    "teacher": "FERNANDEZ GUZMAN HELDER OCTAVIO"
-                                },
-                                {
-                                    "day": "JU",
-                                    "start": "1415",
-                                    "end": "1545",
-                                    "duration": 2,
-                                    "room": "693D",
+                                    "room": "INFLAB",
                                     "isClass": true,
                                     "teacher": "FERNANDEZ GUZMAN HELDER OCTAVIO"
                                 }
@@ -1103,7 +1127,7 @@
                                     "start": "1115",
                                     "end": "1245",
                                     "duration": 2,
-                                    "room": "690D",
+                                    "room": "625C",
                                     "isClass": true,
                                     "teacher": "ACHA PEREZ SAMUEL"
                                 }
@@ -1145,10 +1169,10 @@
                             "schedule": [
                                 {
                                     "day": "LU",
-                                    "start": "945",
-                                    "end": "1115",
+                                    "start": "1115",
+                                    "end": "1245",
                                     "duration": 2,
-                                    "room": "INFLAB",
+                                    "room": "690B",
                                     "isClass": true,
                                     "teacher": "TORRICO BASCOPE ROSEMARY"
                                 },
@@ -1960,11 +1984,11 @@
                                     "teacher": "ORELLANA ARAOZ JORGE WALTER"
                                 },
                                 {
-                                    "day": "MI",
+                                    "day": "JU",
                                     "start": "815",
                                     "end": "945",
                                     "duration": 2,
-                                    "room": "625C",
+                                    "room": "INFLAB",
                                     "isClass": true,
                                     "teacher": "ORELLANA ARAOZ JORGE WALTER"
                                 },
@@ -2078,7 +2102,7 @@
                                     "start": "945",
                                     "end": "1115",
                                     "duration": 2,
-                                    "room": "690D",
+                                    "room": "690E",
                                     "isClass": true,
                                     "teacher": "JALDIN ROSALES K. ROLANDO"
                                 }
@@ -3052,7 +3076,7 @@
                                     "start": "1415",
                                     "end": "1545",
                                     "duration": 2,
-                                    "room": "INFLAB",
+                                    "room": "660",
                                     "isClass": true,
                                     "teacher": "COSTAS JAUREGUI VLADIMIR ABEL"
                                 },

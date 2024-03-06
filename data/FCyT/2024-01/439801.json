@@ -249,18 +249,9 @@
                                 {
                                     "day": "VI",
                                     "start": "815",
-                                    "end": "900",
-                                    "duration": 1,
-                                    "room": "690D",
-                                    "isClass": true,
-                                    "teacher": "CLAURE RICHARD PATRICIA ANGELICA"
-                                },
-                                {
-                                    "day": "VI",
-                                    "start": "900",
                                     "end": "945",
-                                    "duration": 1,
-                                    "room": "691D",
+                                    "duration": 2,
+                                    "room": "690D",
                                     "isClass": true,
                                     "teacher": "CLAURE RICHARD PATRICIA ANGELICA"
                                 }
@@ -778,7 +769,7 @@
                                     "duration": 2,
                                     "room": "690MAT",
                                     "isClass": true,
-                                    "teacher": "MULLER SANTA CRUZ HANS CRISTIAN"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "MI",
@@ -787,7 +778,7 @@
                                     "duration": 2,
                                     "room": "652",
                                     "isClass": true,
-                                    "teacher": "MULLER SANTA CRUZ HANS CRISTIAN"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "JU",
@@ -796,10 +787,10 @@
                                     "duration": 2,
                                     "room": "617B",
                                     "isClass": true,
-                                    "teacher": "MULLER SANTA CRUZ HANS CRISTIAN"
+                                    "teacher": ". POR DESIGNAR"
                                 }
                             ],
-                            "teacher": "MULLER SANTA CRUZ HANS CRISTIAN"
+                            "teacher": ". POR DESIGNAR"
                         }
                     ]
                 },
@@ -855,34 +846,34 @@
                             "code": "1",
                             "schedule": [
                                 {
-                                    "day": "LU",
-                                    "start": "1545",
-                                    "end": "1715",
-                                    "duration": 2,
-                                    "room": "LABMAT",
-                                    "isClass": true,
-                                    "teacher": "GONZALES CASTELLON CARLOS ESTEBAN"
-                                },
-                                {
                                     "day": "MA",
                                     "start": "1545",
                                     "end": "1715",
                                     "duration": 2,
                                     "room": "LABMAT",
                                     "isClass": true,
-                                    "teacher": "GONZALES CASTELLON CARLOS ESTEBAN"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
-                                    "day": "JU",
-                                    "start": "1415",
-                                    "end": "1545",
+                                    "day": "MI",
+                                    "start": "1115",
+                                    "end": "1245",
                                     "duration": 2,
                                     "room": "690MAT",
                                     "isClass": true,
-                                    "teacher": "GONZALES CASTELLON CARLOS ESTEBAN"
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "690MAT",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
                                 }
                             ],
-                            "teacher": "GONZALES CASTELLON CARLOS ESTEBAN"
+                            "teacher": ". POR DESIGNAR"
                         }
                     ]
                 },
@@ -933,20 +924,20 @@
                             "code": "1",
                             "schedule": [
                                 {
-                                    "day": "MI",
-                                    "start": "1715",
-                                    "end": "1845",
+                                    "day": "VI",
+                                    "start": "945",
+                                    "end": "1115",
                                     "duration": 2,
                                     "room": "LABMAT",
                                     "isClass": true,
                                     "teacher": "CARRASCO CALVO ALVARO HERNANDO"
                                 },
                                 {
-                                    "day": "VI",
-                                    "start": "945",
-                                    "end": "1115",
+                                    "day": "SA",
+                                    "start": "815",
+                                    "end": "945",
                                     "duration": 2,
-                                    "room": "LABMAT",
+                                    "room": "690D",
                                     "isClass": true,
                                     "teacher": "CARRASCO CALVO ALVARO HERNANDO"
                                 }

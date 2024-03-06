@@ -77,7 +77,7 @@
                                     "duration": 2,
                                     "room": "621",
                                     "isClass": false,
-                                    "teacher": "UGARTE CEJAS FELIX"
+                                    "teacher": "CASIMIRO ICALLO ELVIS"
                                 },
                                 {
                                     "day": "JU",
@@ -86,10 +86,10 @@
                                     "duration": 2,
                                     "room": "621",
                                     "isClass": false,
-                                    "teacher": "CASIMIRO ICALLO ELVIS"
+                                    "teacher": "UGARTE CEJAS FELIX"
                                 }
                             ],
-                            "teacher": "UGARTE CEJAS FELIX - CASIMIRO ICALLO ELVIS"
+                            "teacher": "CASIMIRO ICALLO ELVIS - UGARTE CEJAS FELIX"
                         },
                         {
                             "code": "E3",
@@ -416,7 +416,7 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
                                 },
                                 {
                                     "day": "LU",
@@ -425,10 +425,10 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
                                 }
                             ],
-                            "teacher": "VARGAS VALLEJOS LUZ VIRGINIA - HEREDIA GUTIERREZ MARIA FERNANDA"
+                            "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA - VARGAS VALLEJOS LUZ VIRGINIA"
                         }
                     ]
                 },
@@ -916,10 +916,10 @@
                                     "duration": 2,
                                     "room": "684L8",
                                     "isClass": false,
-                                    "teacher": "AGREDA CORRALES LUIS ROBERTO"
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
                                 }
                             ],
-                            "teacher": "AGREDA CORRALES LUIS ROBERTO"
+                            "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
                         },
                         {
                             "code": "D",
@@ -1064,7 +1064,7 @@
                                     "start": "945",
                                     "end": "1115",
                                     "duration": 2,
-                                    "room": "691C",
+                                    "room": "692D",
                                     "isClass": true,
                                     "teacher": "GUILLEN SALVADOR ROXANA"
                                 },
@@ -1662,7 +1662,7 @@
                                     "duration": 2,
                                     "room": "622",
                                     "isClass": true,
-                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "VI",
@@ -1671,7 +1671,7 @@
                                     "duration": 2,
                                     "room": "624",
                                     "isClass": true,
-                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "VI",
@@ -1683,7 +1683,7 @@
                                     "teacher": "ARIAS PORCO CRISTIAN"
                                 }
                             ],
-                            "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                            "teacher": ". POR DESIGNAR"
                         },
                         {
                             "code": "5",
@@ -2126,7 +2126,7 @@
                                     "duration": 2,
                                     "room": "623",
                                     "isClass": true,
-                                    "teacher": "CORDERO PAREJA RONALD"
+                                    "teacher": "ARISPE SANTANDER ALBERTO CARLOS"
                                 },
                                 {
                                     "day": "LU",
@@ -2135,7 +2135,7 @@
                                     "duration": 4,
                                     "room": "671A",
                                     "isClass": false,
-                                    "teacher": "TANCARA SANDAGORDA JOSE FELIX"
+                                    "teacher": "ARISPE SANTANDER ALBERTO CARLOS"
                                 },
                                 {
                                     "day": "MA",
@@ -2144,7 +2144,7 @@
                                     "duration": 2,
                                     "room": "691E",
                                     "isClass": true,
-                                    "teacher": "CORDERO PAREJA RONALD"
+                                    "teacher": "ARISPE SANTANDER ALBERTO CARLOS"
                                 },
                                 {
                                     "day": "MI",
@@ -2153,7 +2153,7 @@
                                     "duration": 2,
                                     "room": "651",
                                     "isClass": true,
-                                    "teacher": "CORDERO PAREJA RONALD"
+                                    "teacher": "ARISPE SANTANDER ALBERTO CARLOS"
                                 },
                                 {
                                     "day": "JU",
@@ -2165,7 +2165,7 @@
                                     "teacher": "ZAMBRANA CONTRERAS KIMBERLY"
                                 }
                             ],
-                            "teacher": "CORDERO PAREJA RONALD"
+                            "teacher": "ARISPE SANTANDER ALBERTO CARLOS"
                         }
                     ]
                 },
@@ -2764,7 +2764,7 @@
                                     "start": "1415",
                                     "end": "1545",
                                     "duration": 2,
-                                    "room": "660",
+                                    "room": "617C",
                                     "isClass": true,
                                     "teacher": "URRUTIA MEDRANO JOSE A."
                                 },
@@ -3468,10 +3468,10 @@
                                     "duration": 2,
                                     "room": "690B",
                                     "isClass": true,
-                                    "teacher": "ALCOCER GARNICA RICHARD CESAR"
+                                    "teacher": ". POR DESIGNAR"
                                 }
                             ],
-                            "teacher": "ALCOCER GARNICA RICHARD CESAR"
+                            "teacher": ". POR DESIGNAR"
                         },
                         {
                             "code": "8",

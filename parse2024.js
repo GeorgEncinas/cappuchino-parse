@@ -89,6 +89,17 @@ const fs=require('fs'),
             }
         }
     },{
+        regex:/(PROGRAMA .*)/,
+        parse:(result)=>{
+            if(nextCareer){
+                nextCarrer=false;
+
+                json.name=result[0]
+                .replace(/\s+/g, ' ')
+                .trim();
+            }
+        }
+    },{
         /* day */
         regex:/^(LU|MA|MI|JU|VI|SA)$/,
         parse:(result)=>{
@@ -331,10 +342,11 @@ pdfText(pathPDF,(error,chunks)=>{
         .some((item)=>{
             if(item.regex.test(line)){
                 /*console.log(
-                    '----> [%s] [%s]',
+                    '1 --> [%s]\t[%s]',
                     item.regex,
                     line
                 );*/
+
                 if(item.parse){
                     item.parse(item.regex.exec(line));
                 }

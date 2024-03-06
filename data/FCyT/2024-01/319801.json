@@ -18,7 +18,7 @@
                                     "start": "645",
                                     "end": "815",
                                     "duration": 2,
-                                    "room": "681L7",
+                                    "room": "622",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 },
@@ -978,7 +978,7 @@
                                     "start": "1245",
                                     "end": "1415",
                                     "duration": 2,
-                                    "room": "691A",
+                                    "room": "625D",
                                     "isClass": true,
                                     "teacher": "HEREDIA LUIZAGA JHON EDSON"
                                 }
@@ -1403,7 +1403,7 @@
                                     "start": "1845",
                                     "end": "2015",
                                     "duration": 2,
-                                    "room": "660",
+                                    "room": "693A",
                                     "isClass": true,
                                     "teacher": "FERNANDEZ RAMOS DAVID"
                                 },
@@ -1986,7 +1986,7 @@
                                     "duration": 2,
                                     "room": "622",
                                     "isClass": true,
-                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "VI",
@@ -1995,7 +1995,7 @@
                                     "duration": 2,
                                     "room": "624",
                                     "isClass": true,
-                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "VI",
@@ -2007,7 +2007,7 @@
                                     "teacher": "ARIAS PORCO CRISTIAN"
                                 }
                             ],
-                            "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                            "teacher": ". POR DESIGNAR"
                         },
                         {
                             "code": "5",
@@ -2420,7 +2420,7 @@
                                     "duration": 2,
                                     "room": "691E",
                                     "isClass": true,
-                                    "teacher": "CAMACHO VIDAL DAVID"
+                                    "teacher": "FLORES GARCIA HERNAN"
                                 },
                                 {
                                     "day": "MI",
@@ -2429,19 +2429,19 @@
                                     "duration": 2,
                                     "room": "692E",
                                     "isClass": true,
-                                    "teacher": "CAMACHO VIDAL DAVID"
+                                    "teacher": "FLORES GARCIA HERNAN"
                                 },
                                 {
                                     "day": "JU",
-                                    "start": "2015",
-                                    "end": "2145",
+                                    "start": "945",
+                                    "end": "1115",
                                     "duration": 2,
-                                    "room": "691E",
+                                    "room": "693A",
                                     "isClass": true,
-                                    "teacher": "CAMACHO VIDAL DAVID"
+                                    "teacher": "FLORES GARCIA HERNAN"
                                 }
                             ],
-                            "teacher": "CAMACHO VIDAL DAVID"
+                            "teacher": "FLORES GARCIA HERNAN"
                         }
                     ]
                 },
@@ -2969,20 +2969,20 @@
                                 {
                                     "day": "LU",
                                     "start": "1415",
-                                    "end": "1630",
-                                    "duration": 3,
-                                    "room": "682L3",
-                                    "isClass": false,
-                                    "teacher": "ACHA PEREZ SAMUEL"
-                                },
-                                {
-                                    "day": "LU",
-                                    "start": "1415",
                                     "end": "1545",
                                     "duration": 2,
                                     "room": "690B",
                                     "isClass": true,
                                     "teacher": "CASTILLO ZEGARRA JUAN CARLOS"
+                                },
+                                {
+                                    "day": "LU",
+                                    "start": "1415",
+                                    "end": "1630",
+                                    "duration": 3,
+                                    "room": "682L3",
+                                    "isClass": false,
+                                    "teacher": "ACHA PEREZ SAMUEL"
                                 },
                                 {
                                     "day": "MA",
@@ -3106,10 +3106,10 @@
                                 },
                                 {
                                     "day": "MA",
-                                    "start": "815",
-                                    "end": "945",
+                                    "start": "1245",
+                                    "end": "1415",
                                     "duration": 2,
-                                    "room": "693B",
+                                    "room": "642",
                                     "isClass": true,
                                     "teacher": "MONTANO ANAYA FRANCISCO"
                                 },
@@ -3599,10 +3599,10 @@
                                 },
                                 {
                                     "day": "VI",
-                                    "start": "1545",
-                                    "end": "1800",
+                                    "start": "1845",
+                                    "end": "2100",
                                     "duration": 3,
-                                    "room": "692G",
+                                    "room": "652",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 }
@@ -3859,19 +3859,19 @@
                             "schedule": [
                                 {
                                     "day": "LU",
-                                    "start": "1845",
-                                    "end": "2015",
-                                    "duration": 2,
-                                    "room": "693A",
+                                    "start": "900",
+                                    "end": "1115",
+                                    "duration": 3,
+                                    "room": "617",
                                     "isClass": true,
                                     "teacher": "LANGE GONZALES WILHELM EDUARDO"
                                 },
                                 {
-                                    "day": "VI",
-                                    "start": "1845",
-                                    "end": "2100",
-                                    "duration": 3,
-                                    "room": "617",
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "617C",
                                     "isClass": true,
                                     "teacher": "LANGE GONZALES WILHELM EDUARDO"
                                 }

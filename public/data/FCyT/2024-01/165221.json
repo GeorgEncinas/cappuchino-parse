@@ -1,0 +1,767 @@
+{
+    "madeIn": "SCESI UMSS",
+    "support": "@georg",
+    "code": "165221",
+    "levels": [
+        {
+            "code": "A",
+            "subjects": [
+                {
+                    "code": "2002004",
+                    "name": "BIOLOGIA GENERAL",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1200",
+                                    "end": "1415",
+                                    "duration": 3,
+                                    "room": "608A",
+                                    "isClass": false,
+                                    "teacher": "FERNANDEZ TERRAZAS ERIKA"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1030",
+                                    "end": "1200",
+                                    "duration": 2,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ TERRAZAS ERIKA"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1200",
+                                    "end": "1415",
+                                    "duration": 3,
+                                    "room": "608A",
+                                    "isClass": false,
+                                    "teacher": "FERNANDEZ TERRAZAS ERIKA"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "1030",
+                                    "duration": 3,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ TERRAZAS ERIKA"
+                                }
+                            ],
+                            "teacher": "FERNANDEZ TERRAZAS ERIKA"
+                        }
+                    ]
+                },
+                {
+                    "code": "2002601",
+                    "name": "TALLER DE REDACCION Y COMUNICACION",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "CARVAJAL VALLEJOS FERNANDO MARCELO"
+                                }
+                            ],
+                            "teacher": "CARVAJAL VALLEJOS FERNANDO MARCELO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004163",
+                    "name": "QUIMICA GENERAL",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "815",
+                                    "end": "1030",
+                                    "duration": 3,
+                                    "room": "614",
+                                    "isClass": false,
+                                    "teacher": "ALFARO DENUS GONZALO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1200",
+                                    "duration": 3,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "ROJAS CESPEDES JENNY"
+                                }
+                            ],
+                            "teacher": "ROJAS CESPEDES JENNY"
+                        }
+                    ]
+                },
+                {
+                    "code": "2006063",
+                    "name": "FISICA GENERAL",
+                    "groups": [
+                        {
+                            "code": "A",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "625D",
+                                    "isClass": true,
+                                    "teacher": "CASTRO LAZARTE CECILIA BEATRIZ"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "617B",
+                                    "isClass": true,
+                                    "teacher": "CASTRO LAZARTE CECILIA BEATRIZ"
+                                }
+                            ],
+                            "teacher": "CASTRO LAZARTE CECILIA BEATRIZ"
+                        },
+                        {
+                            "code": "A1",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "620",
+                                    "isClass": false,
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                                }
+                            ],
+                            "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                        },
+                        {
+                            "code": "A2",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "620",
+                                    "isClass": false,
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                                }
+                            ],
+                            "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008159",
+                    "name": "ALGEBRA",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "TAYLOR TERRAZAS DARLONG HOWARD"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "TAYLOR TERRAZAS DARLONG HOWARD"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "TAYLOR TERRAZAS DARLONG HOWARD"
+                                }
+                            ],
+                            "teacher": "TAYLOR TERRAZAS DARLONG HOWARD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "B",
+            "subjects": [
+                {
+                    "code": "2002005",
+                    "name": "BIOLOGIA CELULAR Y MOLECULAR",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1415",
+                                    "end": "1630",
+                                    "duration": 3,
+                                    "room": "609A",
+                                    "isClass": true,
+                                    "teacher": "GARCIA ORELLANA ANA LINETH"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "1030",
+                                    "duration": 3,
+                                    "room": "608B",
+                                    "isClass": true,
+                                    "teacher": "GARCIA ORELLANA ANA LINETH"
+                                }
+                            ],
+                            "teacher": "GARCIA ORELLANA ANA LINETH"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004012",
+                    "name": "LABORATORIO DE QUIMICA ORGANICA",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1415",
+                                    "end": "1845",
+                                    "duration": 6,
+                                    "room": "615",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "LU",
+                                    "start": "1415",
+                                    "end": "1800",
+                                    "duration": 5,
+                                    "room": "615",
+                                    "isClass": false,
+                                    "teacher": "SOTO GONZALES IVAN ISRAEL"
+                                }
+                            ],
+                            "teacher": ". POR DESIGNAR"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004044",
+                    "name": "FISICOQUIMICA",
+                    "groups": [
+                        {
+                            "code": "3",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "693B",
+                                    "isClass": true,
+                                    "teacher": "ARCE GARCIA OMAR ORLANDO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "623",
+                                    "isClass": true,
+                                    "teacher": "ARCE GARCIA OMAR ORLANDO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "623",
+                                    "isClass": true,
+                                    "teacher": "ARCE GARCIA OMAR ORLANDO"
+                                }
+                            ],
+                            "teacher": "ARCE GARCIA OMAR ORLANDO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004053",
+                    "name": "QUIMICA ORGANICA",
+                    "groups": [
+                        {
+                            "code": "2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "692H",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "691C",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "660",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                }
+                            ],
+                            "teacher": ". POR DESIGNAR"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008054",
+                    "name": "CALCULO I",
+                    "groups": [
+                        {
+                            "code": "11",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "622",
+                                    "isClass": true,
+                                    "teacher": "ROJAS ZURITA RAMIRO"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "690B",
+                                    "isClass": true,
+                                    "teacher": "ROJAS ZURITA RAMIRO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "692E",
+                                    "isClass": true,
+                                    "teacher": "ROJAS ZURITA RAMIRO"
+                                }
+                            ],
+                            "teacher": "ROJAS ZURITA RAMIRO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008161",
+                    "name": "BIOESTADISTICA",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "617C",
+                                    "isClass": true,
+                                    "teacher": "OMONTE OJALVO JOSE ROBERTO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "652",
+                                    "isClass": true,
+                                    "teacher": "OMONTE OJALVO JOSE ROBERTO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "690B",
+                                    "isClass": true,
+                                    "teacher": "OMONTE OJALVO JOSE ROBERTO"
+                                }
+                            ],
+                            "teacher": "OMONTE OJALVO JOSE ROBERTO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "C",
+            "subjects": [
+                {
+                    "code": "2002019",
+                    "name": "GENETICA I",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "608",
+                                    "isClass": true,
+                                    "teacher": "AVILA LARA ALFREDO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "815",
+                                    "end": "945",
+                                    "duration": 2,
+                                    "room": "608",
+                                    "isClass": true,
+                                    "teacher": "AVILA LARA ALFREDO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1630",
+                                    "end": "1800",
+                                    "duration": 2,
+                                    "room": "608",
+                                    "isClass": true,
+                                    "teacher": "AVILA LARA ALFREDO"
+                                }
+                            ],
+                            "teacher": "AVILA LARA ALFREDO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2002024",
+                    "name": "BACTERIOLOGIA",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "JU",
+                                    "start": "945",
+                                    "end": "1200",
+                                    "duration": 3,
+                                    "room": "MICBIO",
+                                    "isClass": true,
+                                    "teacher": "IRIARTE PUÑA MERCEDES"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "1030",
+                                    "duration": 3,
+                                    "room": "606",
+                                    "isClass": true,
+                                    "teacher": "IRIARTE PUÑA MERCEDES"
+                                }
+                            ],
+                            "teacher": "IRIARTE PUÑA MERCEDES"
+                        }
+                    ]
+                },
+                {
+                    "code": "2002038",
+                    "name": "BIOESTADISTICA II",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "1200",
+                                    "end": "1415",
+                                    "duration": 3,
+                                    "room": "608B",
+                                    "isClass": true,
+                                    "teacher": "PEREZ ZUBIETA JOSE CARLOS"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1200",
+                                    "end": "1415",
+                                    "duration": 3,
+                                    "room": "606",
+                                    "isClass": true,
+                                    "teacher": "PEREZ ZUBIETA JOSE CARLOS"
+                                }
+                            ],
+                            "teacher": "PEREZ ZUBIETA JOSE CARLOS"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004056",
+                    "name": "QUIMICA ORGANICA II",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "683B",
+                                    "isClass": true,
+                                    "teacher": "ADRIAZOLA MURIEL ABDIEL"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "661",
+                                    "isClass": true,
+                                    "teacher": "ADRIAZOLA MURIEL ABDIEL"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1115",
+                                    "end": "1245",
+                                    "duration": 2,
+                                    "room": "691F",
+                                    "isClass": true,
+                                    "teacher": "ADRIAZOLA MURIEL ABDIEL"
+                                }
+                            ],
+                            "teacher": "ADRIAZOLA MURIEL ABDIEL"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004145",
+                    "name": "LABORATORIO DE QUIMICA ORGANICA II",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1115",
+                                    "end": "1545",
+                                    "duration": 6,
+                                    "room": "615",
+                                    "isClass": true,
+                                    "teacher": "MERIDA LOPEZ JENNY"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1115",
+                                    "end": "1500",
+                                    "duration": 5,
+                                    "room": "615",
+                                    "isClass": false,
+                                    "teacher": "AUXILIAR POR DESIGNAR ."
+                                }
+                            ],
+                            "teacher": "MERIDA LOPEZ JENNY"
+                        },
+                        {
+                            "code": "2",
+                            "schedule": [
+                                {
+                                    "day": "SA",
+                                    "start": "815",
+                                    "end": "1200",
+                                    "duration": 5,
+                                    "room": "615",
+                                    "isClass": false,
+                                    "teacher": "SOTO GONZALES IVAN ISRAEL"
+                                },
+                                {
+                                    "day": "SA",
+                                    "start": "815",
+                                    "end": "1245",
+                                    "duration": 6,
+                                    "room": "615",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                }
+                            ],
+                            "teacher": ". POR DESIGNAR"
+                        },
+                        {
+                            "code": "3",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1845",
+                                    "duration": 6,
+                                    "room": "615",
+                                    "isClass": true,
+                                    "teacher": "DAVILA CABRERA MARCELO ARMANDO"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1800",
+                                    "duration": 5,
+                                    "room": "615",
+                                    "isClass": false,
+                                    "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH"
+                                }
+                            ],
+                            "teacher": "DAVILA CABRERA MARCELO ARMANDO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2008056",
+                    "name": "CALCULO II",
+                    "groups": [
+                        {
+                            "code": "8",
+                            "schedule": [
+                                {
+                                    "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "623",
+                                    "isClass": true,
+                                    "teacher": "FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "622",
+                                    "isClass": true,
+                                    "teacher": "FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "691E",
+                                    "isClass": true,
+                                    "teacher": "FLORES GARCIA HERNAN"
+                                }
+                            ],
+                            "teacher": "FLORES GARCIA HERNAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "D",
+            "subjects": [
+                {
+                    "code": "2002062",
+                    "name": "GENETICA DE MICROORGANISMOS",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MI",
+                                    "start": "1415",
+                                    "end": "1630",
+                                    "duration": 3,
+                                    "room": "608A",
+                                    "isClass": true,
+                                    "teacher": "USTARIZ OLIVERA KARINA ROSSIO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "1415",
+                                    "end": "1630",
+                                    "duration": 3,
+                                    "room": "690A",
+                                    "isClass": true,
+                                    "teacher": "USTARIZ OLIVERA KARINA ROSSIO"
+                                }
+                            ],
+                            "teacher": "USTARIZ OLIVERA KARINA ROSSIO"
+                        }
+                    ]
+                },
+                {
+                    "code": "2004061",
+                    "name": "QUIMICA ANALITICA",
+                    "groups": [
+                        {
+                            "code": "2",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "692C",
+                                    "isClass": true,
+                                    "teacher": "ESCALERA MEJIA EDWIN"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1245",
+                                    "end": "1415",
+                                    "duration": 2,
+                                    "room": "691A",
+                                    "isClass": true,
+                                    "teacher": "ESCALERA MEJIA EDWIN"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "692F",
+                                    "isClass": true,
+                                    "teacher": "ESCALERA MEJIA EDWIN"
+                                }
+                            ],
+                            "teacher": "ESCALERA MEJIA EDWIN"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "semester": "1/2024",
+    "name": "PROGRAMA DE INGENIERIA EN BIOTECNOLOGIA"
+}
