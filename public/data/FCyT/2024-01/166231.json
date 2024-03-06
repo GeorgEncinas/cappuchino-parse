@@ -48,7 +48,7 @@
                                     "start": "645",
                                     "end": "815",
                                     "duration": 2,
-                                    "room": "681L7",
+                                    "room": "622",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 },
@@ -188,7 +188,7 @@
                                     "duration": 2,
                                     "room": "621",
                                     "isClass": false,
-                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
+                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
                                 },
                                 {
                                     "day": "LU",
@@ -197,10 +197,10 @@
                                     "duration": 2,
                                     "room": "621",
                                     "isClass": false,
-                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
+                                    "teacher": "LUCANO LUCANO MARCELO JAVIER"
                                 }
                             ],
-                            "teacher": "LUCANO LUCANO MARCELO JAVIER - HEREDIA GUTIERREZ MARIA FERNANDA"
+                            "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA - LUCANO LUCANO MARCELO JAVIER"
                         },
                         {
                             "code": "M2",
@@ -1352,7 +1352,7 @@
                                     "start": "1845",
                                     "end": "2015",
                                     "duration": 2,
-                                    "room": "660",
+                                    "room": "693A",
                                     "isClass": true,
                                     "teacher": "FERNANDEZ RAMOS DAVID"
                                 },
@@ -1905,7 +1905,7 @@
                                     "duration": 2,
                                     "room": "622",
                                     "isClass": true,
-                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "VI",
@@ -1914,7 +1914,7 @@
                                     "duration": 2,
                                     "room": "624",
                                     "isClass": true,
-                                    "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "VI",
@@ -1926,7 +1926,7 @@
                                     "teacher": "ARIAS PORCO CRISTIAN"
                                 }
                             ],
-                            "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO"
+                            "teacher": ". POR DESIGNAR"
                         },
                         {
                             "code": "5",
@@ -2068,7 +2068,7 @@
                                     "start": "1245",
                                     "end": "1415",
                                     "duration": 2,
-                                    "room": "691A",
+                                    "room": "625D",
                                     "isClass": true,
                                     "teacher": "HEREDIA LUIZAGA JHON EDSON"
                                 }

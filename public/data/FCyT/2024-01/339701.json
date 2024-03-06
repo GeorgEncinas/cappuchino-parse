@@ -166,20 +166,20 @@
                                 {
                                     "day": "MI",
                                     "start": "815",
-                                    "end": "1200",
-                                    "duration": 5,
-                                    "room": "613",
-                                    "isClass": false,
-                                    "teacher": "DAZA GUIZADA JORGE"
-                                },
-                                {
-                                    "day": "MI",
-                                    "start": "815",
                                     "end": "1245",
                                     "duration": 6,
                                     "room": "613",
                                     "isClass": true,
                                     "teacher": "HERBAS ANGULO ADELINA"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "815",
+                                    "end": "1200",
+                                    "duration": 5,
+                                    "room": "613",
+                                    "isClass": false,
+                                    "teacher": "DAZA GUIZADA JORGE"
                                 }
                             ],
                             "teacher": "HERBAS ANGULO ADELINA"
@@ -262,20 +262,20 @@
                                 {
                                     "day": "LU",
                                     "start": "815",
-                                    "end": "1200",
-                                    "duration": 5,
-                                    "room": "613",
-                                    "isClass": false,
-                                    "teacher": "DAZA GUIZADA JORGE"
-                                },
-                                {
-                                    "day": "LU",
-                                    "start": "815",
                                     "end": "1245",
                                     "duration": 6,
                                     "room": "613",
                                     "isClass": true,
                                     "teacher": "ROJAS ARNEZ CINTHIA CAROLA"
+                                },
+                                {
+                                    "day": "LU",
+                                    "start": "815",
+                                    "end": "1200",
+                                    "duration": 5,
+                                    "room": "613",
+                                    "isClass": false,
+                                    "teacher": "DAZA GUIZADA JORGE"
                                 }
                             ],
                             "teacher": "ROJAS ARNEZ CINTHIA CAROLA"
@@ -286,20 +286,20 @@
                                 {
                                     "day": "VI",
                                     "start": "815",
-                                    "end": "1245",
-                                    "duration": 6,
-                                    "room": "614",
-                                    "isClass": true,
-                                    "teacher": "ROJAS ARNEZ CINTHIA CAROLA"
-                                },
-                                {
-                                    "day": "VI",
-                                    "start": "815",
                                     "end": "1200",
                                     "duration": 5,
                                     "room": "614",
                                     "isClass": false,
                                     "teacher": "COCA COSSIO MELISSA NICOLE"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "815",
+                                    "end": "1245",
+                                    "duration": 6,
+                                    "room": "614",
+                                    "isClass": true,
+                                    "teacher": "ROJAS ARNEZ CINTHIA CAROLA"
                                 }
                             ],
                             "teacher": "ROJAS ARNEZ CINTHIA CAROLA"
@@ -425,7 +425,7 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
                                 },
                                 {
                                     "day": "LU",
@@ -434,10 +434,10 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
                                 }
                             ],
-                            "teacher": "VARGAS VALLEJOS LUZ VIRGINIA - HEREDIA GUTIERREZ MARIA FERNANDA"
+                            "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA - VARGAS VALLEJOS LUZ VIRGINIA"
                         },
                         {
                             "code": "A2",
@@ -1886,20 +1886,20 @@
                                 {
                                     "day": "JU",
                                     "start": "645",
-                                    "end": "1030",
-                                    "duration": 5,
-                                    "room": "616",
-                                    "isClass": false,
-                                    "teacher": "COSSIO GUILLEN LINCY PATRICIA"
-                                },
-                                {
-                                    "day": "JU",
-                                    "start": "645",
                                     "end": "1115",
                                     "duration": 6,
                                     "room": "616",
                                     "isClass": true,
                                     "teacher": "MOREIRA ROSAS BORIS ARTURO"
+                                },
+                                {
+                                    "day": "JU",
+                                    "start": "645",
+                                    "end": "1030",
+                                    "duration": 5,
+                                    "room": "616",
+                                    "isClass": false,
+                                    "teacher": "COSSIO GUILLEN LINCY PATRICIA"
                                 }
                             ],
                             "teacher": "MOREIRA ROSAS BORIS ARTURO"
@@ -2173,6 +2173,21 @@
                                 }
                             ],
                             "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR - LOPEZ ORDONEZ BENJAMIN"
+                        },
+                        {
+                            "code": "H4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                }
+                            ],
+                            "teacher": "MOREIRA CALIZAYA RENE"
                         }
                     ]
                 },
@@ -2954,7 +2969,7 @@
                                     "start": "1715",
                                     "end": "1845",
                                     "duration": 2,
-                                    "room": "617",
+                                    "room": "617B",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 },
@@ -2998,7 +3013,7 @@
                                     "start": "1845",
                                     "end": "2015",
                                     "duration": 2,
-                                    "room": "691B",
+                                    "room": "MAGCIV",
                                     "isClass": true,
                                     "teacher": "SOTO SOLIZ JOSE ROBERTO"
                                 },
@@ -3031,16 +3046,16 @@
                                     "start": "1715",
                                     "end": "1845",
                                     "duration": 2,
-                                    "room": "AGROQUI",
+                                    "room": "691D",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 },
                                 {
-                                    "day": "VI",
+                                    "day": "MI",
                                     "start": "1845",
                                     "end": "2015",
                                     "duration": 2,
-                                    "room": "651",
+                                    "room": "MAGCIV",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 }
@@ -3264,28 +3279,28 @@
                             "schedule": [
                                 {
                                     "day": "LU",
-                                    "start": "1845",
-                                    "end": "2015",
+                                    "start": "1245",
+                                    "end": "1415",
                                     "duration": 2,
-                                    "room": "692E",
+                                    "room": "632",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 },
                                 {
-                                    "day": "JU",
-                                    "start": "1845",
-                                    "end": "2015",
+                                    "day": "MA",
+                                    "start": "1245",
+                                    "end": "1415",
                                     "duration": 2,
-                                    "room": "690C",
+                                    "room": "632",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 },
                                 {
-                                    "day": "SA",
-                                    "start": "815",
-                                    "end": "945",
+                                    "day": "MI",
+                                    "start": "1415",
+                                    "end": "1545",
                                     "duration": 2,
-                                    "room": "692H",
+                                    "room": "632",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 }

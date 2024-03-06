@@ -66,7 +66,7 @@
                                     "start": "645",
                                     "end": "815",
                                     "duration": 2,
-                                    "room": "681B",
+                                    "room": "690E",
                                     "isClass": true,
                                     "teacher": "PEETERS ILONAA MAGDA LENA"
                                 },
@@ -81,6 +81,30 @@
                                 }
                             ],
                             "teacher": "PEETERS ILONAA MAGDA LENA"
+                        },
+                        {
+                            "code": "4",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "692G",
+                                    "isClass": true,
+                                    "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "692E",
+                                    "isClass": true,
+                                    "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+                                }
+                            ],
+                            "teacher": "GRILO SALVATIERRA MARIA ESTELA"
                         },
                         {
                             "code": "5",
@@ -563,10 +587,10 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "AGREDA CORRALES LUIS ROBERTO"
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
                                 }
                             ],
-                            "teacher": "LOPEZ ORDONEZ BENJAMIN - AGREDA CORRALES LUIS ROBERTO"
+                            "teacher": "LOPEZ ORDONEZ BENJAMIN - VASQUEZ CARRILLO MICHAEL HUASCAR"
                         }
                     ]
                 },
@@ -1337,20 +1361,20 @@
                             "code": "3",
                             "schedule": [
                                 {
-                                    "day": "LU",
-                                    "start": "1715",
-                                    "end": "1845",
+                                    "day": "JU",
+                                    "start": "1845",
+                                    "end": "2015",
                                     "duration": 2,
-                                    "room": "692D",
+                                    "room": "692G",
                                     "isClass": true,
                                     "teacher": "LAIME ZAPATA VALENTIN"
                                 },
                                 {
-                                    "day": "MI",
-                                    "start": "1115",
-                                    "end": "1245",
+                                    "day": "VI",
+                                    "start": "1845",
+                                    "end": "2015",
                                     "duration": 2,
-                                    "room": "617C",
+                                    "room": "692H",
                                     "isClass": true,
                                     "teacher": "LAIME ZAPATA VALENTIN"
                                 }
@@ -1643,7 +1667,7 @@
                                     "start": "1715",
                                     "end": "1845",
                                     "duration": 2,
-                                    "room": "691D",
+                                    "room": "623",
                                     "isClass": true,
                                     "teacher": "FERNANDEZ RAMOS DAVID"
                                 },
@@ -1811,6 +1835,15 @@
                             "schedule": [
                                 {
                                     "day": "LU",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "INFLAB",
+                                    "isClass": true,
+                                    "teacher": "FERNANDEZ GUZMAN HELDER OCTAVIO"
+                                },
+                                {
+                                    "day": "LU",
                                     "start": "1245",
                                     "end": "1415",
                                     "duration": 2,
@@ -1820,19 +1853,10 @@
                                 },
                                 {
                                     "day": "MA",
-                                    "start": "1415",
-                                    "end": "1545",
+                                    "start": "645",
+                                    "end": "815",
                                     "duration": 2,
-                                    "room": "607",
-                                    "isClass": true,
-                                    "teacher": "FERNANDEZ GUZMAN HELDER OCTAVIO"
-                                },
-                                {
-                                    "day": "JU",
-                                    "start": "1415",
-                                    "end": "1545",
-                                    "duration": 2,
-                                    "room": "693D",
+                                    "room": "INFLAB",
                                     "isClass": true,
                                     "teacher": "FERNANDEZ GUZMAN HELDER OCTAVIO"
                                 }
@@ -1862,7 +1886,7 @@
                                     "start": "1115",
                                     "end": "1245",
                                     "duration": 2,
-                                    "room": "690D",
+                                    "room": "625C",
                                     "isClass": true,
                                     "teacher": "ACHA PEREZ SAMUEL"
                                 }
@@ -2248,33 +2272,33 @@
                             "schedule": [
                                 {
                                     "day": "LU",
-                                    "start": "1115",
-                                    "end": "1245",
-                                    "duration": 2,
-                                    "room": "625D",
-                                    "isClass": true,
-                                    "teacher": ". POR DESIGNAR"
-                                },
-                                {
-                                    "day": "MA",
-                                    "start": "1115",
-                                    "end": "1245",
+                                    "start": "645",
+                                    "end": "815",
                                     "duration": 2,
                                     "room": "INFLAB",
                                     "isClass": true,
-                                    "teacher": ". POR DESIGNAR"
+                                    "teacher": "LAIME ZAPATA VALENTIN"
                                 },
                                 {
                                     "day": "JU",
-                                    "start": "1115",
-                                    "end": "1245",
+                                    "start": "645",
+                                    "end": "815",
                                     "duration": 2,
                                     "room": "INFLAB",
                                     "isClass": true,
-                                    "teacher": ". POR DESIGNAR"
+                                    "teacher": "LAIME ZAPATA VALENTIN"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "INFLAB",
+                                    "isClass": true,
+                                    "teacher": "LAIME ZAPATA VALENTIN"
                                 }
                             ],
-                            "teacher": ". POR DESIGNAR"
+                            "teacher": "LAIME ZAPATA VALENTIN"
                         },
                         {
                             "code": "5",
@@ -2505,7 +2529,7 @@
                                     "start": "1845",
                                     "end": "2015",
                                     "duration": 2,
-                                    "room": "693A",
+                                    "room": "660",
                                     "isClass": false,
                                     "teacher": "MAMANI QUELCA SHIRLEY"
                                 },
@@ -2645,11 +2669,11 @@
                                     "teacher": "ORELLANA ARAOZ JORGE WALTER"
                                 },
                                 {
-                                    "day": "MI",
+                                    "day": "JU",
                                     "start": "815",
                                     "end": "945",
                                     "duration": 2,
-                                    "room": "625C",
+                                    "room": "INFLAB",
                                     "isClass": true,
                                     "teacher": "ORELLANA ARAOZ JORGE WALTER"
                                 },
@@ -2957,7 +2981,7 @@
                                     "start": "945",
                                     "end": "1115",
                                     "duration": 2,
-                                    "room": "644",
+                                    "room": "691B",
                                     "isClass": true,
                                     "teacher": "PEETERS ILONAA MAGDA LENA"
                                 },
@@ -3014,7 +3038,7 @@
                                     "start": "645",
                                     "end": "815",
                                     "duration": 2,
-                                    "room": "652D",
+                                    "room": "692H",
                                     "isClass": true,
                                     "teacher": "PEETERS ILONAA MAGDA LENA"
                                 }
@@ -3119,7 +3143,7 @@
                                     "start": "945",
                                     "end": "1115",
                                     "duration": 2,
-                                    "room": "690D",
+                                    "room": "690E",
                                     "isClass": true,
                                     "teacher": "JALDIN ROSALES K. ROLANDO"
                                 }
@@ -3924,7 +3948,7 @@
                                     "start": "815",
                                     "end": "945",
                                     "duration": 2,
-                                    "room": "672",
+                                    "room": "691C",
                                     "isClass": true,
                                     "teacher": "TORRICO BASCOPE ROSEMARY"
                                 }
@@ -4115,6 +4139,36 @@
         {
             "code": "H",
             "subjects": [
+                {
+                    "code": "1803009",
+                    "name": "INGLES III",
+                    "groups": [
+                        {
+                            "code": "1",
+                            "schedule": [
+                                {
+                                    "day": "MA",
+                                    "start": "1415",
+                                    "end": "1545",
+                                    "duration": 2,
+                                    "room": "693A",
+                                    "isClass": true,
+                                    "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+                                },
+                                {
+                                    "day": "VI",
+                                    "start": "1545",
+                                    "end": "1715",
+                                    "duration": 2,
+                                    "room": "693B",
+                                    "isClass": true,
+                                    "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+                                }
+                            ],
+                            "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+                        }
+                    ]
+                },
                 {
                     "code": "2010102",
                     "name": "EVALUACION Y AUDITORIA DE SISTEMAS",
@@ -4585,7 +4639,7 @@
                                     "start": "1415",
                                     "end": "1545",
                                     "duration": 2,
-                                    "room": "INFLAB",
+                                    "room": "660",
                                     "isClass": true,
                                     "teacher": "COSTAS JAUREGUI VLADIMIR ABEL"
                                 },

@@ -425,7 +425,7 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
                                 },
                                 {
                                     "day": "LU",
@@ -434,10 +434,10 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
                                 }
                             ],
-                            "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA - VARGAS VALLEJOS LUZ VIRGINIA"
+                            "teacher": "VARGAS VALLEJOS LUZ VIRGINIA - HEREDIA GUTIERREZ MARIA FERNANDA"
                         },
                         {
                             "code": "A2",
@@ -2239,6 +2239,21 @@
                                 }
                             ],
                             "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR - LOPEZ ORDONEZ BENJAMIN"
+                        },
+                        {
+                            "code": "H4",
+                            "schedule": [
+                                {
+                                    "day": "VI",
+                                    "start": "645",
+                                    "end": "815",
+                                    "duration": 2,
+                                    "room": "684L8",
+                                    "isClass": false,
+                                    "teacher": "MOREIRA CALIZAYA RENE"
+                                }
+                            ],
+                            "teacher": "MOREIRA CALIZAYA RENE"
                         }
                     ]
                 },
@@ -2392,20 +2407,20 @@
                                 {
                                     "day": "LU",
                                     "start": "1415",
-                                    "end": "1800",
-                                    "duration": 5,
-                                    "room": "615",
-                                    "isClass": false,
-                                    "teacher": "SOTO GONZALES IVAN ISRAEL"
-                                },
-                                {
-                                    "day": "LU",
-                                    "start": "1415",
                                     "end": "1845",
                                     "duration": 6,
                                     "room": "615",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "LU",
+                                    "start": "1415",
+                                    "end": "1800",
+                                    "duration": 5,
+                                    "room": "615",
+                                    "isClass": false,
+                                    "teacher": "SOTO GONZALES IVAN ISRAEL"
                                 }
                             ],
                             "teacher": ". POR DESIGNAR"
@@ -3922,10 +3937,10 @@
                             "schedule": [
                                 {
                                     "day": "MA",
-                                    "start": "2015",
-                                    "end": "2145",
+                                    "start": "1415",
+                                    "end": "1545",
                                     "duration": 2,
-                                    "room": "692H",
+                                    "room": "624",
                                     "isClass": true,
                                     "teacher": "LANGE GONZALES WILHELM EDUARDO"
                                 },

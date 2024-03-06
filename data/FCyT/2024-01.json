@@ -14,6 +14,13 @@
         "support": "@georg"
     },
     {
+        "code": "165221",
+        "name": "PROGRAMA DE INGENIERIA EN BIOTECNOLOGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2024",
+        "support": "@georg"
+    },
+    {
         "code": "166231",
         "name": "PROGRAMA LIC. EN INGENIERIA EN ENERGIA",
         "madeIn": "SCESI UMSS",
@@ -72,6 +79,13 @@
     {
         "code": "389701",
         "name": "LICENCIATURA EN QUIMICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2024",
+        "support": "@georg"
+    },
+    {
+        "code": "399501",
+        "name": "LICENCIATURA EN BIOLOGIA",
         "madeIn": "SCESI UMSS",
         "semester": "1/2024",
         "support": "@georg"

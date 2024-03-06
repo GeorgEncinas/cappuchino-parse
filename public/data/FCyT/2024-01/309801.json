@@ -275,7 +275,7 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
+                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
                                 },
                                 {
                                     "day": "LU",
@@ -284,10 +284,10 @@
                                     "duration": 2,
                                     "room": "618",
                                     "isClass": false,
-                                    "teacher": "VARGAS VALLEJOS LUZ VIRGINIA"
+                                    "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA"
                                 }
                             ],
-                            "teacher": "HEREDIA GUTIERREZ MARIA FERNANDA - VARGAS VALLEJOS LUZ VIRGINIA"
+                            "teacher": "VARGAS VALLEJOS LUZ VIRGINIA - HEREDIA GUTIERREZ MARIA FERNANDA"
                         },
                         {
                             "code": "I2",
@@ -794,7 +794,7 @@
                                     "duration": 2,
                                     "room": "691A",
                                     "isClass": true,
-                                    "teacher": "GONZALES CARTAGENA LUCIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "MI",
@@ -803,7 +803,7 @@
                                     "duration": 2,
                                     "room": "642",
                                     "isClass": true,
-                                    "teacher": "GONZALES CARTAGENA LUCIO"
+                                    "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "SA",
@@ -815,7 +815,7 @@
                                     "teacher": "IBARRA VAQUILLA OSMAR"
                                 }
                             ],
-                            "teacher": "GONZALES CARTAGENA LUCIO"
+                            "teacher": ". POR DESIGNAR"
                         },
                         {
                             "code": "5",
@@ -1863,10 +1863,10 @@
                                     "duration": 2,
                                     "room": "684L8",
                                     "isClass": false,
-                                    "teacher": "AGREDA CORRALES LUIS ROBERTO"
+                                    "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
                                 }
                             ],
-                            "teacher": "AGREDA CORRALES LUIS ROBERTO"
+                            "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR"
                         },
                         {
                             "code": "D2",
@@ -1878,7 +1878,7 @@
                                     "duration": 2,
                                     "room": "684L8",
                                     "isClass": false,
-                                    "teacher": "AGREDA CORRALES LUIS ROBERTO"
+                                    "teacher": "MUNOZ PENALOZA ANTHONY ABRAHAM"
                                 },
                                 {
                                     "day": "MA",
@@ -1887,10 +1887,10 @@
                                     "duration": 2,
                                     "room": "684L8",
                                     "isClass": false,
-                                    "teacher": "MUNOZ PENALOZA ANTHONY ABRAHAM"
+                                    "teacher": "AGREDA CORRALES LUIS ROBERTO"
                                 }
                             ],
-                            "teacher": "AGREDA CORRALES LUIS ROBERTO - MUNOZ PENALOZA ANTHONY ABRAHAM"
+                            "teacher": "MUNOZ PENALOZA ANTHONY ABRAHAM - AGREDA CORRALES LUIS ROBERTO"
                         },
                         {
                             "code": "D4",
@@ -3072,29 +3072,29 @@
                             "code": "1",
                             "schedule": [
                                 {
+                                    "day": "MA",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "615",
+                                    "isClass": true,
+                                    "teacher": "ALFARO DENUS GONZALO"
+                                },
+                                {
+                                    "day": "MI",
+                                    "start": "1845",
+                                    "end": "2015",
+                                    "duration": 2,
+                                    "room": "615",
+                                    "isClass": true,
+                                    "teacher": "ALFARO DENUS GONZALO"
+                                },
+                                {
                                     "day": "JU",
                                     "start": "645",
                                     "end": "815",
                                     "duration": 2,
                                     "room": "693A",
-                                    "isClass": true,
-                                    "teacher": "ALFARO DENUS GONZALO"
-                                },
-                                {
-                                    "day": "VI",
-                                    "start": "645",
-                                    "end": "815",
-                                    "duration": 2,
-                                    "room": "693A",
-                                    "isClass": true,
-                                    "teacher": "ALFARO DENUS GONZALO"
-                                },
-                                {
-                                    "day": "SA",
-                                    "start": "645",
-                                    "end": "815",
-                                    "duration": 2,
-                                    "room": "692E",
                                     "isClass": true,
                                     "teacher": "ALFARO DENUS GONZALO"
                                 }
@@ -3451,10 +3451,10 @@
                                 },
                                 {
                                     "day": "MA",
-                                    "start": "815",
-                                    "end": "945",
+                                    "start": "1245",
+                                    "end": "1415",
                                     "duration": 2,
-                                    "room": "693B",
+                                    "room": "642",
                                     "isClass": true,
                                     "teacher": "MONTANO ANAYA FRANCISCO"
                                 },
@@ -3495,36 +3495,27 @@
                             "schedule": [
                                 {
                                     "day": "LU",
-                                    "start": "1715",
-                                    "end": "1845",
+                                    "start": "1115",
+                                    "end": "1245",
                                     "duration": 2,
-                                    "room": "691A",
+                                    "room": "AUDIND",
+                                    "isClass": true,
+                                    "teacher": ". POR DESIGNAR"
+                                },
+                                {
+                                    "day": "MA",
+                                    "start": "945",
+                                    "end": "1115",
+                                    "duration": 2,
+                                    "room": "AUDIND",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 },
                                 {
                                     "day": "MI",
                                     "start": "945",
-                                    "end": "1030",
-                                    "duration": 1,
-                                    "room": "682L0IN",
-                                    "isClass": true,
-                                    "teacher": ". POR DESIGNAR"
-                                },
-                                {
-                                    "day": "JU",
-                                    "start": "1115",
-                                    "end": "1245",
-                                    "duration": 2,
-                                    "room": "682L8IN",
-                                    "isClass": true,
-                                    "teacher": ". POR DESIGNAR"
-                                },
-                                {
-                                    "day": "VI",
-                                    "start": "1030",
                                     "end": "1115",
-                                    "duration": 1,
+                                    "duration": 2,
                                     "room": "682L0IN",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
@@ -3798,10 +3789,10 @@
                                 },
                                 {
                                     "day": "MI",
-                                    "start": "645",
-                                    "end": "815",
+                                    "start": "1415",
+                                    "end": "1545",
                                     "duration": 2,
-                                    "room": "690B",
+                                    "room": "612",
                                     "isClass": true,
                                     "teacher": ". POR DESIGNAR"
                                 }
@@ -4769,7 +4760,7 @@
                 },
                 {
                     "code": "2016040",
-                    "name": "TRABAJO DIRIGIDO ",
+                    "name": "TRABAJO DIRIGIDO (OPCIONAL)",
                     "groups": [
                         {
                             "code": "1",
