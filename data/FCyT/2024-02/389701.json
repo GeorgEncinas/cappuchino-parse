@@ -1,0 +1,3144 @@
+{
+  "madeIn": "SCESI UMSS",
+  "semester": "2/2024",
+  "support": "@willypaz243",
+  "code": 389701,
+  "name": "QUIMICA (LIC)",
+  "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/389701. QUIMICA",
+  "updatet_at": "2024-08-11T10:29:00",
+  "levels": [
+    {
+      "code": "A",
+      "subjects": [
+        {
+          "code": 2004001,
+          "name": "RECURSOS NATURALES",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ARZABE MAURE JOSE OMAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ARZABE MAURE JOSE OMAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "693C",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004003,
+          "name": "LABORATORIO DE QUIMICA GENERAL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROJAS ARZE RUBEN DARIO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "ROJAS ARZE RUBEN DARIO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "10",
+              "teacher": "TERRAZAS MALDONADO ISRAEL",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "TERRAZAS MALDONADO ISRAEL",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "10",
+              "teacher": "COCA COSSIO MELISSA NICOLE",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1630",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "COCA COSSIO MELISSA NICOLE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ANTEZANA FERNANDEZ HENRY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "ANTEZANA FERNANDEZ HENRY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "VARGAS ALVAREZ MAURICIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "VARGAS ALVAREZ MAURICIO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ROMERO COCA DAYANA NICOLE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1630",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "ROMERO COCA DAYANA NICOLE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "MENDIETA BRITO SONIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1500",
+                  "end": "1930",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "MENDIETA BRITO SONIA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1500",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "HERBAS ANGULO ADELINA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "HERBAS ANGULO ADELINA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "DAZA GUIZADA JORGE",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "DAZA GUIZADA JORGE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "MOREIRA ROSAS BORIS ARTURO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "MOREIRA ROSAS BORIS ARTURO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "PENALOZA RODRIGUEZ MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "PENALOZA RODRIGUEZ MIGUEL ANGEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "7",
+              "teacher": "PEREZ CHACON MARIBEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "PEREZ CHACON MARIBEL",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "7",
+              "teacher": "CACERES QUIROZ MARIA BELEN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "CACERES QUIROZ MARIA BELEN",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "8",
+              "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "8",
+              "teacher": "DAZA GUIZADA JORGE",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "613",
+                  "teacher": "DAZA GUIZADA JORGE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "9",
+              "teacher": "COCA COSSIO MELISSA NICOLE",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "COCA COSSIO MELISSA NICOLE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "9",
+              "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004045,
+          "name": "QUIMICA GENERAL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ARCE GARCIA OMAR ORLANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ARCE GARCIA OMAR ORLANDO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2006018,
+          "name": "FISICA BASICA I",
+          "groups": [
+            {
+              "code": "A",
+              "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "A1",
+              "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "A2",
+              "teacher": "LUCANO LUCANO MARCELO JAVIER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "LUCANO LUCANO MARCELO JAVIER",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "A3",
+              "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "A4",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B",
+              "teacher": "FUENTES MIRANDA IVAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "FUENTES MIRANDA IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "FUENTES MIRANDA IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "FUENTES MIRANDA IVAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "B1",
+              "teacher": "GUTIERREZ MARTINEZ VICTOR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "GUTIERREZ MARTINEZ VICTOR",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B2",
+              "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B3",
+              "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B4",
+              "teacher": "FLORES FLORES FREDDY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "FLORES FLORES FREDDY",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C",
+              "teacher": "CASTRO LAZARTE CECILIA BEATRIZ",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "CASTRO LAZARTE CECILIA BEATRIZ",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "CASTRO LAZARTE CECILIA BEATRIZ",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "CASTRO LAZARTE CECILIA BEATRIZ",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "C1",
+              "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "VARGAS VALLEJOS LUZ VIRGINIA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C2",
+              "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C3",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C4",
+              "teacher": "TORREZ PELAEZ RAUL WILDER",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "TORREZ PELAEZ RAUL WILDER",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "D",
+              "teacher": "VALENZUELA MIRANDA ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "VALENZUELA MIRANDA ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "VALENZUELA MIRANDA ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "VALENZUELA MIRANDA ROBERTO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "D1",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "D2",
+              "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "D3",
+              "teacher": "VARGAS REINAGA JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "618",
+                  "teacher": "VARGAS REINAGA JUAN CARLOS",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "M2",
+              "teacher": "GUTIERREZ MARTINEZ VICTOR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "GUTIERREZ MARTINEZ VICTOR",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "N4",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "O4",
+              "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "Q2",
+              "teacher": "LUCANO LUCANO MARCELO JAVIER",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "LUCANO LUCANO MARCELO JAVIER",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008054,
+          "name": "CALCULO I",
+          "groups": [
+            {
+              "code": "14",
+              "teacher": "FIORILO LOZADA AMERICO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "FIORILO LOZADA AMERICO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "FIORILO LOZADA AMERICO",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "FIORILO LOZADA AMERICO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "18",
+              "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "18",
+              "teacher": "HEREDIA CORRALES JOAQUIN MANUEL",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "HEREDIA CORRALES JOAQUIN MANUEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "22",
+              "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008237,
+          "name": "ALGEBRA LINEAL Y TEORIA MATRICIAL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "OMONTE OJALVO JOSE ROBERTO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "OMONTE OJALVO JOSE ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "OMONTE OJALVO JOSE ROBERTO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "SERRANO MENA DIEGO LEONARDO",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "SERRANO MENA DIEGO LEONARDO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "SOTO MOREIRA JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "SOTO MOREIRA JUAN CARLOS",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "SOTO MOREIRA JUAN CARLOS",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "SOTO MOREIRA JUAN CARLOS",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "subjects": [
+        {
+          "code": 2004050,
+          "name": "EQUILIBRIOS EN DISOLUCION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "AGUILAR MAMANI WILSON GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "AGUILAR MAMANI WILSON GONZALO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "AGUILAR MAMANI WILSON GONZALO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "AGUILAR MAMANI WILSON GONZALO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ANTEZANA FERNANDEZ HENRY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "ANTEZANA FERNANDEZ HENRY",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "ANTEZANA FERNANDEZ HENRY",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "ANTEZANA FERNANDEZ HENRY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "RIOS DEL PRADO JUAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "683B",
+                  "teacher": "RIOS DEL PRADO JUAN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "RIOS DEL PRADO JUAN",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "RIOS DEL PRADO JUAN",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004174,
+          "name": "QUIMICA INORGANICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ARZABE MAURE JOSE OMAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004192,
+          "name": "LABORATORIO DE QUIMICA ANALITICA CUALITATIVA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ANTEZANA FERNANDEZ HENRY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "ANTEZANA FERNANDEZ HENRY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "AUXILIAR POR DESIGNAR .",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "MONTA\u00d1O MERIDA ROSARIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "MONTA\u00d1O MERIDA ROSARIO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2006019,
+          "name": "FISICA BASICA II",
+          "groups": [
+            {
+              "code": "A",
+              "teacher": "RUIZ UCUMARI IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "A1",
+              "teacher": "TORRICO TROCHE MILKA MONICA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "TORRICO TROCHE MILKA MONICA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "A2",
+              "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "VASQUEZ CARRILLO MICHAEL HUASCAR",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "A3",
+              "teacher": "FLORES FLORES FREDDY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "FLORES FLORES FREDDY",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B",
+              "teacher": "FUENTES MIRANDA IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "FUENTES MIRANDA IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "FUENTES MIRANDA IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "FUENTES MIRANDA IVAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "B1",
+              "teacher": "GUTIERREZ MARTINEZ VICTOR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "GUTIERREZ MARTINEZ VICTOR",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B2",
+              "teacher": "DAVALOS BROZOVIC JORGE",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "DAVALOS BROZOVIC JORGE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C",
+              "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "C1",
+              "teacher": "PEREZ CESPEDES ROBERTO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "PEREZ CESPEDES ROBERTO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C2",
+              "teacher": "PEREZ CESPEDES ROBERTO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "PEREZ CESPEDES ROBERTO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C3",
+              "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "C4",
+              "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008056,
+          "name": "CALCULO II",
+          "groups": [
+            {
+              "code": "11",
+              "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "9",
+              "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "9A",
+              "teacher": "FLORES VARGAS JORGE EDUARDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "693C",
+                  "teacher": "FLORES VARGAS JORGE EDUARDO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "9A",
+              "teacher": "RELOS PACO SANTIAGO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "RELOS PACO SANTIAGO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "RELOS PACO SANTIAGO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "subjects": [
+        {
+          "code": 2004044,
+          "name": "FISICOQUIMICA",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "ARCE GARCIA OMAR ORLANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "ARCE GARCIA OMAR ORLANDO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "ARCE GARCIA OMAR ORLANDO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004147,
+          "name": "LABORATORIO DE FISICOQUIMICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROJAS CESPEDES JENNY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "ROJAS CESPEDES JENNY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ROJAS CESPEDES JENNY",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "ROJAS CESPEDES JENNY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "CUSSI QUISPE SANDRA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "CUSSI QUISPE SANDRA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "AUXILIAR POR DESIGNAR .",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1330",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "ROJAS CESPEDES JENNY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "ROJAS CESPEDES JENNY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "SAINZ RAMOS NEMESIS FARHA",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1330",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "SAINZ RAMOS NEMESIS FARHA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "CUSSI QUISPE SANDRA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "CUSSI QUISPE SANDRA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "ESPINOZA ALCOCER JENNY",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "ESPINOZA ALCOCER JENNY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "COSSIO GUILLEN LINCY PATRICIA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "1030",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "COSSIO GUILLEN LINCY PATRICIA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "MOREIRA ROSAS BORIS ARTURO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "MOREIRA ROSAS BORIS ARTURO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "COSSIO GUILLEN LINCY PATRICIA",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "COSSIO GUILLEN LINCY PATRICIA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "MUNOZ COLLAZOS MARIA SUSANA DEL ROSARIO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "MUNOZ COLLAZOS MARIA SUSANA DEL ROSARIO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2006020,
+          "name": "FISICA BASICA III",
+          "groups": [
+            {
+              "code": "A",
+              "teacher": "RUIZ UCUMARI IVAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "A1",
+              "teacher": "LUCANO LUCANO MARCELO JAVIER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "LUCANO LUCANO MARCELO JAVIER",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "A2",
+              "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "CLAROS CRUZ LUIS GUALBERTO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B",
+              "teacher": "UGARTE CEJAS FELIX",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "UGARTE CEJAS FELIX",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "UGARTE CEJAS FELIX",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "UGARTE CEJAS FELIX",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "B1",
+              "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B2",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008066,
+          "name": "CALCULO III",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "IBARRA VAQUILLA OSMAR",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "IBARRA VAQUILLA OSMAR",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008067,
+          "name": "ANALISIS NUMERICO",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "SORUCO MAITA JOSE ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": 2004012,
+          "name": "LABORATORIO DE QUIMICA ORGANICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "SOTO GONZALES IVAN ISRAEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "SOTO GONZALES IVAN ISRAEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "1245",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004053,
+          "name": "QUIMICA ORGANICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693C",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693C",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004055,
+          "name": "INTRODUCCION A LOS PROCESOS QUIMICOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ALEJO ESPINOZA LUCIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "ALEJO ESPINOZA LUCIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "ALEJO ESPINOZA LUCIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "ALEJO ESPINOZA LUCIO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2006023,
+          "name": "OPTICA Y ESPECTROSCOPIA MOLECULAR",
+          "groups": [
+            {
+              "code": "A",
+              "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "A1",
+              "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "684L7",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008241,
+          "name": "ESTADISTICA APLICADA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "SORUCO MAITA JOSE ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "VELEZ BILBAO DAVID ENRIQUE",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "VELEZ BILBAO DAVID ENRIQUE",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": 2004056,
+          "name": "QUIMICA ORGANICA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004061,
+          "name": "QUIMICA ANALITICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "OPORTO PEREYRA CARLA GABRIELA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "OPORTO PEREYRA CARLA GABRIELA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "OPORTO PEREYRA CARLA GABRIELA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "OPORTO PEREYRA CARLA GABRIELA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "AUXILIAR POR DESIGNAR .",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ESCALERA MEJIA EDWIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "ESCALERA MEJIA EDWIN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "ESCALERA MEJIA EDWIN",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "ESCALERA MEJIA EDWIN",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004109,
+          "name": "FISICOQUIMICA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ALFARO DENUS GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "693C",
+                  "teacher": "ALFARO DENUS GONZALO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "ALFARO DENUS GONZALO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "ALFARO DENUS GONZALO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004145,
+          "name": "LABORATORIO DE QUIMICA ORGANICA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "AUXILIAR POR DESIGNAR .",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1500",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "SOTO GONZALES IVAN ISRAEL",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "SOTO GONZALES IVAN ISRAEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "DAVILA CABRERA MARCELO ARMANDO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "DAVILA CABRERA MARCELO ARMANDO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004169,
+          "name": "LABORATORIO DE QUIMICA ANALITICA CUANTITATIVA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "ARZABE MAURE JOSE OMAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "AUXILIAR POR DESIGNAR .",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ESCALERA MEJIA EDWIN",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "ESCALERA MEJIA EDWIN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "ROMERO COCA DAYANA NICOLE",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1330",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "ROMERO COCA DAYANA NICOLE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "DOMINGUEZ CHURA RAUL AGAPITO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "DOMINGUEZ CHURA RAUL AGAPITO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "ROMERO COCA DAYANA NICOLE",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "ROMERO COCA DAYANA NICOLE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "ALVAREZ CAERO MARIA MERCEDES",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "ALVAREZ CAERO MARIA MERCEDES",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "ESCALERA MEJIA EDWIN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "ESCALERA MEJIA EDWIN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1330",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "subjects": [
+        {
+          "code": 2004059,
+          "name": "QUIMICA BIOLOGICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "TORREZ QUINTEROS EDWIN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "TORREZ QUINTEROS EDWIN",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "TORREZ QUINTEROS EDWIN",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004105,
+          "name": "QUIMICA ORGANICA III",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MEDRANO ANTEZANA RUDER",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "MEDRANO ANTEZANA RUDER",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004114,
+          "name": "FISICOQUIMICA III",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ALFARO DENUS GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "ALFARO DENUS GONZALO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004175,
+          "name": "QUIMICA INORGANICA III",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ARZABE MAURE JOSE OMAR",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "ARZABE MAURE JOSE OMAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004176,
+          "name": "QUIMICA ANALITICA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "DOMINGUEZ CHURA RAUL AGAPITO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "614",
+                  "teacher": "DOMINGUEZ CHURA RAUL AGAPITO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "G",
+      "subjects": [
+        {
+          "code": 2004115,
+          "name": "QUIMICA ANALITICA III",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "AGUAS",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "AGUAS",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004119,
+          "name": "SINTESIS ORGANICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "AGROQUI",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "AGROQUI",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "AGROQUI",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004130,
+          "name": "PLANIFICACION ORGANIZACION Y CONTROL DE CALID",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROMERO JALDIN ANA MARIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "ROMERO JALDIN ANA MARIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "616A",
+                  "teacher": "ROMERO JALDIN ANA MARIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004173,
+          "name": "QUIMICA DEL MEDIO AMBIENTE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROMERO JALDIN ANA MARIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "ROMERO JALDIN ANA MARIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "ROMERO JALDIN ANA MARIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H",
+      "subjects": [
+        {
+          "code": 2004116,
+          "name": "SEPARACIONES QUIMICAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ANTEZANA FERNANDEZ HENRY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "AGUAS",
+                  "teacher": "ANTEZANA FERNANDEZ HENRY",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2004120,
+          "name": "QUIMICA ANALITICA IV",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "TORRICO VALLEJOS SONIA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "683A",
+                  "teacher": "TORRICO VALLEJOS SONIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

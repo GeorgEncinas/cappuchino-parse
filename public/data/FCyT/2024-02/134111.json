@@ -1,0 +1,3467 @@
+{
+  "madeIn": "SCESI UMSS",
+  "semester": "2/2024",
+  "support": "@willypaz243",
+  "code": 134111,
+  "name": "INFORMATICA (ING)",
+  "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
+  "updatet_at": "2024-08-11T10:27:00",
+  "levels": [
+    {
+      "code": "A",
+      "subjects": [
+        {
+          "code": 1803001,
+          "name": "INGLES I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CESPEDES GUIZADA MARIA BENITA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "CESPEDES GUIZADA MARIA BENITA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "GRILO SALVATIERRA MARIA ESTELA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "GRILO SALVATIERRA MARIA ESTELA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "GRILO SALVATIERRA MARIA ESTELA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "CESPEDES GUIZADA MARIA BENITA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2006063,
+          "name": "FISICA GENERAL",
+          "groups": [
+            {
+              "code": "B",
+              "teacher": "VALENZUELA MIRANDA ROBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "VALENZUELA MIRANDA ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "VALENZUELA MIRANDA ROBERTO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "B1",
+              "teacher": "MOREIRA CALIZAYA RENE",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "MOREIRA CALIZAYA RENE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B2",
+              "teacher": "RUIZ UCUMARI IVAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B3",
+              "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "ORDONEZ SALVATIERRA MIGUEL ANGEL",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B4",
+              "teacher": "RUIZ UCUMARI IVAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B5",
+              "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "B6",
+              "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "TERRAZAS VARGAS JUAN CARLOS",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008019,
+          "name": "ALGEBRA I",
+          "groups": [
+            {
+              "code": "10",
+              "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "15",
+              "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "642",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "8",
+              "teacher": "LEON ROMERO GUALBERTO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "LEON ROMERO GUALBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "LEON ROMERO GUALBERTO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "8",
+              "teacher": "ARANIBAR ZAMBRANA AMMY SHALEM",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "ARANIBAR ZAMBRANA AMMY SHALEM",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008054,
+          "name": "CALCULO I",
+          "groups": [
+            {
+              "code": "10",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "642",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "11",
+              "teacher": "ROJAS ZURITA RAMIRO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "ROJAS ZURITA RAMIRO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "ROJAS ZURITA RAMIRO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "ROJAS ZURITA RAMIRO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010010,
+          "name": "INTRODUCCION A LA PROGRAMACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "10",
+              "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "10",
+              "teacher": "AUXILIAR POR DESIGNAR .",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "VELIZ ESCOBAR JOSUE DEMETRIO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "VELIZ ESCOBAR JOSUE DEMETRIO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "USTARIZ VARGAS HERNAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "USTARIZ VARGAS HERNAN",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "USTARIZ VARGAS HERNAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "CACERES MEDRANO ALAN JESUS",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "CACERES MEDRANO ALAN JESUS",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "VILLARROEL TAPIA HENRY FRANK",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "VILLARROEL TAPIA HENRY FRANK",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "693C",
+                  "teacher": "VILLARROEL TAPIA HENRY FRANK",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "SALAZAR CHOQUE JORGE",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "SALAZAR CHOQUE JORGE",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "MONTANO QUIROGA VICTOR HUGO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "7",
+              "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "7",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "subjects": [
+        {
+          "code": 1803002,
+          "name": "INGLES II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "PEETERS ILONAA MAGDA LENA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008022,
+          "name": "ALGEBRA II",
+          "groups": [
+            {
+              "code": "5A",
+              "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "SILVA RAMOS HERNAN VICTOR",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "SILVA RAMOS HERNAN VICTOR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "SILVA RAMOS HERNAN VICTOR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "CRUZ ACHAYA MARIA CLAUDIA",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "CRUZ ACHAYA MARIA CLAUDIA",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "8",
+              "teacher": "OMONTE OJALVO JOSE ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "OMONTE OJALVO JOSE ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "OMONTE OJALVO JOSE ROBERTO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "8",
+              "teacher": "CRUZ ACHAYA MARIA CLAUDIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "CRUZ ACHAYA MARIA CLAUDIA",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008056,
+          "name": "CALCULO II",
+          "groups": [
+            {
+              "code": "12",
+              "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "12",
+              "teacher": "FLORES ENCINAS JONATHAN MILTON",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "FLORES ENCINAS JONATHAN MILTON",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "TERRAZAS LOBO JUAN",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "TERRAZAS LOBO JUAN",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "TERRAZAS LOBO JUAN",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "6",
+              "teacher": "SOSA MARZE DAVID SAUL",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "SOSA MARZE DAVID SAUL",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010003,
+          "name": "ELEM. DE PROGRAMACION Y ESTRUC. DE DATOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "TORRICO BASCOPE ROSEMARY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "CUENCA VARGAS FERNANDO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "CUENCA VARGAS FERNANDO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "CUENCA VARGAS FERNANDO",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "CUENCA VARGAS FERNANDO",
+                  "is_class": false
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010013,
+          "name": "ARQUITECTURA DE COMPUTADORAS I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ACHA PEREZ SAMUEL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "ACHA PEREZ SAMUEL",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "ACHA PEREZ SAMUEL",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010200,
+          "name": "PROGRAMACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "TORRICO BASCOPE ROSEMARY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "subjects": [
+        {
+          "code": 2008060,
+          "name": "CALCULO NUMERICO",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "JUCHANI BAZUALDO DEMETRIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "JUCHANI BAZUALDO DEMETRIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "JUCHANI BAZUALDO DEMETRIO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": "JUCHANI BAZUALDO DEMETRIO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "ZABALAGA MONTANO OSCAR A.",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "ZABALAGA MONTANO OSCAR A.",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "ZABALAGA MONTANO OSCAR A.",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "ZABALAGA MONTANO OSCAR A.",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008140,
+          "name": "LOGICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "HOEPFNER REYNOLDS MAURICIO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "HOEPFNER REYNOLDS MAURICIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "HOEPFNER REYNOLDS MAURICIO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010014,
+          "name": "ARQUITECTURA DE COMPUTADORAS II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "AGREDA CORRALES LUIS ROBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "AGREDA CORRALES LUIS ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "AGREDA CORRALES LUIS ROBERTO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010037,
+          "name": "TEORIA DE GRAFOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MONTOYA BURGOS YONY RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "teacher": "BRUN DE LA FUENTE DENIS GIOVANI",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "BRUN DE LA FUENTE DENIS GIOVANI",
+                  "is_class": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010041,
+          "name": "ORGANIZACION Y METODOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CAMACHO DEL CASTILLO INDIRA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "CAMACHO DEL CASTILLO INDIRA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "CAMACHO DEL CASTILLO INDIRA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010206,
+          "name": "METODOS Y TECNICAS DE PROGRAMACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FLORES VILLARROEL CORINA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "MANZUR SORIA CARLOS B.",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MANZUR SORIA CARLOS B.",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "MANZUR SORIA CARLOS B.",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "MANZUR SORIA CARLOS B.",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "5",
+              "teacher": "MONTOYA BURGOS YONY RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": 2008029,
+          "name": "PROBABILIDAD Y ESTADISTICA",
+          "groups": [
+            {
+              "code": "3",
+              "teacher": "DELGADILLO COSSIO DAVID ALFREDO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "DELGADILLO COSSIO DAVID ALFREDO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "DELGADILLO COSSIO DAVID ALFREDO",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "DELGADILLO COSSIO DAVID ALFREDO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "OMONTE OJALVO JOSE ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "OMONTE OJALVO JOSE ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "OMONTE OJALVO JOSE ROBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "642",
+                  "teacher": "OMONTE OJALVO JOSE ROBERTO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010005,
+          "name": "TALLER DE PROGRAMACION EN BAJO NIVEL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010015,
+          "name": "BASE DE DATOS I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010018,
+          "name": "SISTEMAS DE INFORMACION I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "SALAZAR SERRUDO CARLA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "SALAZAR SERRUDO CARLA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010038,
+          "name": "PROGRAMACION FUNCIONAL",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "APARICIO YUJA TATIANA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010197,
+          "name": "ALGORITMOS AVANZADOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": 2010016,
+          "name": "BASE DE DATOS II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "APARICIO YUJA TATIANA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "APARICIO YUJA TATIANA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "APARICIO YUJA TATIANA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010017,
+          "name": "TALLER DE SISTEMAS OPERATIVOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010022,
+          "name": "SISTEMAS DE INFORMACION II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FLORES SOLIZ JUAN MARCELO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "FLORES SOLIZ JUAN MARCELO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "FLORES SOLIZ JUAN MARCELO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "AUDMEMI",
+                  "teacher": "FLORES SOLIZ JUAN MARCELO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "JALDIN ROSALES K. ROLANDO",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "JALDIN ROSALES K. ROLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "JALDIN ROSALES K. ROLANDO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "JALDIN ROSALES K. ROLANDO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010040,
+          "name": "TEORIA DE AUTOMATAS Y LENG. FORMALES",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MONTANO QUIROGA VICTOR HUGO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010042,
+          "name": "GRAFICACION POR COMPUTADORA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "INFDEP",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010201,
+          "name": "INTELIGENCIA ARTIFICIAL I",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GARCIA PEREZ CARMEN ROSA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "subjects": [
+        {
+          "code": 2010020,
+          "name": "INGENIERIA DE SOFTWARE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CAMACHO DEL CASTILLO INDIRA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "CAMACHO DEL CASTILLO INDIRA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "CAMACHO DEL CASTILLO INDIRA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "CAMACHO DEL CASTILLO INDIRA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "TORRICO BASCOPE ROSEMARY",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010047,
+          "name": "REDES DE COMPUTADORAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "ORELLANA ARAOZ JORGE WALTER",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "ORELLANA ARAOZ JORGE WALTER",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010049,
+          "name": "ESTRUCTURA Y SEMANTICA DE LENGUAJES DE PROGRA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROMERO RODRIGUEZ PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010053,
+          "name": "TALLER DE BASE DE DATOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "FLORES SOLIZ JUAN MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "FLORES SOLIZ JUAN MARCELO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "FLORES SOLIZ JUAN MARCELO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010202,
+          "name": "INTELIGENCIA ARTIFICIAL II",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "GARCIA PEREZ CARMEN ROSA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010203,
+          "name": "PROGRAMACION WEB",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "G",
+      "subjects": [
+        {
+          "code": 2010019,
+          "name": "SIMULACION DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "VILLARROEL TAPIA HENRY FRANK",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "VILLARROEL TAPIA HENRY FRANK",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "VILLARROEL TAPIA HENRY FRANK",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010024,
+          "name": "TALLER DE INGENIERIA DE SOFTWARE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FLORES VILLARROEL CORINA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "BLANCO COCA LETICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "BLANCO COCA LETICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010100,
+          "name": "ARQUITECTURA DE SOFTWARE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010204,
+          "name": "INTERACCION HUMANO COMPUTADOR",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FLORES VILLARROEL CORINA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010205,
+          "name": "TECNOLOGIA REDES AVANZADAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "MONTECINOS CHOQUE MARCO ANTONIO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H",
+      "subjects": [
+        {
+          "code": 2010035,
+          "name": "APLICACION DE SISTEMAS OPERATIVOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010102,
+          "name": "EVALUACION Y AUDITORIA DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ROMERO RODRIGUEZ PATRICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "VILLARROEL NOVILLO JIMMY",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "VILLARROEL NOVILLO JIMMY",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "VILLARROEL NOVILLO JIMMY",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "VILLARROEL NOVILLO JIMMY",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010214,
+          "name": "TALLER DE GRADO I",
+          "groups": [
+            {
+              "code": "6",
+              "teacher": "FLORES VILLARROEL CORINA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "FLORES VILLARROEL CORINA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "7",
+              "teacher": "ROMERO RODRIGUEZ PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "I",
+      "subjects": [
+        {
+          "code": 2010066,
+          "name": "PROCESOS AGILES",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010178,
+          "name": "ENTORNOS VIRTUALES DE APRENDIZAJE",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010188,
+          "name": "SERVICIOS TELEMATICOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "FIORILO LOZADA AMERICO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "FIORILO LOZADA AMERICO",
+                  "is_class": true
+                },
+                {
+                  "day": "VI",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "FIORILO LOZADA AMERICO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010189,
+          "name": "RECONOCIMIENTO DE VOZ",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GARCIA PEREZ CARMEN ROSA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010209,
+          "name": "SEGURIDAD DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ANTEZANA CAMACHO MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "ANTEZANA CAMACHO MARCELO",
+                  "is_class": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "ANTEZANA CAMACHO MARCELO",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010215,
+          "name": "TALLER DE GRADO II",
+          "groups": [
+            {
+              "code": "2",
+              "teacher": "MONTANO QUIROGA VICTOR HUGO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFDEP",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "3",
+              "teacher": "GARCIA PEREZ CARMEN ROSA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFDEP",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "is_class": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "ROMERO RODRIGUEZ PATRICIA",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010216,
+          "name": "CLOUD COMPUTING",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MONTOYA BURGOS YONY RICHARD",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010217,
+          "name": "BUSINESS INTELLIGENCE Y BIG DATA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                },
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": ". POR DESIGNAR",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2010218,
+          "name": "CIENCIA DE DATOS Y MACHINE LEARNING",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+                  "is_class": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "681B",
+                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+                  "is_class": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
