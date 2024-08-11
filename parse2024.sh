@@ -22,7 +22,7 @@ node parse2024.js 339701
 node parse2024.js 389701
 node parse2024.js 411702
 
-node parse2024.summary.js 2024-01
+node parse2024.summary.js 2024-02
 
 node parse2.gestion.js 2024-01 2023-02
 
