@@ -1,5 +1,5 @@
-mkdir -p data/FCyT/2024-01
-node get2 2024-01
+mkdir -p data/FCyT/2024-02
+node get2 2024-02
 
 # first add md5 sum for invalid pdf
 node parse2024.js 409701
@@ -24,18 +24,18 @@ node parse2024.js 411702
 
 node parse2024.summary.js 2024-02
 
-node parse2.gestion.js 2024-01 2023-02
+node parse2.gestion.js 2024-02 2024-01
 
-#sudo mkdir -p /srv/www/2022.cappuchino/data/FCyT/2024-01
-#sudo cp data/FCyT/2024-01/*.json /srv/www/2022.cappuchino/data/FCyT/2024-01/.
-#sudo cp data/FCyT/2024-01.json   /srv/www/2022.cappuchino/data/FCyT/.
+#sudo mkdir -p /srv/www/2022.cappuchino/data/FCyT/2024-02
+#sudo cp data/FCyT/2024-02/*.json /srv/www/2022.cappuchino/data/FCyT/2024-02/.
+#sudo cp data/FCyT/2024-02.json   /srv/www/2022.cappuchino/data/FCyT/.
 #sudo cp data/FCyT/index.json     /srv/www/2022.cappuchino/data/FCyT/.
 #sudo cp data/FCyT/news.json      /srv/www/2022.cappuchino/data/FCyT/.
 #sudo cp data/index.json          /srv/www/2022.cappuchino/data/.
 
 #mkdir -p /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/2024-1
-#cp data/FCyT/2024-01/*.json /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/2024-2/.
-#cp data/FCyT/2024-01.json   /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/.
+#cp data/FCyT/2024-02/*.json /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/2024-2/.
+#cp data/FCyT/2024-02.json   /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/.
 #cp data/FCyT/index.json   /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/index.json
 #cp data/FCyT/news.json   /mnt/data/starhuks/api_cappuchino/public/data/departments/fcyt/.
 #cd /mnt/data/starhuks/api_cappuchino
