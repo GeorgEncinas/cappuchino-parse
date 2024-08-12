@@ -2,10 +2,11 @@
   "madeIn": "SCESI UMSS",
   "semester": "2/2024",
   "support": "@willypaz243",
+  "path": "2024-02",
   "code": 349701,
   "name": "MATEMATICA (LIC)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/349701. MATEMATICA",
-  "updatet_at": "2024-08-11T10:29:00",
+  "updatet_at": "2024-08-11T20:08:00",
   "levels": [
     {
       "code": "A",
@@ -25,7 +26,7 @@
                   "duration": 2,
                   "room": "690C",
                   "teacher": "CESPEDES GUIZADA MARIA BENITA",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "JU",
@@ -34,7 +35,7 @@
                   "duration": 2,
                   "room": "692G",
                   "teacher": "CESPEDES GUIZADA MARIA BENITA",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -55,7 +56,7 @@
                   "duration": 2,
                   "room": "642",
                   "teacher": "CARRASCO CALVO ALVARO HERNANDO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MA",
@@ -64,7 +65,7 @@
                   "duration": 2,
                   "room": "617",
                   "teacher": "CARRASCO CALVO ALVARO HERNANDO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MI",
@@ -73,7 +74,7 @@
                   "duration": 2,
                   "room": "607",
                   "teacher": "CARRASCO CALVO ALVARO HERNANDO",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -85,21 +86,6 @@
           "groups": [
             {
               "code": "13",
-              "teacher": "QUISPE CHOQUE VLADIMIR",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "QUISPE CHOQUE VLADIMIR",
-                  "is_class": false
-                }
-              ]
-            },
-            {
-              "code": "13",
               "teacher": "ZURITA ORELLANA RIMER MAURICIO",
               "schedule": [
                 {
@@ -109,7 +95,7 @@
                   "duration": 2,
                   "room": "691F",
                   "teacher": "ZURITA ORELLANA RIMER MAURICIO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MA",
@@ -118,7 +104,16 @@
                   "duration": 2,
                   "room": "692C",
                   "teacher": "ZURITA ORELLANA RIMER MAURICIO",
-                  "is_class": true
+                  "isClass": true
+                },
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "QUISPE CHOQUE VLADIMIR",
+                  "isClass": false
                 }
               ]
             }
@@ -139,7 +134,7 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": "SORUCO MAITA JOSE ANTONIO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MI",
@@ -148,7 +143,7 @@
                   "duration": 2,
                   "room": "690E",
                   "teacher": "SORUCO MAITA JOSE ANTONIO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "JU",
@@ -157,7 +152,7 @@
                   "duration": 2,
                   "room": "690E",
                   "teacher": "SORUCO MAITA JOSE ANTONIO",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -178,7 +173,7 @@
                   "duration": 2,
                   "room": "691C",
                   "teacher": "VARGAS COLQUE AIDEE",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "JU",
@@ -187,14 +182,8 @@
                   "duration": 2,
                   "room": "692C",
                   "teacher": "VARGAS COLQUE AIDEE",
-                  "is_class": true
-                }
-              ]
-            },
-            {
-              "code": "2",
-              "teacher": "ALVAREZ CORRALES HENRIQUE",
-              "schedule": [
+                  "isClass": true
+                },
                 {
                   "day": "SA",
                   "start": "815",
@@ -202,7 +191,7 @@
                   "duration": 2,
                   "room": "INFLAB",
                   "teacher": "ALVAREZ CORRALES HENRIQUE",
-                  "is_class": false
+                  "isClass": false
                 }
               ]
             },
@@ -217,7 +206,7 @@
                   "duration": 2,
                   "room": "692A",
                   "teacher": "VARGAS COLQUE AIDEE",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MA",
@@ -226,14 +215,8 @@
                   "duration": 2,
                   "room": "625C",
                   "teacher": "VARGAS COLQUE AIDEE",
-                  "is_class": true
-                }
-              ]
-            },
-            {
-              "code": "4",
-              "teacher": "AUXILIAR POR DESIGNAR .",
-              "schedule": [
+                  "isClass": true
+                },
                 {
                   "day": "MI",
                   "start": "1545",
@@ -241,7 +224,7 @@
                   "duration": 2,
                   "room": "693B",
                   "teacher": "AUXILIAR POR DESIGNAR .",
-                  "is_class": false
+                  "isClass": false
                 }
               ]
             }
@@ -267,7 +250,7 @@
                   "duration": 2,
                   "room": "690B",
                   "teacher": "CLAURE RICHARD PATRICIA ANGELICA",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -276,7 +259,7 @@
                   "duration": 2,
                   "room": "690D",
                   "teacher": "CLAURE RICHARD PATRICIA ANGELICA",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -297,7 +280,7 @@
                   "duration": 2,
                   "room": "691C",
                   "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MA",
@@ -306,7 +289,7 @@
                   "duration": 2,
                   "room": "692A",
                   "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "JU",
@@ -315,7 +298,7 @@
                   "duration": 2,
                   "room": "651",
                   "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -336,7 +319,7 @@
                   "duration": 2,
                   "room": "691C",
                   "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -345,7 +328,7 @@
                   "duration": 2,
                   "room": "622",
                   "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -366,7 +349,7 @@
                   "duration": 2,
                   "room": "690E",
                   "teacher": "JUCHANI BAZUALDO DEMETRIO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MI",
@@ -375,16 +358,7 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": "JUCHANI BAZUALDO DEMETRIO",
-                  "is_class": true
-                },
-                {
-                  "day": "JU",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "690MAT",
-                  "teacher": "JUCHANI BAZUALDO DEMETRIO",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -405,7 +379,7 @@
                   "duration": 2,
                   "room": "CAE",
                   "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MI",
@@ -414,7 +388,7 @@
                   "duration": 2,
                   "room": "CAE",
                   "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -440,7 +414,7 @@
                   "duration": 2,
                   "room": "624",
                   "teacher": "TORRICO TROCHE MILKA MONICA",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MA",
@@ -449,7 +423,7 @@
                   "duration": 2,
                   "room": "692B",
                   "teacher": "TORRICO TROCHE MILKA MONICA",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "JU",
@@ -458,7 +432,7 @@
                   "duration": 2,
                   "room": "692H",
                   "teacher": "TORRICO TROCHE MILKA MONICA",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -479,7 +453,7 @@
                   "duration": 2,
                   "room": "681A",
                   "teacher": ". POR DESIGNAR",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "JU",
@@ -488,7 +462,7 @@
                   "duration": 2,
                   "room": "681A",
                   "teacher": ". POR DESIGNAR",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -497,46 +471,7 @@
                   "duration": 2,
                   "room": "681A",
                   "teacher": ". POR DESIGNAR",
-                  "is_class": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": 2008078,
-          "name": "TEORIA AXIOMATICA DE CONJUNTOS",
-          "groups": [
-            {
-              "code": "1",
-              "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "690MAT",
-                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
-                  "is_class": true
-                },
-                {
-                  "day": "JU",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "LABMAT",
-                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
-                  "is_class": true
-                },
-                {
-                  "day": "VI",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "690MAT",
-                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -557,7 +492,7 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": "RELOS PACO SANTIAGO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -566,7 +501,7 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": "RELOS PACO SANTIAGO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "SA",
@@ -575,7 +510,7 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": "RELOS PACO SANTIAGO",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -601,7 +536,7 @@
                   "duration": 2,
                   "room": "617",
                   "teacher": "CHOQUE UNO FRANCISCO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MI",
@@ -610,7 +545,7 @@
                   "duration": 2,
                   "room": "692A",
                   "teacher": "CHOQUE UNO FRANCISCO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -619,7 +554,7 @@
                   "duration": 2,
                   "room": "692E",
                   "teacher": "CHOQUE UNO FRANCISCO",
-                  "is_class": true
+                  "isClass": true
                 }
               ]
             }
@@ -640,7 +575,7 @@
                   "duration": 2,
                   "room": "623",
                   "teacher": "SORUCO MAITA JOSE ANTONIO",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "JU",
@@ -649,7 +584,258 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": "SORUCO MAITA JOSE ANTONIO",
-                  "is_class": true
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008082,
+          "name": "ALGEBRA LINEAL AVANZADA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008083,
+          "name": "ANALISIS II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MATIAS MARCA VIDAL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008084,
+          "name": "GEOMETRIA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "681A",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "681A",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "681A",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "subjects": [
+        {
+          "code": 2008089,
+          "name": "ANALISIS IV",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": ". POR DESIGNAR",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008090,
+          "name": "GEOMETRIA IV",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008091,
+          "name": "ANALISIS NUMERICO II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008123,
+          "name": "ALGEBRA ABSTRACTA II",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "MEMIDIR",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "MEMIDIR",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "isClass": true
                 }
               ]
             }
@@ -675,7 +861,7 @@
                   "duration": 2,
                   "room": "LABMAT",
                   "teacher": ". POR DESIGNAR",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MI",
@@ -684,7 +870,7 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": ". POR DESIGNAR",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -693,7 +879,111 @@
                   "duration": 2,
                   "room": "690MAT",
                   "teacher": ". POR DESIGNAR",
-                  "is_class": true
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008128,
+          "name": "ALGEBRA ABSTRACTA III",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H",
+      "subjects": [
+        {
+          "code": 2008110,
+          "name": "TEORIA DE LA MEDIDA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MATIAS MARCA VIDAL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008131,
+          "name": "TOPOLOGIA ALGEBRAICA",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "isClass": true
                 }
               ]
             }
@@ -704,6 +994,36 @@
     {
       "code": "I",
       "subjects": [
+        {
+          "code": 2008095,
+          "name": "OPTIMIZACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "MEMIDIR",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
         {
           "code": 2008100,
           "name": "SEMINARIO DE GRADO",
@@ -719,7 +1039,7 @@
                   "duration": 2,
                   "room": "681A",
                   "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
-                  "is_class": true
+                  "isClass": true
                 },
                 {
                   "day": "MI",
@@ -728,7 +1048,51 @@
                   "duration": 2,
                   "room": "681A",
                   "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
-                  "is_class": true
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "J",
+      "subjects": [
+        {
+          "code": 2008096,
+          "name": "MODELAJE Y SIMULACION",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
                 }
               ]
             }
