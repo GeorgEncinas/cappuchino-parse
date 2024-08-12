@@ -671,8 +671,17 @@
             },
             {
               "code": "13",
-              "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO",
+              "teacher": "FLORES COCA DENNIS",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "FLORES COCA DENNIS",
+                  "isClass": false
+                },
                 {
                   "day": "JU",
                   "start": "945",
@@ -690,15 +699,6 @@
                   "room": "693A",
                   "teacher": "DOMINGUEZ BLANCO CARMEN ROSARIO",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "617C",
-                  "teacher": "FLORES COCA DENNIS",
-                  "isClass": false
                 }
               ]
             },
@@ -734,8 +734,17 @@
           "groups": [
             {
               "code": "13",
-              "teacher": "ZURITA ORELLANA RIMER MAURICIO",
+              "teacher": "QUISPE CHOQUE VLADIMIR",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "QUISPE CHOQUE VLADIMIR",
+                  "isClass": false
+                },
                 {
                   "day": "LU",
                   "start": "1845",
@@ -753,15 +762,6 @@
                   "room": "692C",
                   "teacher": "ZURITA ORELLANA RIMER MAURICIO",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "QUISPE CHOQUE VLADIMIR",
-                  "isClass": false
                 }
               ]
             },
@@ -1258,8 +1258,17 @@
           "groups": [
             {
               "code": "7",
-              "teacher": "FERNANDEZ RAMOS DAVID",
+              "teacher": "SERRANO MENA DIEGO LEONARDO",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "693D",
+                  "teacher": "SERRANO MENA DIEGO LEONARDO",
+                  "isClass": false
+                },
                 {
                   "day": "JU",
                   "start": "1845",
@@ -1277,15 +1286,6 @@
                   "room": "693A",
                   "teacher": "FERNANDEZ RAMOS DAVID",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "693D",
-                  "teacher": "SERRANO MENA DIEGO LEONARDO",
-                  "isClass": false
                 }
               ]
             },
@@ -1944,8 +1944,17 @@
           "groups": [
             {
               "code": "3",
-              "teacher": "VARGAS COLQUE AIDEE",
+              "teacher": "AUXILIAR POR DESIGNAR .",
               "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "isClass": false
+                },
                 {
                   "day": "MI",
                   "start": "1245",
@@ -1963,15 +1972,6 @@
                   "room": "691B",
                   "teacher": "VARGAS COLQUE AIDEE",
                   "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "692F",
-                  "teacher": "AUXILIAR POR DESIGNAR .",
-                  "isClass": false
                 }
               ]
             },
@@ -2554,7 +2554,7 @@
                   "duration": 2,
                   "room": "CADCAM",
                   "teacher": "CRESPO GARCIA ALBERTO RUDY",
-                  "isClass": false
+                  "isClass": true
                 }
               ]
             }
@@ -2847,6 +2847,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1630",
+                  "duration": 2,
+                  "room": "682L3",
+                  "teacher": "ACHA PEREZ SAMUEL",
+                  "isClass": false
+                },
+                {
                   "day": "MA",
                   "start": "1030",
                   "end": "1200",
@@ -2863,15 +2872,6 @@
                   "room": "682A",
                   "teacher": "CASTILLO ZEGARRA JUAN CARLOS",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1415",
-                  "end": "1630",
-                  "duration": 2,
-                  "room": "682L3",
-                  "teacher": "ACHA PEREZ SAMUEL",
-                  "isClass": false
                 }
               ]
             }

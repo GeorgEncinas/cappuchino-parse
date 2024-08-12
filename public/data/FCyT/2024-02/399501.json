@@ -74,7 +74,7 @@
                   "duration": 2,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
-                  "isClass": false
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -95,17 +95,8 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "ROJAS CESPEDES JENNY",
+              "teacher": "ALFARO DENUS GONZALO",
               "schedule": [
-                {
-                  "day": "JU",
-                  "start": "945",
-                  "end": "1200",
-                  "duration": 2,
-                  "room": "690A",
-                  "teacher": "ROJAS CESPEDES JENNY",
-                  "isClass": true
-                },
                 {
                   "day": "MA",
                   "start": "815",
@@ -114,6 +105,15 @@
                   "room": "614",
                   "teacher": "ALFARO DENUS GONZALO",
                   "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "690A",
+                  "teacher": "ROJAS CESPEDES JENNY",
+                  "isClass": true
                 }
               ]
             }
@@ -480,17 +480,8 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "VILASECA GAMARRA LUIS ANTONIO",
+              "teacher": ". POR DESIGNAR",
               "schedule": [
-                {
-                  "day": "VI",
-                  "start": "900",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "608",
-                  "teacher": "VILASECA GAMARRA LUIS ANTONIO",
-                  "isClass": true
-                },
                 {
                   "day": "MA",
                   "start": "815",
@@ -499,6 +490,15 @@
                   "room": "615",
                   "teacher": ". POR DESIGNAR",
                   "isClass": false
+                },
+                {
+                  "day": "VI",
+                  "start": "900",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "608",
+                  "teacher": "VILASECA GAMARRA LUIS ANTONIO",
+                  "isClass": true
                 }
               ]
             }
@@ -686,15 +686,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "JU",
-                  "start": "1200",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "608B",
-                  "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
-                  "isClass": true
-                },
-                {
                   "day": "MA",
                   "start": "1415",
                   "end": "1630",
@@ -702,6 +693,15 @@
                   "room": "609A",
                   "teacher": "RIVERO LUJAN MIRTHA JUDITH",
                   "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "1200",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "608B",
+                  "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
+                  "isClass": true
                 }
               ]
             }

@@ -44,7 +44,7 @@
                   "duration": 2,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
-                  "isClass": false
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -86,17 +86,8 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "ROJAS CESPEDES JENNY",
+              "teacher": "ALFARO DENUS GONZALO",
               "schedule": [
-                {
-                  "day": "JU",
-                  "start": "945",
-                  "end": "1200",
-                  "duration": 2,
-                  "room": "690A",
-                  "teacher": "ROJAS CESPEDES JENNY",
-                  "isClass": true
-                },
                 {
                   "day": "MA",
                   "start": "815",
@@ -105,6 +96,15 @@
                   "room": "614",
                   "teacher": "ALFARO DENUS GONZALO",
                   "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1200",
+                  "duration": 2,
+                  "room": "690A",
+                  "teacher": "ROJAS CESPEDES JENNY",
+                  "isClass": true
                 }
               ]
             }
@@ -250,8 +250,17 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "SOTO GONZALES IVAN ISRAEL",
+              "teacher": ". POR DESIGNAR",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                },
                 {
                   "day": "LU",
                   "start": "1415",
@@ -260,22 +269,22 @@
                   "room": "615",
                   "teacher": "SOTO GONZALES IVAN ISRAEL",
                   "isClass": false
-                },
-                {
-                  "day": "LU",
-                  "start": "1415",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": ". POR DESIGNAR",
-                  "isClass": false
                 }
               ]
             },
             {
               "code": "2",
-              "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
+              "teacher": ". POR DESIGNAR",
               "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                },
                 {
                   "day": "MA",
                   "start": "1415",
@@ -283,15 +292,6 @@
                   "duration": 2,
                   "room": "615",
                   "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
-                  "isClass": false
-                },
-                {
-                  "day": "MA",
-                  "start": "1415",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": ". POR DESIGNAR",
                   "isClass": false
                 }
               ]
@@ -618,8 +618,17 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "AUXILIAR POR DESIGNAR .",
+              "teacher": ". POR DESIGNAR",
               "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                },
                 {
                   "day": "MI",
                   "start": "1115",
@@ -628,31 +637,13 @@
                   "room": "615",
                   "teacher": "AUXILIAR POR DESIGNAR .",
                   "isClass": false
-                },
-                {
-                  "day": "MI",
-                  "start": "1115",
-                  "end": "1545",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": ". POR DESIGNAR",
-                  "isClass": false
                 }
               ]
             },
             {
               "code": "2",
-              "teacher": ". POR DESIGNAR",
+              "teacher": "SOTO GONZALES IVAN ISRAEL",
               "schedule": [
-                {
-                  "day": "SA",
-                  "start": "815",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": ". POR DESIGNAR",
-                  "isClass": true
-                },
                 {
                   "day": "SA",
                   "start": "815",
@@ -661,22 +652,22 @@
                   "room": "615",
                   "teacher": "SOTO GONZALES IVAN ISRAEL",
                   "isClass": false
+                },
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
                 }
               ]
             },
             {
               "code": "3",
-              "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
+              "teacher": "DAVILA CABRERA MARCELO ARMANDO",
               "schedule": [
-                {
-                  "day": "VI",
-                  "start": "1415",
-                  "end": "1800",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
-                  "isClass": false
-                },
                 {
                   "day": "VI",
                   "start": "1415",
@@ -684,6 +675,15 @@
                   "duration": 2,
                   "room": "615",
                   "teacher": "DAVILA CABRERA MARCELO ARMANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 2,
+                  "room": "615",
+                  "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
                   "isClass": false
                 }
               ]

@@ -86,8 +86,17 @@
           "groups": [
             {
               "code": "13",
-              "teacher": "ZURITA ORELLANA RIMER MAURICIO",
+              "teacher": "QUISPE CHOQUE VLADIMIR",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "QUISPE CHOQUE VLADIMIR",
+                  "isClass": true
+                },
                 {
                   "day": "LU",
                   "start": "1845",
@@ -105,15 +114,6 @@
                   "room": "692C",
                   "teacher": "ZURITA ORELLANA RIMER MAURICIO",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "QUISPE CHOQUE VLADIMIR",
-                  "isClass": false
                 }
               ]
             }
@@ -359,6 +359,15 @@
                   "room": "690MAT",
                   "teacher": "JUCHANI BAZUALDO DEMETRIO",
                   "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "JUCHANI BAZUALDO DEMETRIO",
+                  "isClass": true
                 }
               ]
             }
@@ -471,6 +480,45 @@
                   "duration": 2,
                   "room": "681A",
                   "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": 2008078,
+          "name": "TEORIA AXIOMATICA DE CONJUNTOS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
                   "isClass": true
                 }
               ]
@@ -647,6 +695,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                },
+                {
                   "day": "MI",
                   "start": "1415",
                   "end": "1545",
@@ -728,6 +785,15 @@
                   "room": "690MAT",
                   "teacher": ". POR DESIGNAR",
                   "isClass": true
+                },
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690MAT",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
                 }
               ]
             }
@@ -745,6 +811,15 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1115",
+                  "duration": 2,
+                  "room": "LABMAT",
+                  "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "815",
+                  "end": "945",
                   "duration": 2,
                   "room": "LABMAT",
                   "teacher": "GONZALES CASTELLON CARLOS ESTEBAN",
@@ -904,6 +979,15 @@
                   "end": "1115",
                   "duration": 2,
                   "room": "MEMIDIR",
+                  "teacher": "ZEGARRA DORADO LUIS ROBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "LABMAT",
                   "teacher": "ZEGARRA DORADO LUIS ROBERTO",
                   "isClass": true
                 },

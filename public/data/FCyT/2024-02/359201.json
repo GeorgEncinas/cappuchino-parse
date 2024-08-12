@@ -266,8 +266,17 @@
           "groups": [
             {
               "code": "3",
-              "teacher": "RELOS PACO SANTIAGO",
+              "teacher": "FRIAS CRUZ ROSALIA",
               "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "FRIAS CRUZ ROSALIA",
+                  "isClass": false
+                },
                 {
                   "day": "JU",
                   "start": "1845",
@@ -285,15 +294,6 @@
                   "room": "624",
                   "teacher": "RELOS PACO SANTIAGO",
                   "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "661",
-                  "teacher": "FRIAS CRUZ ROSALIA",
-                  "isClass": false
                 }
               ]
             }
@@ -705,15 +705,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "MI",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "607",
-                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
-                  "isClass": true
-                },
-                {
                   "day": "MA",
                   "start": "945",
                   "end": "1115",
@@ -721,6 +712,15 @@
                   "room": "625D",
                   "teacher": "CHUCA CONDO LUIS ALBERTO",
                   "isClass": false
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
                 }
               ]
             }

@@ -452,15 +452,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "JU",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "617",
-                  "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
-                  "isClass": true
-                },
-                {
                   "day": "MI",
                   "start": "1245",
                   "end": "1415",
@@ -468,6 +459,15 @@
                   "room": "642",
                   "teacher": "ARANIBAR ZAMBRANA AMMY SHALEM",
                   "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+                  "isClass": true
                 }
               ]
             },
@@ -608,8 +608,17 @@
           "groups": [
             {
               "code": "3",
-              "teacher": "RELOS PACO SANTIAGO",
+              "teacher": "FRIAS CRUZ ROSALIA",
               "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "FRIAS CRUZ ROSALIA",
+                  "isClass": false
+                },
                 {
                   "day": "JU",
                   "start": "1845",
@@ -627,22 +636,22 @@
                   "room": "624",
                   "teacher": "RELOS PACO SANTIAGO",
                   "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "661",
-                  "teacher": "FRIAS CRUZ ROSALIA",
-                  "isClass": false
                 }
               ]
             },
             {
               "code": "4",
-              "teacher": ". POR DESIGNAR",
+              "teacher": "OJOPI MORENO LUIS GUSTAVO",
               "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "OJOPI MORENO LUIS GUSTAVO",
+                  "isClass": false
+                },
                 {
                   "day": "VI",
                   "start": "645",
@@ -660,15 +669,6 @@
                   "room": "622",
                   "teacher": ". POR DESIGNAR",
                   "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "OJOPI MORENO LUIS GUSTAVO",
-                  "isClass": false
                 }
               ]
             },
@@ -737,8 +737,17 @@
             },
             {
               "code": "8",
-              "teacher": "MANZUR SORIA CARLOS B.",
+              "teacher": "VELIZ ESCOBAR JOSUE DEMETRIO",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "VELIZ ESCOBAR JOSUE DEMETRIO",
+                  "isClass": false
+                },
                 {
                   "day": "JU",
                   "start": "645",
@@ -756,15 +765,6 @@
                   "room": "651",
                   "teacher": "MANZUR SORIA CARLOS B.",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "691A",
-                  "teacher": "VELIZ ESCOBAR JOSUE DEMETRIO",
-                  "isClass": false
                 }
               ]
             },
@@ -1180,15 +1180,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "VI",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "690C",
-                  "teacher": "TORRICO BASCOPE ROSEMARY",
-                  "isClass": true
-                },
-                {
                   "day": "MI",
                   "start": "1115",
                   "end": "1245",
@@ -1196,6 +1187,15 @@
                   "room": "651",
                   "teacher": "CUENCA VARGAS FERNANDO",
                   "isClass": false
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "TORRICO BASCOPE ROSEMARY",
+                  "isClass": true
                 }
               ]
             },
@@ -1285,15 +1285,6 @@
                   "isClass": false
                 },
                 {
-                  "day": "VI",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "668",
-                  "teacher": "ESPINOZA OROSCO JOSE",
-                  "isClass": false
-                },
-                {
                   "day": "MA",
                   "start": "1115",
                   "end": "1245",
@@ -1301,13 +1292,7 @@
                   "room": "682B",
                   "teacher": "GONZALES MURILLO JONAS CRISTIHAN",
                   "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "PEREZ PEREDO YURI GERMAN",
-              "schedule": [
+                },
                 {
                   "day": "MA",
                   "start": "1415",
@@ -1315,7 +1300,7 @@
                   "duration": 2,
                   "room": "693B",
                   "teacher": "PEREZ PEREDO YURI GERMAN",
-                  "isClass": true
+                  "isClass": false
                 },
                 {
                   "day": "JU",
@@ -1325,13 +1310,31 @@
                   "room": "692E",
                   "teacher": "PEREZ PEREDO YURI GERMAN",
                   "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "668",
+                  "teacher": "ESPINOZA OROSCO JOSE",
+                  "isClass": true
                 }
               ]
             },
             {
               "code": "2",
-              "teacher": "PEREZ PEREDO YURI GERMAN",
+              "teacher": "ESPINOZA OROSCO JOSE",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "682L2",
+                  "teacher": "ESPINOZA OROSCO JOSE",
+                  "isClass": false
+                },
                 {
                   "day": "MI",
                   "start": "1715",
@@ -1342,28 +1345,13 @@
                   "isClass": false
                 },
                 {
-                  "day": "LU",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "682L2",
-                  "teacher": "ESPINOZA OROSCO JOSE",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "2",
-              "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
-              "schedule": [
-                {
                   "day": "JU",
                   "start": "1845",
                   "end": "2015",
                   "duration": 2,
                   "room": "693D",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
-                  "isClass": true
+                  "isClass": false
                 },
                 {
                   "day": "VI",
@@ -1373,13 +1361,7 @@
                   "room": "691F",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
                   "isClass": true
-                }
-              ]
-            },
-            {
-              "code": "2",
-              "teacher": "IBARRA VAQUILLA OSMAR",
-              "schedule": [
+                },
                 {
                   "day": "SA",
                   "start": "815",
@@ -1393,8 +1375,17 @@
             },
             {
               "code": "3",
-              "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
+              "teacher": "ARZE SOLIZ JESUS EDMUNDO",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "682B",
+                  "teacher": "ARZE SOLIZ JESUS EDMUNDO",
+                  "isClass": false
+                },
                 {
                   "day": "MI",
                   "start": "945",
@@ -1412,15 +1403,6 @@
                   "room": "651",
                   "teacher": "RODRIGUEZ SEJAS JUAN ANTONIO",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "682B",
-                  "teacher": "ARZE SOLIZ JESUS EDMUNDO",
-                  "isClass": false
                 }
               ]
             }
@@ -1776,15 +1758,6 @@
                   "isClass": false
                 },
                 {
-                  "day": "VI",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "668",
-                  "teacher": "ESPINOZA OROSCO JOSE",
-                  "isClass": false
-                },
-                {
                   "day": "MA",
                   "start": "1415",
                   "end": "1545",
@@ -1792,13 +1765,7 @@
                   "room": "682B",
                   "teacher": "GONZALES MURILLO JONAS CRISTIHAN",
                   "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "BUSTILLOS VARGAS ALEX ISRRAEL",
-              "schedule": [
+                },
                 {
                   "day": "MA",
                   "start": "1545",
@@ -1806,7 +1773,16 @@
                   "duration": 2,
                   "room": "617C",
                   "teacher": "BUSTILLOS VARGAS ALEX ISRRAEL",
-                  "isClass": true
+                  "isClass": false
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "668",
+                  "teacher": "PEREZ PEREDO YURI GERMAN",
+                  "isClass": false
                 },
                 {
                   "day": "MI",
@@ -1816,21 +1792,15 @@
                   "room": "623",
                   "teacher": "BUSTILLOS VARGAS ALEX ISRRAEL",
                   "isClass": true
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "PEREZ PEREDO YURI GERMAN",
-              "schedule": [
+                },
                 {
-                  "day": "MI",
-                  "start": "1415",
-                  "end": "1545",
+                  "day": "VI",
+                  "start": "1715",
+                  "end": "1845",
                   "duration": 2,
                   "room": "668",
-                  "teacher": "PEREZ PEREDO YURI GERMAN",
-                  "isClass": false
+                  "teacher": "ESPINOZA OROSCO JOSE",
+                  "isClass": true
                 }
               ]
             },
@@ -1848,6 +1818,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "668",
+                  "teacher": "PEREZ PEREDO YURI GERMAN",
+                  "isClass": false
+                },
+                {
                   "day": "JU",
                   "start": "1715",
                   "end": "1845",
@@ -1857,21 +1836,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "MI",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "668",
-                  "teacher": "PEREZ PEREDO YURI GERMAN",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "2",
-              "teacher": "RODRIGUEZ JOBE ADAMARIS GISELA",
-              "schedule": [
-                {
                   "day": "VI",
                   "start": "1545",
                   "end": "1715",
@@ -1879,13 +1843,7 @@
                   "room": "642",
                   "teacher": "RODRIGUEZ JOBE ADAMARIS GISELA",
                   "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "2",
-              "teacher": "ESPINOZA OROSCO JOSE",
-              "schedule": [
+                },
                 {
                   "day": "SA",
                   "start": "945",
@@ -2054,8 +2012,17 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "VALLEJO CAMACHO MARCO ANTONIO",
+              "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "1030",
+                  "duration": 2,
+                  "room": "668",
+                  "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
+                  "isClass": false
+                },
                 {
                   "day": "LU",
                   "start": "1845",
@@ -2075,29 +2042,14 @@
                   "isClass": true
                 },
                 {
-                  "day": "LU",
-                  "start": "815",
-                  "end": "1030",
-                  "duration": 2,
-                  "room": "668",
-                  "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
-                  "isClass": false
-                },
-                {
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
                   "duration": 2,
                   "room": "668",
                   "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "GONZALES MURILLO JONAS CRISTIHAN",
-              "schedule": [
+                  "isClass": true
+                },
                 {
                   "day": "VI",
                   "start": "1845",
@@ -2111,8 +2063,17 @@
             },
             {
               "code": "2",
-              "teacher": "USTARIZ ARAMAYO VICTOR",
+              "teacher": "VALLEJO CAMACHO MARCO ANTONIO",
               "schedule": [
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "900",
+                  "duration": 2,
+                  "room": "668",
+                  "teacher": "VALLEJO CAMACHO MARCO ANTONIO",
+                  "isClass": false
+                },
                 {
                   "day": "VI",
                   "start": "2015",
@@ -2131,21 +2092,6 @@
                   "teacher": "USTARIZ ARAMAYO VICTOR",
                   "isClass": true
                 },
-                {
-                  "day": "MI",
-                  "start": "645",
-                  "end": "900",
-                  "duration": 2,
-                  "room": "668",
-                  "teacher": "VALLEJO CAMACHO MARCO ANTONIO",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "2",
-              "teacher": "IBARRA VAQUILLA OSMAR",
-              "schedule": [
                 {
                   "day": "SA",
                   "start": "1115",
@@ -2177,6 +2123,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "671A",
+                  "teacher": "TANCARA SANDAGORDA JOSE FELIX",
+                  "isClass": false
+                },
+                {
                   "day": "MA",
                   "start": "645",
                   "end": "815",
@@ -2186,13 +2141,22 @@
                   "isClass": true
                 },
                 {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "671A",
+                  "teacher": "LUNA LOZA ALEXANDER",
+                  "isClass": false
+                },
+                {
                   "day": "JU",
                   "start": "645",
                   "end": "815",
                   "duration": 2,
                   "room": "671A",
                   "teacher": "ESPINOZA OROSCO RUBEN",
-                  "isClass": false
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -2202,30 +2166,6 @@
                   "room": "692B",
                   "teacher": "ESPINOZA OROSCO RUBEN",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "671A",
-                  "teacher": "TANCARA SANDAGORDA JOSE FELIX",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "LUNA LOZA ALEXANDER",
-              "schedule": [
-                {
-                  "day": "MI",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "671A",
-                  "teacher": "LUNA LOZA ALEXANDER",
-                  "isClass": false
                 }
               ]
             },
@@ -2241,6 +2181,15 @@
                   "room": "623",
                   "teacher": "ARISPE SANTANDER ALBERTO CARLOS",
                   "isClass": true
+                },
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "671A",
+                  "teacher": "TANCARA SANDAGORDA JOSE FELIX",
+                  "isClass": false
                 },
                 {
                   "day": "MA",
@@ -2260,21 +2209,6 @@
                   "teacher": "ARISPE SANTANDER ALBERTO CARLOS",
                   "isClass": true
                 },
-                {
-                  "day": "LU",
-                  "start": "1715",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "671A",
-                  "teacher": "TANCARA SANDAGORDA JOSE FELIX",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "2",
-              "teacher": "ZAMBRANA CONTRERAS KIMBERLY",
-              "schedule": [
                 {
                   "day": "JU",
                   "start": "1415",
@@ -2342,6 +2276,15 @@
                 },
                 {
                   "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "671A",
+                  "teacher": "MONTOYA CARDOZO HETZEL",
+                  "isClass": false
+                },
+                {
+                  "day": "MI",
                   "start": "1545",
                   "end": "1845",
                   "duration": 2,
@@ -2349,21 +2292,6 @@
                   "teacher": "SARAMANI AGUILAR ARTURO",
                   "isClass": true
                 },
-                {
-                  "day": "MI",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "671A",
-                  "teacher": "MONTOYA CARDOZO HETZEL",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "GONZALES MURILLO JONAS CRISTIHAN",
-              "schedule": [
                 {
                   "day": "VI",
                   "start": "945",
@@ -2383,8 +2311,17 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "URRUTIA MEDRANO JOSE A.",
+              "teacher": "PEREZ PEREDO YURI GERMAN",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1630",
+                  "duration": 2,
+                  "room": "682L2",
+                  "teacher": "PEREZ PEREDO YURI GERMAN",
+                  "isClass": false
+                },
                 {
                   "day": "MA",
                   "start": "1545",
@@ -2393,6 +2330,15 @@
                   "room": "682L1",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
                   "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "682L2",
+                  "teacher": "GONZALES ALARCON KEVIN LUIS",
+                  "isClass": false
                 },
                 {
                   "day": "JU",
@@ -2411,30 +2357,6 @@
                   "room": "691D",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1415",
-                  "end": "1630",
-                  "duration": 2,
-                  "room": "682L2",
-                  "teacher": "PEREZ PEREDO YURI GERMAN",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "GONZALES ALARCON KEVIN LUIS",
-              "schedule": [
-                {
-                  "day": "MI",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "682L2",
-                  "teacher": "GONZALES ALARCON KEVIN LUIS",
-                  "isClass": false
                 }
               ]
             }
@@ -2554,24 +2476,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "MA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "692G",
-                  "teacher": "ARISPE SANTANDER ALBERTO CARLOS",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "691E",
-                  "teacher": "ARISPE SANTANDER ALBERTO CARLOS",
-                  "isClass": true
-                },
-                {
                   "day": "LU",
                   "start": "1845",
                   "end": "2100",
@@ -2582,12 +2486,30 @@
                 },
                 {
                   "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "ARISPE SANTANDER ALBERTO CARLOS",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
                   "start": "1845",
                   "end": "2100",
                   "duration": 2,
                   "room": "682L3",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
                   "isClass": false
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "ARISPE SANTANDER ALBERTO CARLOS",
+                  "isClass": true
                 }
               ]
             }
@@ -2728,6 +2650,15 @@
                 },
                 {
                   "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "682A",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "isClass": false
+                },
+                {
+                  "day": "MA",
                   "start": "1415",
                   "end": "1545",
                   "duration": 2,
@@ -2745,21 +2676,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "MA",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "682A",
-                  "teacher": "AUXILIAR POR DESIGNAR .",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "CARDOZO CHOQUETICLLA DIEGO",
-              "schedule": [
-                {
                   "day": "VI",
                   "start": "815",
                   "end": "945",
@@ -2767,13 +2683,7 @@
                   "room": "682L1",
                   "teacher": "CARDOZO CHOQUETICLLA DIEGO",
                   "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "ZAMBRANA CONTRERAS KIMBERLY",
-              "schedule": [
+                },
                 {
                   "day": "VI",
                   "start": "1245",
@@ -2782,13 +2692,7 @@
                   "room": "690D",
                   "teacher": "ZAMBRANA CONTRERAS KIMBERLY",
                   "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "FLORES BALDERRAMA IVAN MANUEL",
-              "schedule": [
+                },
                 {
                   "day": "VI",
                   "start": "1545",
@@ -2841,8 +2745,17 @@
             },
             {
               "code": "2",
-              "teacher": "ZAMBRANA VILAR JORGE",
+              "teacher": "AUXILIAR POR DESIGNAR .",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "682L4",
+                  "teacher": "AUXILIAR POR DESIGNAR .",
+                  "isClass": false
+                },
                 {
                   "day": "MI",
                   "start": "945",
@@ -2860,15 +2773,6 @@
                   "room": "682L4",
                   "teacher": "ZAMBRANA VILAR JORGE",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "682L4",
-                  "teacher": "AUXILIAR POR DESIGNAR .",
-                  "isClass": false
                 }
               ]
             }
@@ -3027,6 +2931,15 @@
                 },
                 {
                   "day": "VI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "MONTOYA CARDOZO HETZEL",
+                  "isClass": false
+                },
+                {
+                  "day": "VI",
                   "start": "1845",
                   "end": "2015",
                   "duration": 2,
@@ -3042,15 +2955,6 @@
                   "room": "691C",
                   "teacher": "MERIDA LOPEZ REINALDO",
                   "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "MONTOYA CARDOZO HETZEL",
-                  "isClass": false
                 }
               ]
             }
@@ -3123,6 +3027,15 @@
                 },
                 {
                   "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "682L2",
+                  "teacher": "IRIARTE CAMACHO DILAN MARCELO",
+                  "isClass": false
+                },
+                {
+                  "day": "MI",
                   "start": "1415",
                   "end": "1545",
                   "duration": 2,
@@ -3137,7 +3050,7 @@
                   "duration": 2,
                   "room": "670",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
-                  "isClass": false
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -3146,16 +3059,7 @@
                   "duration": 2,
                   "room": "682L1",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
-                  "isClass": false
-                },
-                {
-                  "day": "MI",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "682L2",
-                  "teacher": "IRIARTE CAMACHO DILAN MARCELO",
-                  "isClass": false
+                  "isClass": true
                 }
               ]
             }
@@ -3167,8 +3071,17 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "ZAMBRANA VILAR JORGE",
+              "teacher": "VELASCO ESCALERA SAUL",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "682L4",
+                  "teacher": "VELASCO ESCALERA SAUL",
+                  "isClass": false
+                },
                 {
                   "day": "LU",
                   "start": "815",
@@ -3187,21 +3100,6 @@
                   "teacher": "ZAMBRANA VILAR JORGE",
                   "isClass": true
                 },
-                {
-                  "day": "LU",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "682L4",
-                  "teacher": "VELASCO ESCALERA SAUL",
-                  "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "teacher": "AUXILIAR POR DESIGNAR .",
-              "schedule": [
                 {
                   "day": "MA",
                   "start": "1845",
@@ -3292,15 +3190,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "667B",
-                  "teacher": "SARAMANI AGUILAR ARTURO",
-                  "isClass": true
-                },
-                {
                   "day": "MI",
                   "start": "815",
                   "end": "945",
@@ -3308,6 +3197,15 @@
                   "room": "670",
                   "teacher": "ZAMBRANA CONTRERAS KIMBERLY",
                   "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "667B",
+                  "teacher": "SARAMANI AGUILAR ARTURO",
+                  "isClass": true
                 }
               ]
             }
@@ -3708,8 +3606,17 @@
           "groups": [
             {
               "code": "1",
-              "teacher": "COSSIO CABRERA WALTER FELIX",
+              "teacher": "MONTANO FERNANDEZ LUIS DIEGO",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1500",
+                  "duration": 2,
+                  "room": "682A",
+                  "teacher": "MONTANO FERNANDEZ LUIS DIEGO",
+                  "isClass": false
+                },
                 {
                   "day": "LU",
                   "start": "1845",
@@ -3727,15 +3634,6 @@
                   "room": "667A",
                   "teacher": "COSSIO CABRERA WALTER FELIX",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1500",
-                  "duration": 2,
-                  "room": "682A",
-                  "teacher": "MONTANO FERNANDEZ LUIS DIEGO",
-                  "isClass": false
                 }
               ]
             }
@@ -4022,15 +3920,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "SA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "682L3",
-                  "teacher": "ZAMBRANA BURGOS JHOMIL EFRAIN",
-                  "isClass": true
-                },
-                {
                   "day": "VI",
                   "start": "945",
                   "end": "1115",
@@ -4038,6 +3927,15 @@
                   "room": "670",
                   "teacher": "RICO SORIA GALVARRO GIOVANNY VICENTE",
                   "isClass": false
+                },
+                {
+                  "day": "SA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "682L3",
+                  "teacher": "ZAMBRANA BURGOS JHOMIL EFRAIN",
+                  "isClass": true
                 }
               ]
             }
