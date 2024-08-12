@@ -44,7 +44,7 @@
                   "duration": 2,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
-                  "isClass": false
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -197,8 +197,17 @@
           "groups": [
             {
               "code": "13",
-              "teacher": "ZURITA ORELLANA RIMER MAURICIO",
+              "teacher": "QUISPE CHOQUE VLADIMIR",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "652",
+                  "teacher": "QUISPE CHOQUE VLADIMIR",
+                  "isClass": false
+                },
                 {
                   "day": "LU",
                   "start": "1845",
@@ -216,15 +225,6 @@
                   "room": "692C",
                   "teacher": "ZURITA ORELLANA RIMER MAURICIO",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "QUISPE CHOQUE VLADIMIR",
-                  "isClass": false
                 }
               ]
             }

@@ -44,7 +44,7 @@
                   "duration": 2,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
-                  "isClass": false
+                  "isClass": true
                 },
                 {
                   "day": "VI",
@@ -176,8 +176,17 @@
           "groups": [
             {
               "code": "3",
-              "teacher": "RELOS PACO SANTIAGO",
+              "teacher": "FRIAS CRUZ ROSALIA",
               "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "FRIAS CRUZ ROSALIA",
+                  "isClass": false
+                },
                 {
                   "day": "JU",
                   "start": "1845",
@@ -195,15 +204,6 @@
                   "room": "624",
                   "teacher": "RELOS PACO SANTIAGO",
                   "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "661",
-                  "teacher": "FRIAS CRUZ ROSALIA",
-                  "isClass": false
                 }
               ]
             }
@@ -537,15 +537,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "MI",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "607",
-                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
-                  "isClass": true
-                },
-                {
                   "day": "MA",
                   "start": "945",
                   "end": "1115",
@@ -553,6 +544,15 @@
                   "room": "625D",
                   "teacher": "CHUCA CONDO LUIS ALBERTO",
                   "isClass": false
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
                 }
               ]
             }
@@ -710,15 +710,6 @@
                   "isClass": true
                 },
                 {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "692F",
-                  "teacher": "TRUJILLO ARANIBAR WILSON ORLANDO",
-                  "isClass": true
-                },
-                {
                   "day": "MI",
                   "start": "1245",
                   "end": "1415",
@@ -726,6 +717,15 @@
                   "room": "660",
                   "teacher": "ROMERO COCA MIROSLAVA LINNETE",
                   "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "TRUJILLO ARANIBAR WILSON ORLANDO",
+                  "isClass": true
                 }
               ]
             }

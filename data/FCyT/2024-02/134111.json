@@ -341,6 +341,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "ARANIBAR ZAMBRANA AMMY SHALEM",
+                  "isClass": true
+                },
+                {
                   "day": "VI",
                   "start": "1245",
                   "end": "1415",
@@ -348,15 +357,6 @@
                   "room": "607",
                   "teacher": "LEON ROMERO GUALBERTO",
                   "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "625D",
-                  "teacher": "ARANIBAR ZAMBRANA AMMY SHALEM",
-                  "isClass": false
                 }
               ]
             }
@@ -518,6 +518,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "MI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "VELIZ ESCOBAR JOSUE DEMETRIO",
+                  "isClass": true
+                },
+                {
                   "day": "JU",
                   "start": "1545",
                   "end": "1715",
@@ -525,15 +534,6 @@
                   "room": "624",
                   "teacher": "BLANCO COCA LETICIA",
                   "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "691B",
-                  "teacher": "VELIZ ESCOBAR JOSUE DEMETRIO",
-                  "isClass": false
                 }
               ]
             },
@@ -671,8 +671,17 @@
             },
             {
               "code": "7",
-              "teacher": ". POR DESIGNAR",
+              "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
               "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
+                  "isClass": true
+                },
                 {
                   "day": "MI",
                   "start": "1545",
@@ -690,15 +699,6 @@
                   "room": "693B",
                   "teacher": ". POR DESIGNAR",
                   "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "690C",
-                  "teacher": "ANTEZANA SERRANO DILAN ALEJANDRO",
-                  "isClass": false
                 }
               ]
             }
@@ -871,6 +871,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "CRUZ ACHAYA MARIA CLAUDIA",
+                  "isClass": true
+                },
+                {
                   "day": "JU",
                   "start": "1415",
                   "end": "1545",
@@ -878,15 +887,6 @@
                   "room": "692B",
                   "teacher": "OMONTE OJALVO JOSE ROBERTO",
                   "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1415",
-                  "end": "1545",
-                  "duration": 2,
-                  "room": "692D",
-                  "teacher": "CRUZ ACHAYA MARIA CLAUDIA",
-                  "isClass": false
                 }
               ]
             }
@@ -943,6 +943,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "SOSA MARZE DAVID SAUL",
+                  "isClass": true
+                },
+                {
                   "day": "JU",
                   "start": "1415",
                   "end": "1545",
@@ -950,15 +959,6 @@
                   "room": "693A",
                   "teacher": "TERRAZAS LOBO JUAN",
                   "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1415",
-                  "end": "1545",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "SOSA MARZE DAVID SAUL",
-                  "isClass": false
                 }
               ]
             }
@@ -982,6 +982,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "CUENCA VARGAS FERNANDO",
+                  "isClass": true
+                },
+                {
                   "day": "VI",
                   "start": "815",
                   "end": "945",
@@ -989,15 +998,6 @@
                   "room": "690C",
                   "teacher": "TORRICO BASCOPE ROSEMARY",
                   "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "651",
-                  "teacher": "CUENCA VARGAS FERNANDO",
-                  "isClass": false
                 }
               ]
             },
@@ -1015,6 +1015,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+                  "isClass": true
+                },
+                {
                   "day": "JU",
                   "start": "1245",
                   "end": "1415",
@@ -1022,15 +1031,6 @@
                   "room": "624",
                   "teacher": "BLANCO COCA LETICIA",
                   "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "623",
-                  "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
-                  "isClass": false
                 }
               ]
             },
@@ -1081,6 +1081,15 @@
                   "isClass": true
                 },
                 {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
+                  "isClass": true
+                },
+                {
                   "day": "MA",
                   "start": "645",
                   "end": "815",
@@ -1088,15 +1097,6 @@
                   "room": "INFLAB",
                   "teacher": ". POR DESIGNAR",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "691B",
-                  "teacher": "ALVAREZ ROJAS ALEXANDER JAMES",
-                  "isClass": false
                 }
               ]
             }
@@ -2155,6 +2155,15 @@
               "teacher": "CALANCHA NAVIA BORIS",
               "schedule": [
                 {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "isClass": true
+                },
+                {
                   "day": "MI",
                   "start": "645",
                   "end": "815",
@@ -2441,6 +2450,54 @@
           "name": "TALLER DE BASE DE DATOS",
           "groups": [
             {
+              "code": "1",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "isClass": true
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "isClass": true
+                }
+              ]
+            },
+            {
               "code": "3",
               "teacher": "FLORES SOLIZ JUAN MARCELO",
               "schedule": [
@@ -2460,6 +2517,30 @@
                   "duration": 2,
                   "room": "690B",
                   "teacher": "FLORES SOLIZ JUAN MARCELO",
+                  "isClass": true
+                }
+              ]
+            },
+            {
+              "code": "4",
+              "teacher": "CALANCHA NAVIA BORIS",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "CALANCHA NAVIA BORIS",
                   "isClass": true
                 }
               ]
@@ -2641,6 +2722,24 @@
               "code": "1",
               "teacher": ". POR DESIGNAR",
               "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": ". POR DESIGNAR",
+                  "isClass": true
+                },
                 {
                   "day": "MI",
                   "start": "815",
@@ -3112,6 +3211,36 @@
           ]
         },
         {
+          "code": 2010209,
+          "name": "SEGURIDAD DE SISTEMAS",
+          "groups": [
+            {
+              "code": "1",
+              "teacher": "ANTEZANA CAMACHO MARCELO",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "ANTEZANA CAMACHO MARCELO",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "ANTEZANA CAMACHO MARCELO",
+                  "isClass": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": 2010215,
           "name": "TALLER DE GRADO II",
           "groups": [
@@ -3119,6 +3248,15 @@
               "code": "2",
               "teacher": "MONTANO QUIROGA VICTOR HUGO",
               "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "isClass": true
+                },
                 {
                   "day": "JU",
                   "start": "815",
