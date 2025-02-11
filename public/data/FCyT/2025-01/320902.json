@@ -406,7 +406,7 @@
                   "day": "MI",
                   "start": "1545",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CAE",
                   "teacher": "MENDEZ VELASQUEZ IVAN",
                   "isClass": true
@@ -430,7 +430,7 @@
                   "day": "LU",
                   "start": "1115",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "691E",
                   "teacher": "SALVATIERRA BARRIONUEVO JOSEPH BILL",
                   "isClass": true
@@ -439,7 +439,7 @@
                   "day": "VI",
                   "start": "645",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CAE",
                   "teacher": "SALVATIERRA BARRIONUEVO JOSEPH BILL",
                   "isClass": true
@@ -505,7 +505,7 @@
                   "day": "JU",
                   "start": "645",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 10,
                   "room": "CAE",
                   "teacher": "VILLAZON ROCHA YAMIR",
                   "isClass": true
@@ -538,7 +538,7 @@
                   "day": "MA",
                   "start": "645",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 10,
                   "room": "CAE",
                   "teacher": "VILLAZON ROCHA YAMIR",
                   "isClass": true
@@ -2287,7 +2287,7 @@
                   "day": "MA",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "661",
                   "teacher": "ARANIBAR LA FUENTE LIGIA JACQUELINE",
                   "isClass": true
@@ -2302,7 +2302,7 @@
                   "day": "MI",
                   "start": "1330",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690C",
                   "teacher": "LEDEZMA PERIZZA FERNANDO ARTURO",
                   "isClass": true
@@ -2317,7 +2317,7 @@
                   "day": "VI",
                   "start": "1545",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690C",
                   "teacher": "ARANIBAR LA FUENTE LIGIA JACQUELINE",
                   "isClass": true
@@ -2356,7 +2356,7 @@
                   "day": "VI",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "MAGCIV",
                   "teacher": "MERUVIA JOSE",
                   "isClass": true
@@ -2371,7 +2371,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "693C",
                   "teacher": "LOPEZ LOREDO GROVER DANTE",
                   "isClass": true
@@ -2410,7 +2410,7 @@
                   "day": "LU",
                   "start": "1115",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CAMPO",
                   "teacher": "VERA CORTES CARLOS ALBERTO",
                   "isClass": true
@@ -2428,7 +2428,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 10,
                   "room": "CAMPO",
                   "teacher": "MELENDRES TAMES FERNANDO JOSE",
                   "isClass": false
@@ -2452,7 +2452,7 @@
                   "day": "JU",
                   "start": "1245",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CAMPO",
                   "teacher": "VERA CORTES CARLOS ALBERTO",
                   "isClass": true
@@ -2461,7 +2461,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "CAMPO",
                   "teacher": "SAINZ FERRUFINO MARCELO GUSTAVO",
                   "isClass": false
@@ -2470,7 +2470,7 @@
                   "day": "JU",
                   "start": "1245",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CAMPO",
                   "teacher": "SAINZ FERRUFINO MARCELO GUSTAVO",
                   "isClass": false
@@ -2494,7 +2494,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CAMPO",
                   "teacher": "LEDEZMA PERIZZA FERNANDO ARTURO",
                   "isClass": true
@@ -2509,7 +2509,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CAMPO",
                   "teacher": "VERA CORTES CARLOS ALBERTO",
                   "isClass": true
@@ -2946,7 +2946,7 @@
                   "day": "LU",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692G",
                   "teacher": "LEDEZMA PERIZZA FERNANDO ARTURO",
                   "isClass": true
@@ -2970,7 +2970,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "691C",
                   "teacher": "LOPEZ LOREDO GROVER DANTE",
                   "isClass": true
@@ -3472,7 +3472,7 @@
                   "day": "MI",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "693A",
                   "teacher": "FLORERO ORTUNO OSCAR",
                   "isClass": true
@@ -3496,7 +3496,7 @@
                   "day": "MA",
                   "start": "1330",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "617B",
                   "teacher": "ANTEZANA ROMAN OMAR",
                   "isClass": true
@@ -3520,7 +3520,7 @@
                   "day": "LU",
                   "start": "1245",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "652",
                   "teacher": "ANDRADE UZIEDA MARKO JORGE",
                   "isClass": true
@@ -3625,7 +3625,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "MAGCIV",
                   "teacher": "LOPEZ LOREDO GROVER DANTE",
                   "isClass": true
@@ -3634,7 +3634,7 @@
                   "day": "VI",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "691A",
                   "teacher": "LOPEZ LOREDO GROVER DANTE",
                   "isClass": true
@@ -3655,7 +3655,7 @@
                   "day": "LU",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AUDCIV",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -4472,7 +4472,7 @@
                   "day": "JU",
                   "start": "1800",
                   "end": "2015",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "661",
                   "teacher": "EDUARDO FRANZ MARCELO",
                   "isClass": true
@@ -4496,7 +4496,7 @@
                   "day": "JU",
                   "start": "1030",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "617C",
                   "teacher": "EDUARDO FRANZ MARCELO",
                   "isClass": true
@@ -4526,7 +4526,7 @@
                   "day": "SA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "MAGCIV",
                   "teacher": "FERNANDEZ RIOS HUGO WILLIAM",
                   "isClass": true
@@ -4550,7 +4550,7 @@
                   "day": "JU",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692C",
                   "teacher": "FERNANDEZ RIOS HUGO WILLIAM",
                   "isClass": true
@@ -4652,7 +4652,7 @@
                   "day": "SA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692B",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -4667,7 +4667,7 @@
                   "day": "MA",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AUDCIV",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -4972,7 +4972,7 @@
                   "day": "SA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "693B",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -4993,7 +4993,7 @@
                   "day": "LU",
                   "start": "1715",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AUDCIV",
                   "teacher": "MENDEZ TORRICO ROBERTO",
                   "isClass": true
@@ -5002,7 +5002,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AUDCIV",
                   "teacher": "MENDEZ TORRICO ROBERTO",
                   "isClass": true
@@ -5296,7 +5296,7 @@
                   "day": "LU",
                   "start": "1500",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AUDCIV",
                   "teacher": "MENDEZ TORRICO ROBERTO",
                   "isClass": true
@@ -5305,7 +5305,7 @@
                   "day": "VI",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AUDCIV",
                   "teacher": "MENDEZ TORRICO ROBERTO",
                   "isClass": true

@@ -2590,7 +2590,7 @@
                   "day": "JU",
                   "start": "1115",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 1,
                   "room": "AULVIR",
                   "teacher": "VELEZ BILBAO DAVID ENRIQUE",
                   "isClass": false
@@ -2599,7 +2599,7 @@
                   "day": "JU",
                   "start": "1200",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 1,
                   "room": "692A",
                   "teacher": "VELEZ BILBAO DAVID ENRIQUE",
                   "isClass": false
@@ -3835,7 +3835,7 @@
                   "day": "MA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L3",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": false
@@ -4152,7 +4152,7 @@
                   "day": "MA",
                   "start": "645",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L6IN",
                   "teacher": "GUZMAN ORELLANA GONZALO ENRIQUE ANTONIO",
                   "isClass": true

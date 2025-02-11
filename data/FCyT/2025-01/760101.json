@@ -6,7 +6,7 @@
   "code": 760101,
   "name": "FISICA (DID)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/760101.pdf",
-  "updatet_at": "2025-02-10T20:02:00",
+  "updatet_at": "2025-02-10T23:19:00",
   "levels": [
     {
       "code": "A",
@@ -61,7 +61,7 @@
                   "day": "LU",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": false
@@ -79,7 +79,7 @@
                   "day": "MI",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": false
@@ -88,7 +88,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": true

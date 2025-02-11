@@ -6,7 +6,7 @@
   "code": 389701,
   "name": "QUIMICA (LIC)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/389701.pdf",
-  "updatet_at": "2025-02-10T20:04:00",
+  "updatet_at": "2025-02-10T23:21:00",
   "levels": [
     {
       "code": "A",
@@ -637,7 +637,7 @@
                   "day": "MI",
                   "start": "1245",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS ARZE RUBEN DARIO",
                   "isClass": true
@@ -652,7 +652,7 @@
                   "day": "VI",
                   "start": "1245",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "614",
                   "teacher": "TERRAZAS MALDONADO ISRAEL",
                   "isClass": true
@@ -661,7 +661,7 @@
                   "day": "VI",
                   "start": "1245",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "614",
                   "teacher": "COCA COSSIO MELISSA NICOLE",
                   "isClass": false
@@ -676,7 +676,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "ANTEZANA FERNANDEZ HENRY",
                   "isClass": true
@@ -685,7 +685,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "VARGAS ALVAREZ MAURICIO",
                   "isClass": false
@@ -694,7 +694,7 @@
                   "day": "MI",
                   "start": "1245",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "ROMERO COCA DAYANA NICOLE",
                   "isClass": false
@@ -709,7 +709,7 @@
                   "day": "LU",
                   "start": "1500",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "MENDIETA BRITO SONIA",
                   "isClass": true
@@ -718,7 +718,7 @@
                   "day": "LU",
                   "start": "1500",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
                   "isClass": false
@@ -733,7 +733,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "HERBAS ANGULO ADELINA",
                   "isClass": true
@@ -742,7 +742,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "DAZA GUIZADA JORGE",
                   "isClass": false
@@ -757,7 +757,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
                   "isClass": true
@@ -766,7 +766,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
                   "isClass": false
@@ -781,7 +781,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "MOREIRA ROSAS BORIS ARTURO",
                   "isClass": true
@@ -790,7 +790,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "PENALOZA RODRIGUEZ MIGUEL ANGEL",
                   "isClass": false
@@ -805,7 +805,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "PEREZ CHACON MARIBEL",
                   "isClass": true
@@ -814,7 +814,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "VARGAS GODOY GUSTAVO ALEJANDRO",
                   "isClass": false
@@ -829,7 +829,7 @@
                   "day": "LU",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
                   "isClass": true
@@ -838,7 +838,7 @@
                   "day": "LU",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "DAZA GUIZADA JORGE",
                   "isClass": false
@@ -853,7 +853,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "614",
                   "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
                   "isClass": true
@@ -862,7 +862,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "614",
                   "teacher": "COCA COSSIO MELISSA NICOLE",
                   "isClass": false
@@ -1416,7 +1416,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "614",
                   "teacher": "",
                   "isClass": false
@@ -1425,7 +1425,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1115",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "614",
                   "teacher": "ANTEZANA FERNANDEZ HENRY",
                   "isClass": true
@@ -1440,7 +1440,7 @@
                   "day": "LU",
                   "start": "1115",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "614",
                   "teacher": "MONTA\u00d1O MERIDA ROSARIO",
                   "isClass": true
@@ -1820,7 +1820,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
@@ -1835,7 +1835,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
@@ -1844,7 +1844,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "CUSSI QUISPE SANDRA",
                   "isClass": false
@@ -1859,7 +1859,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "",
                   "isClass": false
@@ -1868,7 +1868,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
@@ -1877,7 +1877,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "SAINZ RAMOS NEMESIS FARHA",
                   "isClass": false
@@ -1892,7 +1892,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ESPINOZA ALCOCER JENNY",
                   "isClass": true
@@ -1901,7 +1901,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "CUSSI QUISPE SANDRA",
                   "isClass": false
@@ -1916,7 +1916,7 @@
                   "day": "SA",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "MOREIRA ROSAS BORIS ARTURO",
                   "isClass": true
@@ -1925,7 +1925,7 @@
                   "day": "SA",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "COSSIO GUILLEN LINCY PATRICIA",
                   "isClass": false
@@ -1940,7 +1940,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "MUNOZ COLLAZOS MARIA SUSANA DEL ROSARIO",
                   "isClass": true
@@ -1949,7 +1949,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "COSSIO GUILLEN LINCY PATRICIA",
                   "isClass": false
@@ -2107,7 +2107,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "1 SOTO GONZALES IVAN ISRAEL",
                   "isClass": false
@@ -2121,7 +2121,7 @@
                   "day": "LU",
                   "start": "1715",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 1,
                   "room": "615",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -2136,7 +2136,7 @@
                   "day": "SA",
                   "start": "1245",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "3DOCENTE POR DESIGNAR",
                   "isClass": true
@@ -2151,7 +2151,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
@@ -2160,7 +2160,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
                   "isClass": false
@@ -2246,7 +2246,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "614",
                   "teacher": "ARZABE MAURE JOSE OMAR",
                   "isClass": true
@@ -2255,7 +2255,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "614",
                   "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
                   "isClass": false
@@ -2270,7 +2270,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "",
                   "isClass": false
@@ -2279,7 +2279,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ESCALERA MEJIA EDWIN",
                   "isClass": true
@@ -2294,7 +2294,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "DOMINGUEZ CHURA RAUL AGAPITO",
                   "isClass": true
@@ -2303,7 +2303,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "ROMERO COCA DAYANA NICOLE",
                   "isClass": false
@@ -2318,7 +2318,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ALVAREZ CAERO MARIA MERCEDES",
                   "isClass": true
@@ -2327,7 +2327,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "ROMERO COCA DAYANA NICOLE",
                   "isClass": false
@@ -2342,7 +2342,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ESCALERA MEJIA EDWIN",
                   "isClass": true
@@ -2351,7 +2351,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
                   "isClass": false
@@ -2372,7 +2372,7 @@
                   "day": "MI",
                   "start": "1115",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "",
                   "isClass": false
@@ -2381,7 +2381,7 @@
                   "day": "MI",
                   "start": "1115",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ORTU\u00d1O FERRUFINO FARY",
                   "isClass": true
@@ -2396,7 +2396,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "DAVILA CABRERA MARCELO ARMANDO",
                   "isClass": true
@@ -2405,7 +2405,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
                   "isClass": false
@@ -2486,7 +2486,7 @@
                   "day": "SA",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
@@ -2495,7 +2495,7 @@
                   "day": "SA",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "SOTO GONZALES IVAN ISRAEL",
                   "isClass": false
