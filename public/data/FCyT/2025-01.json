@@ -1,0 +1,142 @@
+[
+    {
+        "code": 114071,
+        "name": "MATEMATICA (DID)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 134111,
+        "name": "INFORMATICA (ING)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 165221,
+        "name": "BIOTECNOLOGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 166231,
+        "name": "ENERGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 299701,
+        "name": "ELECTRICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 309801,
+        "name": "INDUSTRIAL",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 319801,
+        "name": "MECANICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 320902,
+        "name": "CIVIL (NUEVO)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 339701,
+        "name": "QUIMICA (ING)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 349701,
+        "name": "MATEMATICA (LIC)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 359201,
+        "name": "FISICA (LIC)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 389701,
+        "name": "QUIMICA (LIC)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 399501,
+        "name": "BIOLOGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 409701,
+        "name": "ALIMENTOS",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 411702,
+        "name": "SISTEMAS (NUEVO)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 419701,
+        "name": "SISTEMAS",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 429701,
+        "name": "ELECTRONICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 439801,
+        "name": "MATEMATICA (ING)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 650001,
+        "name": "ELECTROMECANICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    },
+    {
+        "code": 760101,
+        "name": "FISICA (DID)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243"
+    }
+]

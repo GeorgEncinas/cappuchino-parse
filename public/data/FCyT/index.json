@@ -1,154 +1,162 @@
 [
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 114071,
+        "name": "LICENCIATURA EN MATEMATICA (DID)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "409701",
-        "name": "LICENCIATURA EN ALIMENTOS"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 134111,
+        "name": "LICENCIATURA EN INFORMATICA (ING)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "399501",
-        "name": "LICENCIATURA EN BIOLOGIA"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 165221,
+        "name": "LICENCIATURA EN BIOTECNOLOGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "165221",
-        "name": "LICENCIATURA EN BIOTECNOLOGIA"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 166231,
+        "name": "LICENCIATURA EN ENERGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "320902",
-        "name": "LICENCIATURA EN CIVIL (NUEVO)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 299701,
+        "name": "LICENCIATURA EN ELECTRICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "299701",
-        "name": "LICENCIATURA EN ELECTRICA"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 309801,
+        "name": "LICENCIATURA EN INDUSTRIAL",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "650001",
-        "name": "LICENCIATURA EN ELECTROMECANICA"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 319801,
+        "name": "LICENCIATURA EN MECANICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "429701",
-        "name": "LICENCIATURA EN ELECTRONICA"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 320902,
+        "name": "LICENCIATURA EN CIVIL (NUEVO)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "166231",
-        "name": "LICENCIATURA EN ENERGIA"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 339701,
+        "name": "LICENCIATURA EN QUIMICA (ING)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "760101",
-        "name": "LICENCIATURA EN FISICA (DID)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 349701,
+        "name": "LICENCIATURA EN MATEMATICA (LIC)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "359201",
-        "name": "LICENCIATURA EN FISICA (LIC)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 359201,
+        "name": "LICENCIATURA EN FISICA (LIC)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "309801",
-        "name": "LICENCIATURA EN INDUSTRIAL"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 389701,
+        "name": "LICENCIATURA EN QUIMICA (LIC)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "134111",
-        "name": "LICENCIATURA EN INFORMATICA (ING)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 399501,
+        "name": "LICENCIATURA EN BIOLOGIA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "114071",
-        "name": "LICENCIATURA EN MATEMATICA (DID)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 409701,
+        "name": "LICENCIATURA EN ALIMENTOS",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "439801",
-        "name": "LICENCIATURA EN MATEMATICA (ING)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 411702,
+        "name": "LICENCIATURA EN SISTEMAS (NUEVO)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "349701",
-        "name": "LICENCIATURA EN MATEMATICA (LIC)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 419701,
+        "name": "LICENCIATURA EN SISTEMAS",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "319801",
-        "name": "LICENCIATURA EN MECANICA"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 429701,
+        "name": "LICENCIATURA EN ELECTRONICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "339701",
-        "name": "LICENCIATURA EN QUIMICA (ING)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 439801,
+        "name": "LICENCIATURA EN MATEMATICA (ING)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "389701",
-        "name": "LICENCIATURA EN QUIMICA (LIC)"
+        "path": "2025-01"
     },
     {
-        "mateIn": "SCESI UMSS",
-        "semester": "2/2024",
-        "path": "2024-02",
+        "code": 650001,
+        "name": "LICENCIATURA EN ELECTROMECANICA",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
         "support": "@willypaz243",
-        "code": "411702",
-        "name": "LICENCIATURA EN SISTEMAS (NUEVO)"
+        "path": "2025-01"
+    },
+    {
+        "code": 760101,
+        "name": "LICENCIATURA EN FISICA (DID)",
+        "madeIn": "SCESI UMSS",
+        "semester": "1/2025",
+        "support": "@willypaz243",
+        "path": "2025-01"
     }
 ]
