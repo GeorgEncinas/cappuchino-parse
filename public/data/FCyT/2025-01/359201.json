@@ -1,0 +1,972 @@
+{
+  "madeIn": "SCESI UMSS",
+  "semester": "1/2025",
+  "support": "@willypaz243",
+  "path": "2024-02",
+  "code": 359201,
+  "name": "FISICA (LIC)",
+  "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/359201.pdf",
+  "updatet_at": "2025-02-10T20:02:00",
+  "levels": [
+    {
+      "code": "A",
+      "subjects": [
+        {
+          "code": 2008053,
+          "name": "ALGEBRA I",
+          "groups": [
+            {
+              "code": "5",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "642",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "617",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "CARRASCO CALVO ALVARO HERNANDO"
+            }
+          ]
+        },
+        {
+          "code": 2008054,
+          "name": "CALCULO I",
+          "groups": [
+            {
+              "code": "3",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "FRIAS CRUZ ROSALIA",
+                  "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "RELOS PACO SANTIAGO",
+                  "isClass": true
+                },
+                {
+                  "day": "SA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "RELOS PACO SANTIAGO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "RELOS PACO SANTIAGO"
+            }
+          ]
+        },
+        {
+          "code": 2006018,
+          "name": "FISICA BASICA I",
+          "groups": [
+            {
+              "code": "R",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "TORRICO TROCHE MILKA MONICA",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "TORRICO TROCHE MILKA MONICA",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692H",
+                  "teacher": "TORRICO TROCHE MILKA MONICA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "TORRICO TROCHE MILKA MONICA"
+            },
+            {
+              "code": "R1",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "620",
+                  "teacher": "[P] DAVALOS BROZOVIC JORGE",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] DAVALOS BROZOVIC JORGE"
+            },
+            {
+              "code": "R2",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "[P] ZAMURIANO CARBAJAL JUAN MARCELO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] ZAMURIANO CARBAJAL JUAN MARCELO"
+            },
+            {
+              "code": "R4",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "621",
+                  "teacher": "[P] ALISS PAREDES EMILIO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] ALISS PAREDES EMILIO"
+            }
+          ]
+        },
+        {
+          "code": 2008010,
+          "name": "GEOMETRIA ANALITICA",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "AULVIR",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "AULVIR",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "AULVIR",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "SORUCO MAITA JOSE ANTONIO"
+            }
+          ]
+        },
+        {
+          "code": 2004046,
+          "name": "QUIMICA GENERAL",
+          "groups": [
+            {
+              "code": "5",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
+                  "isClass": true
+                }
+              ],
+              "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "subjects": [
+        {
+          "code": 2008240,
+          "name": "ALGEBRA LINEAL Y MATRICIAL",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "SALINAS PERICON WALTER OSCAR GONZALO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "SALINAS PERICON WALTER OSCAR GONZALO"
+            }
+          ]
+        },
+        {
+          "code": 2008056,
+          "name": "CALCULO II",
+          "groups": [
+            {
+              "code": "9",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "MARTINEZ MAIDA AMILCAR SAUL",
+                  "isClass": true
+                }
+              ],
+              "teacher": "MARTINEZ MAIDA AMILCAR SAUL"
+            },
+            {
+              "code": "SA",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "815 -0945612",
+                  "isClass": true
+                }
+              ],
+              "teacher": "815 -0945612"
+            }
+          ]
+        },
+        {
+          "code": 2006019,
+          "name": "FISICA BASICA II",
+          "groups": [
+            {
+              "code": "L",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691A",
+                  "teacher": "RUIZ UCUMARI IVAN",
+                  "isClass": true
+                }
+              ],
+              "teacher": "RUIZ UCUMARI IVAN"
+            },
+            {
+              "code": "L1",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "[P] CLAROS CRUZ LUIS GUALBERTO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] CLAROS CRUZ LUIS GUALBERTO"
+            },
+            {
+              "code": "L2",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "[P] FUENTES MIRANDA IVAN",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] FUENTES MIRANDA IVAN"
+            },
+            {
+              "code": "L3",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684L0",
+                  "teacher": "[P] TORRICO TROCHE MILKA MONICA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] TORRICO TROCHE MILKA MONICA"
+            }
+          ]
+        },
+        {
+          "code": 2008077,
+          "name": "PROBABILIDAD Y ESTADISTICA I",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "AULVIR",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "AULVIR",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
+                }
+              ],
+              "teacher": "POR DESIGNAR DOCENTE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "subjects": [
+        {
+          "code": 2008014,
+          "name": "ANALISIS VECTORIAL Y TENSORIAL",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "MATIAS MARCA VIDAL",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "FLORES ENCINAS JONATHAN MILTON",
+                  "isClass": false
+                }
+              ],
+              "teacher": "MATIAS MARCA VIDAL"
+            },
+            {
+              "code": "3",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "CAMACHO QUIROGA ROGER ORLANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "CAMACHO QUIROGA ROGER ORLANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "CAMACHO QUIROGA ROGER ORLANDO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "CAMACHO QUIROGA ROGER ORLANDO"
+            }
+          ]
+        },
+        {
+          "code": 2008058,
+          "name": "ECUACIONES DIFERENCIALES",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "MULLER SANTA CRUZ HANS CRISTIAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "CHUCA CONDO LUIS ALBERTO",
+                  "isClass": false
+                }
+              ],
+              "teacher": "MULLER SANTA CRUZ HANS CRISTIAN"
+            }
+          ]
+        },
+        {
+          "code": 2006020,
+          "name": "FISICA BASICA III",
+          "groups": [
+            {
+              "code": "I",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "UGARTE CEJAS FELIX",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "UGARTE CEJAS FELIX",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "UGARTE CEJAS FELIX",
+                  "isClass": true
+                }
+              ],
+              "teacher": "UGARTE CEJAS FELIX"
+            },
+            {
+              "code": "I1",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "[P] VISCARRA VARGAS MARCO ANTONIO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] VISCARRA VARGAS MARCO ANTONIO"
+            },
+            {
+              "code": "I2",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "[P] LUCANO LUCANO MARCELO JAVIER",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] LUCANO LUCANO MARCELO JAVIER"
+            },
+            {
+              "code": "I3",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "[P] ORDONEZ SALVATIERRA MIGUEL ANGEL",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] ORDONEZ SALVATIERRA MIGUEL ANGEL"
+            },
+            {
+              "code": "I4",
+              "schedule": [
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "684L8",
+                  "teacher": "[P] POR DESIGNAR DOCENTE",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] POR DESIGNAR DOCENTE"
+            }
+          ]
+        },
+        {
+          "code": 2008081,
+          "name": "PROBABILIDAD Y ESTADISTICA II",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "AULVIR",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "AULVIR",
+                  "teacher": "SORUCO MAITA JOSE ANTONIO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "SORUCO MAITA JOSE ANTONIO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": 2008156,
+          "name": "CALCULO COMPLEJO",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "ROJAS ZURITA RAMIRO",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "ROJAS ZURITA RAMIRO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "ROJAS ZURITA RAMIRO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "ROJAS ZURITA RAMIRO"
+            }
+          ]
+        },
+        {
+          "code": 2006031,
+          "name": "FISICA BASICA IV",
+          "groups": [
+            {
+              "code": "A",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "VISCARRA VARGAS MARCO ANTONIO"
+            },
+            {
+              "code": "A1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "684L7",
+                  "teacher": "[P] VISCARRA VARGAS MARCO ANTONIO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "[P] VISCARRA VARGAS MARCO ANTONIO"
+            }
+          ]
+        },
+        {
+          "code": 2006089,
+          "name": "FISICA COMPUTACIONAL I",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "FISCOM",
+                  "teacher": "MOREIRA CALIZAYA RENE",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "FISCOM",
+                  "teacher": "MOREIRA CALIZAYA RENE",
+                  "isClass": true
+                }
+              ],
+              "teacher": "MOREIRA CALIZAYA RENE"
+            }
+          ]
+        },
+        {
+          "code": 1803009,
+          "name": "INGLES III",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "GRILO SALVATIERRA MARIA ESTELA",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "GRILO SALVATIERRA MARIA ESTELA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "GRILO SALVATIERRA MARIA ESTELA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": 2006033,
+          "name": "FISICA TEORICA I",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "FLORES FLORES FREDDY",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "FLORES FLORES FREDDY",
+                  "isClass": true
+                }
+              ],
+              "teacher": "FLORES FLORES FREDDY"
+            }
+          ]
+        },
+        {
+          "code": 2008157,
+          "name": "TRANSFORMADAS INTEGRALES",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "624",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "CARRASCO CALVO ALVARO HERNANDO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "CARRASCO CALVO ALVARO HERNANDO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "J",
+      "subjects": [
+        {
+          "code": 2006049,
+          "name": "TALLER DE GRADO",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "684B",
+                  "teacher": "CHOQUE UNO FRANCISCO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "CHOQUE UNO FRANCISCO"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

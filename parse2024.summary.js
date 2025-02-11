@@ -28,7 +28,7 @@ file.walk(path,(error,base,dirs,files)=>{
             name:json.name,
             madeIn:json.madeIn,
             semester:json.semester,
-            support:'@georg'
+            support:'@willypaz243'
         });
     });
 
