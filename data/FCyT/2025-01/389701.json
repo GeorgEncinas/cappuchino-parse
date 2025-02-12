@@ -2100,7 +2100,7 @@
               "teacher": "[P] VISCARRA VARGAS MARCO ANTONIO"
             },
             {
-              "code": "615",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -2108,14 +2108,9 @@
                   "end": "1800",
                   "duration": 5,
                   "room": "615",
-                  "teacher": "1 SOTO GONZALES IVAN ISRAEL",
+                  "teacher": "SOTO GONZALES IVAN ISRAEL",
                   "isClass": false
-                }
-              ]
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "LU",
                   "start": "1715",
@@ -2129,7 +2124,7 @@
               "teacher": "POR DESIGNAR DOCENTE"
             },
             {
-              "code": "DOCENTE POR DESIGNAR",
+              "code": "3",
               "schedule": [
                 {
                   "day": "SA",
@@ -2137,11 +2132,11 @@
                   "end": "1715",
                   "duration": 6,
                   "room": "616",
-                  "teacher": "3DOCENTE POR DESIGNAR",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 }
               ],
-              "teacher": "3DOCENTE POR DESIGNAR"
+              "teacher": "DOCENTE POR DESIGNAR"
             },
             {
               "code": "2",
@@ -2447,6 +2442,15 @@
                   "room": "622",
                   "teacher": "OPORTO PEREYRA CARLA GABRIELA",
                   "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "",
+                  "isClass": false
                 }
               ],
               "teacher": "OPORTO PEREYRA CARLA GABRIELA"
@@ -2528,20 +2532,6 @@
                 }
               ],
               "teacher": "ESCALERA MEJIA EDWIN"
-            },
-            {
-              "code": "DOCENTE POR DESIGNAR",
-              "schedule": [
-                {
-                  "day": "VI",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "1",
-                  "isClass": false
-                }
-              ]
             }
           ]
         },

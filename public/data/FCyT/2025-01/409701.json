@@ -2463,7 +2463,7 @@
               "teacher": "POR DESIGNAR DOCENTE"
             },
             {
-              "code": "DOCENTE POR DESIGNAR",
+              "code": "3",
               "schedule": [
                 {
                   "day": "SA",
@@ -2471,11 +2471,11 @@
                   "end": "1715",
                   "duration": 6,
                   "room": "616",
-                  "teacher": "3DOCENTE POR DESIGNAR",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 }
               ],
-              "teacher": "3DOCENTE POR DESIGNAR"
+              "teacher": "DOCENTE POR DESIGNAR"
             },
             {
               "code": "2",

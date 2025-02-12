@@ -2121,41 +2121,7 @@
         {
           "code": 2004044,
           "name": "FISICOQUIMICA",
-          "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "JU",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "623",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "SA",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "691F",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "691B",
-                  "teacher": "CUSSI QUISPE SANDRA",
-                  "isClass": false
-                }
-              ],
-              "teacher": "DOCENTE POR DESIGNAR"
-            }
-          ]
+          "groups": []
         }
       ]
     },
@@ -2195,9 +2161,36 @@
                   "room": "691D",
                   "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
                   "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "SA",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "CUSSI QUISPE SANDRA",
+                  "isClass": false
                 }
               ],
-              "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER"
+              "teacher": "DOCENTE POR DESIGNAR"
             },
             {
               "code": "2",

@@ -3517,32 +3517,7 @@
         {
           "code": 2014041,
           "name": "TOPICOS ELECTRICOS I (TELEFONIA BASICA)",
-          "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "690D",
-                  "teacher": "ANTEZANA NOGALES VICTOR HUGO",
-                  "isClass": true
-                },
-                {
-                  "day": "SA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "691E",
-                  "teacher": "ANTEZANA NOGALES VICTOR HUGO",
-                  "isClass": true
-                }
-              ],
-              "teacher": "ANTEZANA NOGALES VICTOR HUGO"
-            }
-          ]
+          "groups": []
         }
       ]
     },

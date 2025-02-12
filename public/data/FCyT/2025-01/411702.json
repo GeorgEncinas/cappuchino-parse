@@ -1228,7 +1228,7 @@
           "name": "METODOLOGIA",
           "groups": [
             {
-              "code": "INVESTIGACION Y TEC COMUNICACION",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -1236,15 +1236,9 @@
                   "end": "945",
                   "duration": 2,
                   "room": "691C",
-                  "teacher": "1ROMERO RODRIGUEZ PATRICIA",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
                   "isClass": true
-                }
-              ],
-              "teacher": "1ROMERO RODRIGUEZ PATRICIA"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MI",
                   "start": "945",
@@ -1493,7 +1487,7 @@
               ]
             },
             {
-              "code": "691E",
+              "code": "2",
               "schedule": [
                 {
                   "day": "LU",
@@ -1501,15 +1495,9 @@
                   "end": "1545",
                   "duration": 2,
                   "room": "691B",
-                  "teacher": "2BLANCO COCA LETICIA",
+                  "teacher": "BLANCO COCA LETICIA",
                   "isClass": true
-                }
-              ],
-              "teacher": "2BLANCO COCA LETICIA"
-            },
-            {
-              "code": "2",
-              "schedule": [
+                },
                 {
                   "day": "JU",
                   "start": "1415",

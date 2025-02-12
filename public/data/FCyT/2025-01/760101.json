@@ -333,21 +333,6 @@
               "teacher": "[P] ALISS PAREDES EMILIO"
             },
             {
-              "code": "815 -0945",
-              "schedule": [
-                {
-                  "day": "MI",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "622",
-                  "teacher": "6123",
-                  "isClass": true
-                }
-              ],
-              "teacher": "6123"
-            },
-            {
               "code": "3",
               "schedule": [
                 {

@@ -2416,22 +2416,7 @@
               "teacher": "POR DESIGNAR DOCENTE"
             },
             {
-              "code": "1715-1845",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "651",
-                  "teacher": "6071",
-                  "isClass": true
-                }
-              ],
-              "teacher": "6071"
-            },
-            {
-              "code": "DOCENTE POR DESIGNAR",
+              "code": "2",
               "schedule": [
                 {
                   "day": "LU",
@@ -2439,24 +2424,9 @@
                   "end": "1245",
                   "duration": 2,
                   "room": "691D",
-                  "teacher": "2DOCENTE POR DESIGNAR",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 },
-                {
-                  "day": "SA",
-                  "start": "1245",
-                  "end": "1715",
-                  "duration": 6,
-                  "room": "616",
-                  "teacher": "3DOCENTE POR DESIGNAR",
-                  "isClass": true
-                }
-              ],
-              "teacher": "3DOCENTE POR DESIGNAR"
-            },
-            {
-              "code": "2",
-              "schedule": [
                 {
                   "day": "JU",
                   "start": "1115",
@@ -2517,6 +2487,15 @@
             {
               "code": "3",
               "schedule": [
+                {
+                  "day": "SA",
+                  "start": "1245",
+                  "end": "1715",
+                  "duration": 6,
+                  "room": "616",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
                 {
                   "day": "VI",
                   "start": "945",
