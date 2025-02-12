@@ -2045,9 +2045,14 @@
         {
           "code": 2004012,
           "name": "LABORATORIO DE QUIMICA ORGANICA",
+          "groups": []
+        },
+        {
+          "code": 2006023,
+          "name": "OPTICA Y ESPECTROSCOPIA MOLECULAR",
           "groups": [
             {
-              "code": "2006023 OPTICA Y ESPECTROSCOPIA MOLECULAR",
+              "code": "A",
               "schedule": [
                 {
                   "day": "LU",
@@ -2055,15 +2060,9 @@
                   "end": "1115",
                   "duration": 2,
                   "room": "684B",
-                  "teacher": "AVISCARRA VARGAS MARCO ANTONIO",
+                  "teacher": "VISCARRA VARGAS MARCO ANTONIO",
                   "isClass": true
-                }
-              ],
-              "teacher": "AVISCARRA VARGAS MARCO ANTONIO"
-            },
-            {
-              "code": "A",
-              "schedule": [
+                },
                 {
                   "day": "MI",
                   "start": "945",

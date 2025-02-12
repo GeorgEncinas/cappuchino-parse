@@ -2408,36 +2408,26 @@
         {
           "code": 2004012,
           "name": "LABORATORIO DE QUIMICA ORGANICA",
+          "groups": []
+        },
+        {
+          "code": 2004053,
+          "name": "QUIMICA ORGANICA",
           "groups": [
             {
-              "code": "D",
+              "code": "JU",
               "schedule": [
                 {
-                  "day": "JU",
+                  "day": "VI",
                   "start": "645",
                   "end": "815",
                   "duration": 2,
-                  "room": "693C",
-                  "teacher": "2004053 QUIMICA ORGANICA",
+                  "room": "622",
+                  "teacher": "645 -0815693C",
                   "isClass": true
                 }
               ],
-              "teacher": "2004053 QUIMICA ORGANICA"
-            },
-            {
-              "code": "VI",
-              "schedule": [
-                {
-                  "day": "SA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "693C",
-                  "teacher": "645 -0815622",
-                  "isClass": true
-                }
-              ],
-              "teacher": "645 -0815622"
+              "teacher": "645 -0815693C"
             },
             {
               "code": "1",
@@ -2516,9 +2506,19 @@
         {
           "code": 2004062,
           "name": "TERMODINAMICA GENERAL",
+          "groups": []
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": 2004195,
+          "name": "FENOMENOS DE TRANSPORTE GENERAL",
           "groups": [
             {
-              "code": "2004195 FENOMENOS DE TRANSPORTE GENERAL",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -2526,15 +2526,9 @@
                   "end": "1115",
                   "duration": 2,
                   "room": "660",
-                  "teacher": "1TORRICO MEJIA RENE",
+                  "teacher": "TORRICO MEJIA RENE",
                   "isClass": true
-                }
-              ],
-              "teacher": "1TORRICO MEJIA RENE"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MA",
                   "start": "945",
@@ -2557,12 +2551,7 @@
               "teacher": "TORRICO MEJIA RENE"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "E",
-      "subjects": [
+        },
         {
           "code": 2004169,
           "name": "LABORATORIO DE QUIMICA ANALITICA CUANTITATIVA",
@@ -3311,9 +3300,14 @@
         {
           "code": 2004019,
           "name": "LABORATORIO DE ANALISIS DE ALIMENTOS",
+          "groups": []
+        },
+        {
+          "code": 2004203,
+          "name": "NUTRICION",
           "groups": [
             {
-              "code": "2004203 NUTRICION",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -3321,15 +3315,9 @@
                   "end": "1115",
                   "duration": 2,
                   "room": "ALIM",
-                  "teacher": "1ESPINOZA ALCOCER JENNY",
+                  "teacher": "ESPINOZA ALCOCER JENNY",
                   "isClass": true
-                }
-              ],
-              "teacher": "1ESPINOZA ALCOCER JENNY"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MA",
                   "start": "1415",
@@ -3675,9 +3663,14 @@
         {
           "code": 2004007,
           "name": "INDUSTRIA DE BEBIDAS",
+          "groups": []
+        },
+        {
+          "code": 2004208,
+          "name": "INDUSTRIAS CARNICAS",
           "groups": [
             {
-              "code": "2004208 INDUSTRIAS CARNICAS",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -3685,15 +3678,9 @@
                   "end": "1545",
                   "duration": 2,
                   "room": "691A",
-                  "teacher": "1FERRUFINO GUARDIA ERICK VLADIMIR",
+                  "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
                   "isClass": true
-                }
-              ],
-              "teacher": "1FERRUFINO GUARDIA ERICK VLADIMIR"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "VI",
                   "start": "1415",

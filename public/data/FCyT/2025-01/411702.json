@@ -1220,48 +1220,15 @@
                 }
               ],
               "teacher": "SALAZAR SERRUDO CARLA"
-            },
-            {
-              "code": "7",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "690C",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": false
-                },
-                {
-                  "day": "MI",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "692E",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "693B",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": true
-                }
-              ],
-              "teacher": "POR DESIGNAR DOCENTE"
             }
           ]
         },
         {
           "code": 2010140,
-          "name": "METODOLOGIA  INVESTIGACION Y TEC COMUNICACION",
+          "name": "METODOLOGIA",
           "groups": [
             {
-              "code": "1",
+              "code": "INVESTIGACION Y TEC COMUNICACION",
               "schedule": [
                 {
                   "day": "LU",
@@ -1269,9 +1236,15 @@
                   "end": "945",
                   "duration": 2,
                   "room": "691C",
-                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "teacher": "1ROMERO RODRIGUEZ PATRICIA",
                   "isClass": true
-                },
+                }
+              ],
+              "teacher": "1ROMERO RODRIGUEZ PATRICIA"
+            },
+            {
+              "code": "1",
+              "schedule": [
                 {
                   "day": "MI",
                   "start": "945",
@@ -1497,7 +1470,30 @@
               "teacher": "ACHA PEREZ SAMUEL"
             },
             {
-              "code": "2",
+              "code": "7",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": false
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": false
+                }
+              ]
+            },
+            {
+              "code": "691E",
               "schedule": [
                 {
                   "day": "LU",
@@ -1505,9 +1501,15 @@
                   "end": "1545",
                   "duration": 2,
                   "room": "691B",
-                  "teacher": "BLANCO COCA LETICIA",
+                  "teacher": "2BLANCO COCA LETICIA",
                   "isClass": true
-                },
+                }
+              ],
+              "teacher": "2BLANCO COCA LETICIA"
+            },
+            {
+              "code": "2",
+              "schedule": [
                 {
                   "day": "JU",
                   "start": "1415",

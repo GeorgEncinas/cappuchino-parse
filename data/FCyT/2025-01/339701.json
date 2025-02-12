@@ -2279,45 +2279,45 @@
         {
           "code": 2004012,
           "name": "LABORATORIO DE QUIMICA ORGANICA",
+          "groups": []
+        },
+        {
+          "code": 2004053,
+          "name": "QUIMICA ORGANICA",
           "groups": [
             {
-              "code": "D",
+              "code": "JU",
               "schedule": [
                 {
-                  "day": "JU",
+                  "day": "VI",
                   "start": "645",
                   "end": "815",
                   "duration": 2,
-                  "room": "693C",
-                  "teacher": "2004053 QUIMICA ORGANICA",
+                  "room": "622",
+                  "teacher": "645 -0815693C",
                   "isClass": true
                 }
               ],
-              "teacher": "2004053 QUIMICA ORGANICA"
-            },
-            {
-              "code": "VI",
-              "schedule": [
-                {
-                  "day": "SA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "693C",
-                  "teacher": "645 -0815622",
-                  "isClass": true
-                }
-              ],
-              "teacher": "645 -0815622"
+              "teacher": "645 -0815693C"
             }
           ]
         },
         {
           "code": 2004183,
           "name": "TERMODINAMICA I",
+          "groups": []
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": 2004184,
+          "name": "FENOMENOS DE TRANSPORTE A",
           "groups": [
             {
-              "code": "2004184 FENOMENOS DE TRANSPORTE A",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -2325,15 +2325,9 @@
                   "end": "815",
                   "duration": 2,
                   "room": "693A",
-                  "teacher": "1ALFARO DENUS GONZALO",
+                  "teacher": "ALFARO DENUS GONZALO",
                   "isClass": true
-                }
-              ],
-              "teacher": "1ALFARO DENUS GONZALO"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MA",
                   "start": "645",
@@ -2356,12 +2350,7 @@
               "teacher": "ALFARO DENUS GONZALO"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "E",
-      "subjects": [
+        },
         {
           "code": 2004169,
           "name": "LABORATORIO DE QUIMICA ANALITICA CUANTITATIVA",
@@ -2386,6 +2375,15 @@
                   "room": "614",
                   "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
                   "isClass": false
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
                 },
                 {
                   "day": "LU",
@@ -2767,9 +2765,19 @@
         {
           "code": 2004196,
           "name": "TERMODINAMICA II",
+          "groups": []
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "subjects": [
+        {
+          "code": 2004198,
+          "name": "DISE\u00d1O EXPERIMENTAL",
           "groups": [
             {
-              "code": "2004198 DISE\u00d1O EXPERIMENTAL",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -2777,15 +2785,9 @@
                   "end": "815",
                   "duration": 2,
                   "room": "692C",
-                  "teacher": "1ALCON PU\u00d1A JUAN NOLASCO",
+                  "teacher": "ALCON PU\u00d1A JUAN NOLASCO",
                   "isClass": true
-                }
-              ],
-              "teacher": "1ALCON PU\u00d1A JUAN NOLASCO"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MI",
                   "start": "815",
@@ -2850,12 +2852,7 @@
               "teacher": "DOCENTE POR DESIGNAR"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "F",
-      "subjects": [
+        },
         {
           "code": 2004197,
           "name": "FENOMENOS DE TRANSPORTE B",
@@ -3250,6 +3247,11 @@
         {
           "code": 2004005,
           "name": "PREPARACION Y EVALUACION DE PROYECTOS I",
+          "groups": []
+        },
+        {
+          "code": 2004200,
+          "name": "TECNOLOGIA QUIMICA",
           "groups": []
         }
       ]

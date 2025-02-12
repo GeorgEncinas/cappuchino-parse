@@ -194,6 +194,16 @@
         {
           "code": 2004046,
           "name": "QUIMICA GENERAL",
+          "groups": []
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "subjects": [
+        {
+          "code": 2008056,
+          "name": "CALCULO II",
           "groups": [
             {
               "code": "11",
@@ -220,12 +230,7 @@
               "teacher": "GONZALES CASTELLON CARLOS ESTEBAN"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "B",
-      "subjects": [
+        },
         {
           "code": 2006027,
           "name": "FISICA II",

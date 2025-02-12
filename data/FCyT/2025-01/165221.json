@@ -365,6 +365,11 @@
           "code": 2004012,
           "name": "LABORATORIO DE QUIMICA ORGANICA",
           "groups": []
+        },
+        {
+          "code": 2004053,
+          "name": "QUIMICA ORGANICA",
+          "groups": []
         }
       ]
     },

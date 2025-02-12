@@ -3913,10 +3913,10 @@
         },
         {
           "code": 2014049,
-          "name": "TOPICOS ELECTRONICOS  (AVIONICA)",
+          "name": "TOPICOS ELECTRONICOS",
           "groups": [
             {
-              "code": "1",
+              "code": "(AVIONICA)",
               "schedule": [
                 {
                   "day": "LU",
@@ -3924,9 +3924,15 @@
                   "end": "2015",
                   "duration": 2,
                   "room": "691C",
-                  "teacher": "BALDERRAMA ANGULO ROGER WILMER",
+                  "teacher": "1BALDERRAMA ANGULO ROGER WILMER",
                   "isClass": true
-                },
+                }
+              ],
+              "teacher": "1BALDERRAMA ANGULO ROGER WILMER"
+            },
+            {
+              "code": "1",
+              "schedule": [
                 {
                   "day": "SA",
                   "start": "945",
@@ -3943,10 +3949,10 @@
         },
         {
           "code": 2014046,
-          "name": "TOPICOS ELECTRONICOS  (TELEFONIA BASICA)",
+          "name": "TOPICOS ELECTRONICOS",
           "groups": [
             {
-              "code": "1",
+              "code": "(TELEFONIA BASICA)",
               "schedule": [
                 {
                   "day": "LU",
@@ -3954,9 +3960,15 @@
                   "end": "2015",
                   "duration": 2,
                   "room": "690D",
-                  "teacher": "ANTEZANA NOGALES VICTOR HUGO",
+                  "teacher": "1ANTEZANA NOGALES VICTOR HUGO",
                   "isClass": true
-                },
+                }
+              ],
+              "teacher": "1ANTEZANA NOGALES VICTOR HUGO"
+            },
+            {
+              "code": "1",
+              "schedule": [
                 {
                   "day": "SA",
                   "start": "645",

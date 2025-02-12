@@ -668,39 +668,6 @@
                 }
               ],
               "teacher": "SALAZAR SERRUDO CARLA"
-            },
-            {
-              "code": "7",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "690C",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": false
-                },
-                {
-                  "day": "MI",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "692E",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "693B",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": true
-                }
-              ],
-              "teacher": "POR DESIGNAR DOCENTE"
             }
           ]
         }
@@ -713,6 +680,39 @@
           "code": 2008022,
           "name": "ALGEBRA II",
           "groups": [
+            {
+              "code": "7",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": false
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": false
+                },
+                {
+                  "day": "VI",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
+                }
+              ],
+              "teacher": "POR DESIGNAR DOCENTE"
+            },
             {
               "code": "5A",
               "schedule": [

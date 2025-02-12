@@ -486,9 +486,14 @@
         {
           "code": 2004092,
           "name": "QUIMICA ORGANICA",
+          "groups": []
+        },
+        {
+          "code": 2002009,
+          "name": "ZOOLOGIA DE INVERTEBRADOS",
           "groups": [
             {
-              "code": "2002009 ZOOLOGIA DE INVERTEBRADOS",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -496,15 +501,9 @@
                   "end": "1200",
                   "duration": 3,
                   "room": "606",
-                  "teacher": "1DEL CASTILLO ANTEZANA MARITHZA",
+                  "teacher": "DEL CASTILLO ANTEZANA MARITHZA",
                   "isClass": true
-                }
-              ],
-              "teacher": "1DEL CASTILLO ANTEZANA MARITHZA"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "VI",
                   "start": "1415",

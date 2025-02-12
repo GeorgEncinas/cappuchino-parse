@@ -2852,50 +2852,7 @@
         {
           "code": 2014018,
           "name": "INSTALACIONES ELECTRICAS II",
-          "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "617B",
-                  "teacher": "MONTANO MEDINA SERGIO ARNALDO",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "617C",
-                  "teacher": "MONTANO MEDINA SERGIO ARNALDO",
-                  "isClass": false
-                },
-                {
-                  "day": "SA",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "690C",
-                  "teacher": "MONTANO MEDINA SERGIO ARNALDO",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "625D",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": true
-                }
-              ],
-              "teacher": "POR DESIGNAR DOCENTE"
-            }
-          ]
+          "groups": []
         },
         {
           "code": 2014017,
@@ -3013,9 +2970,45 @@
                   "room": "644A",
                   "teacher": "",
                   "isClass": false
+                },
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": false
+                },
+                {
+                  "day": "SA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
                 }
               ],
-              "teacher": "HINOJOSA TORRICO MARCELO JOSE"
+              "teacher": "POR DESIGNAR DOCENTE"
             }
           ]
         },
@@ -3100,41 +3093,7 @@
         {
           "code": 2014023,
           "name": "SUBESTACIONES",
-          "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "682B",
-                  "teacher": "HINOJOSA TORRICO MARCELO JOSE",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "690D",
-                  "teacher": "HINOJOSA TORRICO MARCELO JOSE",
-                  "isClass": true
-                },
-                {
-                  "day": "SA",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "682B",
-                  "teacher": "HINOJOSA TORRICO MARCELO JOSE",
-                  "isClass": true
-                }
-              ],
-              "teacher": "HINOJOSA TORRICO MARCELO JOSE"
-            }
-          ]
+          "groups": []
         },
         {
           "code": 2014025,
@@ -3354,9 +3313,36 @@
                   "room": "661",
                   "teacher": "CASTILLO ZEGARRA JUAN CARLOS",
                   "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "682B",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "682B",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
                 }
               ],
-              "teacher": "CASTILLO ZEGARRA JUAN CARLOS"
+              "teacher": "DOCENTE POR DESIGNAR"
             },
             {
               "code": "10",
@@ -3729,11 +3715,11 @@
                   "end": "945",
                   "duration": 2,
                   "room": "625D",
-                  "teacher": "USTARIZ ARAMAYO VICTOR",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 }
               ],
-              "teacher": "USTARIZ ARAMAYO VICTOR"
+              "teacher": "DOCENTE POR DESIGNAR"
             },
             {
               "code": "7",

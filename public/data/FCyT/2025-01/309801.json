@@ -2123,41 +2123,8 @@
           "name": "FISICOQUIMICA",
           "groups": [
             {
-              "code": "2016011 ECONOMIA INDUSTRIAL",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "661",
-                  "teacher": "1GUTIERREZ ANDRADE OSVALDO WALTER",
-                  "isClass": true
-                }
-              ],
-              "teacher": "1GUTIERREZ ANDRADE OSVALDO WALTER"
-            },
-            {
               "code": "1",
               "schedule": [
-                {
-                  "day": "MI",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "661",
-                  "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
-                  "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "691D",
-                  "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
-                  "isClass": true
-                },
                 {
                   "day": "JU",
                   "start": "645",
@@ -2187,6 +2154,50 @@
                 }
               ],
               "teacher": "DOCENTE POR DESIGNAR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": 2016011,
+          "name": "ECONOMIA INDUSTRIAL",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "661",
+                  "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
+                  "isClass": true
+                }
+              ],
+              "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER"
             },
             {
               "code": "2",
@@ -2222,12 +2233,7 @@
               "teacher": "TRIGO ROCHA INGRID VICKY"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "D",
-      "subjects": [
+        },
         {
           "code": 2014087,
           "name": "ELECTROTECNIA INDUSTRIAL",

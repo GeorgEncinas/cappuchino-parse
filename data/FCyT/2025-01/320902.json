@@ -865,39 +865,6 @@
               "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR"
             },
             {
-              "code": "6",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "ARNEZ TORRICO EDITH MARITZA",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "691F",
-                  "teacher": "ARNEZ TORRICO EDITH MARITZA",
-                  "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "692A",
-                  "teacher": "ARNEZ TORRICO EDITH MARITZA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "ARNEZ TORRICO EDITH MARITZA"
-            },
-            {
               "code": "8",
               "schedule": [
                 {
@@ -1135,6 +1102,39 @@
                 }
               ],
               "teacher": "POR DESIGNAR DOCENTE"
+            },
+            {
+              "code": "6",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "ARNEZ TORRICO EDITH MARITZA",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "ARNEZ TORRICO EDITH MARITZA",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "ARNEZ TORRICO EDITH MARITZA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "ARNEZ TORRICO EDITH MARITZA"
             },
             {
               "code": "1B",
