@@ -1220,6 +1220,39 @@
                 }
               ],
               "teacher": "SALAZAR SERRUDO CARLA"
+            },
+            {
+              "code": "7",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "612",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": false
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": false
+                },
+                {
+                  "day": "VI",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
+                }
+              ],
+              "teacher": "POR DESIGNAR DOCENTE"
             }
           ]
         },
@@ -1462,29 +1495,6 @@
                 }
               ],
               "teacher": "ACHA PEREZ SAMUEL"
-            },
-            {
-              "code": "7",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "612",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": false
-                },
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "690C",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": false
-                }
-              ]
             },
             {
               "code": "2",
