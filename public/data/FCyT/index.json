@@ -1,162 +1,202 @@
 [
     {
-        "code": 114071,
-        "name": "LICENCIATURA EN MATEMATICA (DID)",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
+        "semester": "2/2025",
         "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 134111,
-        "name": "LICENCIATURA EN INFORMATICA (ING)",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 165221,
-        "name": "LICENCIATURA EN BIOTECNOLOGIA",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 166231,
-        "name": "LICENCIATURA EN ENERGIA",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 299701,
-        "name": "LICENCIATURA EN ELECTRICA",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 309801,
-        "name": "LICENCIATURA EN INDUSTRIAL",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 319801,
-        "name": "LICENCIATURA EN MECANICA",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 320902,
-        "name": "LICENCIATURA EN CIVIL (NUEVO)",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 339701,
-        "name": "LICENCIATURA EN QUIMICA (ING)",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 349701,
-        "name": "LICENCIATURA EN MATEMATICA (LIC)",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 359201,
-        "name": "LICENCIATURA EN FISICA (LIC)",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 389701,
-        "name": "LICENCIATURA EN QUIMICA (LIC)",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
-        "code": 399501,
-        "name": "LICENCIATURA EN BIOLOGIA",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
-    },
-    {
+        "path": "2025-02",
         "code": 409701,
         "name": "LICENCIATURA EN ALIMENTOS",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/409701.pdf",
+        "updatet_at": "2025-08-08T22:30:00"
     },
     {
-        "code": 411702,
-        "name": "LICENCIATURA EN SISTEMAS (NUEVO)",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
+        "semester": "2/2025",
         "support": "@willypaz243",
-        "path": "2025-01"
+        "path": "2025-02",
+        "code": 399501,
+        "name": "LICENCIATURA EN BIOLOGIA",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/399501.pdf",
+        "updatet_at": "2025-08-08T22:54:00"
     },
     {
-        "code": 419701,
-        "name": "LICENCIATURA EN SISTEMAS",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
+        "semester": "2/2025",
         "support": "@willypaz243",
-        "path": "2025-01"
+        "path": "2025-02",
+        "code": 165221,
+        "name": "LICENCIATURA EN BIOTECNOLOGIA",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/165221.pdf",
+        "updatet_at": "2025-08-08T22:30:00"
     },
     {
-        "code": 429701,
-        "name": "LICENCIATURA EN ELECTRONICA",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
+        "semester": "2/2025",
         "support": "@willypaz243",
-        "path": "2025-01"
+        "path": "2025-02",
+        "code": 320902,
+        "name": "LICENCIATURA EN CIVIL (NUEVO)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/320902.pdf",
+        "updatet_at": "2025-08-08T22:30:00"
     },
     {
-        "code": 439801,
-        "name": "LICENCIATURA EN MATEMATICA (ING)",
         "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
+        "semester": "2/2025",
         "support": "@willypaz243",
-        "path": "2025-01"
+        "path": "2025-02",
+        "code": 299701,
+        "name": "LICENCIATURA EN ELECTRICA",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/299701.pdf",
+        "updatet_at": "2025-08-08T22:30:00"
     },
     {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
         "code": 650001,
         "name": "LICENCIATURA EN ELECTROMECANICA",
-        "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
-        "support": "@willypaz243",
-        "path": "2025-01"
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/650001.pdf",
+        "updatet_at": "2025-08-08T22:30:00"
     },
     {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 429701,
+        "name": "LICENCIATURA EN ELECTRONICA",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/429701.pdf",
+        "updatet_at": "2025-08-08T22:31:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 166231,
+        "name": "LICENCIATURA EN ENERGIA",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/166231.pdf",
+        "updatet_at": "2025-08-08T22:31:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
         "code": 760101,
         "name": "LICENCIATURA EN FISICA (DID)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/760101.pdf",
+        "updatet_at": "2025-08-08T22:31:00"
+    },
+    {
         "madeIn": "SCESI UMSS",
-        "semester": "1/2025",
+        "semester": "2/2025",
         "support": "@willypaz243",
-        "path": "2025-01"
+        "path": "2025-02",
+        "code": 359201,
+        "name": "LICENCIATURA EN FISICA (LIC)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/359201.pdf",
+        "updatet_at": "2025-08-08T22:31:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 309801,
+        "name": "LICENCIATURA EN INDUSTRIAL",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/309801.pdf",
+        "updatet_at": "2025-08-08T22:32:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 134111,
+        "name": "LICENCIATURA EN INFORMATICA (ING)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
+        "updatet_at": "2025-08-08T22:32:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 114071,
+        "name": "LICENCIATURA EN MATEMATICA (DID)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/114071.pdf",
+        "updatet_at": "2025-08-08T23:14:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 439801,
+        "name": "LICENCIATURA EN MATEMATICA (ING)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/439801.pdf",
+        "updatet_at": "2025-08-08T23:15:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 349701,
+        "name": "LICENCIATURA EN MATEMATICA (LIC)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/349701.pdf",
+        "updatet_at": "2025-08-08T23:15:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 319801,
+        "name": "LICENCIATURA EN MECANICA",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/319801.pdf",
+        "updatet_at": "2025-08-08T22:32:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 339701,
+        "name": "LICENCIATURA EN QUIMICA (ING)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/339701.pdf",
+        "updatet_at": "2025-08-08T22:33:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 389701,
+        "name": "LICENCIATURA EN QUIMICA (LIC)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/389701.pdf",
+        "updatet_at": "2025-08-08T22:33:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 419701,
+        "name": "LICENCIATURA EN SISTEMAS",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/419701.pdf",
+        "updatet_at": "2025-08-08T22:33:00"
+    },
+    {
+        "madeIn": "SCESI UMSS",
+        "semester": "2/2025",
+        "support": "@willypaz243",
+        "path": "2025-02",
+        "code": 411702,
+        "name": "LICENCIATURA EN SISTEMAS (NUEVO)",
+        "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/411702.pdf",
+        "updatet_at": "2025-08-08T22:33:00"
     }
 ]
