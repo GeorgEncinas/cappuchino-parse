@@ -6,7 +6,7 @@
   "code": 309801,
   "name": "INDUSTRIAL",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/309801.pdf",
-  "updatet_at": "2025-08-08T22:32:00",
+  "updatet_at": "2025-08-12T16:52:00",
   "levels": [
     {
       "code": "A",
@@ -2306,28 +2306,28 @@
               "schedule": [
                 {
                   "day": "LU",
-                  "start": "1845",
-                  "end": "2015",
+                  "start": "945",
+                  "end": "1115",
                   "duration": 2,
-                  "room": "692C",
+                  "room": "691D",
+                  "teacher": "POR DESGINAR DOCENTE",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "612",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
                   "day": "MI",
-                  "start": "1715",
-                  "end": "1845",
+                  "start": "1415",
+                  "end": "1545",
                   "duration": 2,
-                  "room": "692E",
-                  "teacher": "POR DESGINAR DOCENTE",
-                  "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "693C",
+                  "room": "624",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }

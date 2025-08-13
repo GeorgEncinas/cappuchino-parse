@@ -6,7 +6,7 @@
   "code": 299701,
   "name": "ELECTRICA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/299701.pdf",
-  "updatet_at": "2025-08-08T22:30:00",
+  "updatet_at": "2025-08-11T10:27:00",
   "levels": [
     {
       "code": "A",
@@ -3171,11 +3171,11 @@
                   "isClass": true
                 },
                 {
-                  "day": "JU",
-                  "start": "1715",
-                  "end": "1845",
+                  "day": "MI",
+                  "start": "1115",
+                  "end": "1245",
                   "duration": 2,
-                  "room": "690C",
+                  "room": "692E",
                   "teacher": "PEREZ APARICIO JOSE LUIS",
                   "isClass": true
                 }
