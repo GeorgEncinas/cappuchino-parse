@@ -6,7 +6,7 @@
   "code": 650001,
   "name": "ELECTROMECANICA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/650001.pdf",
-  "updatet_at": "2025-08-08T22:30:00",
+  "updatet_at": "2025-08-14T17:04:00",
   "levels": [
     {
       "code": "A",
@@ -991,6 +991,39 @@
                 }
               ],
               "teacher": "MEDINA GAMBOA JULIO"
+            },
+            {
+              "code": "9",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "SOTO MOREIRA JUAN CARLOS",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "SOTO MOREIRA JUAN CARLOS",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "QUISPE MEDRANO REINALDO",
+                  "isClass": false
+                }
+              ],
+              "teacher": "SOTO MOREIRA JUAN CARLOS"
             }
           ]
         },

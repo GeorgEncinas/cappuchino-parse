@@ -6,7 +6,7 @@
   "code": 411702,
   "name": "SISTEMAS (NUEVO)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/411702.pdf",
-  "updatet_at": "2025-08-08T22:33:00",
+  "updatet_at": "2025-08-14T17:06:00",
   "levels": [
     {
       "code": "A",
@@ -1560,20 +1560,20 @@
               "code": "1",
               "schedule": [
                 {
-                  "day": "VI",
-                  "start": "645",
-                  "end": "815",
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
                   "duration": 2,
-                  "room": "691C",
+                  "room": "692C",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": true
                 },
                 {
-                  "day": "SA",
-                  "start": "645",
-                  "end": "815",
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
                   "duration": 2,
-                  "room": "691B",
+                  "room": "691D",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": true
                 }
@@ -3916,6 +3916,15 @@
                   "isClass": false
                 },
                 {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "ACHA PEREZ SAMUEL",
+                  "isClass": false
+                },
+                {
                   "day": "MI",
                   "start": "645",
                   "end": "815",
@@ -3923,15 +3932,6 @@
                   "room": "693B",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "660",
-                  "teacher": "ACHA PEREZ SAMUEL",
-                  "isClass": false
                 }
               ],
               "teacher": "ACHA PEREZ SAMUEL"

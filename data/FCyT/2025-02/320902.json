@@ -6,7 +6,7 @@
   "code": 320902,
   "name": "CIVIL (NUEVO)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/320902.pdf",
-  "updatet_at": "2025-08-08T22:30:00",
+  "updatet_at": "2025-08-14T17:04:00",
   "levels": [
     {
       "code": "A",
@@ -830,10 +830,10 @@
                 },
                 {
                   "day": "MI",
-                  "start": "1845",
-                  "end": "2015",
+                  "start": "1715",
+                  "end": "1845",
                   "duration": 2,
-                  "room": "692F",
+                  "room": "692E",
                   "teacher": "ARNEZ TORRICO EDITH MARITZA",
                   "isClass": true
                 },
@@ -2410,11 +2410,11 @@
                   "isClass": true
                 },
                 {
-                  "day": "LU",
+                  "day": "MA",
                   "start": "1715",
                   "end": "1845",
                   "duration": 2,
-                  "room": "625D",
+                  "room": "623",
                   "teacher": "VERA CORTES CARLOS ALBERTO",
                   "isClass": true
                 },
@@ -2554,19 +2554,19 @@
                 },
                 {
                   "day": "MA",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "AUDCIV",
-                  "teacher": "ZABALAGA MONTANO OSCAR A.",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
                   "start": "2015",
                   "end": "2145",
                   "duration": 2,
                   "room": "691B",
+                  "teacher": "ZABALAGA MONTANO OSCAR A.",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "642",
                   "teacher": "ZABALAGA MONTANO OSCAR A.",
                   "isClass": true
                 }
@@ -2874,20 +2874,20 @@
               "code": "2",
               "schedule": [
                 {
-                  "day": "MA",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "623",
-                  "teacher": "GOMEZ UGARTE GUIDO",
-                  "isClass": true
-                },
-                {
                   "day": "MI",
                   "start": "815",
                   "end": "945",
                   "duration": 2,
                   "room": "AUDCIV",
+                  "teacher": "GOMEZ UGARTE GUIDO",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "652",
                   "teacher": "GOMEZ UGARTE GUIDO",
                   "isClass": true
                 },
@@ -4368,10 +4368,19 @@
               "schedule": [
                 {
                   "day": "LU",
-                  "start": "1845",
-                  "end": "2015",
+                  "start": "1715",
+                  "end": "1845",
                   "duration": 2,
-                  "room": "623",
+                  "room": "691E",
+                  "teacher": "VERA CORTES CARLOS ALBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "625D",
                   "teacher": "VERA CORTES CARLOS ALBERTO",
                   "isClass": true
                 },
@@ -4381,15 +4390,6 @@
                   "end": "1115",
                   "duration": 2,
                   "room": "690D",
-                  "teacher": "VERA CORTES CARLOS ALBERTO",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "692C",
                   "teacher": "VERA CORTES CARLOS ALBERTO",
                   "isClass": true
                 }

@@ -6,7 +6,7 @@
   "code": 409701,
   "name": "ALIMENTOS",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/409701.pdf",
-  "updatet_at": "2025-08-08T22:30:00",
+  "updatet_at": "2025-08-14T17:03:00",
   "levels": [
     {
       "code": "A",
@@ -636,20 +636,20 @@
                 {
                   "day": "MI",
                   "start": "1245",
-                  "end": "1630",
-                  "duration": 5,
-                  "room": "616",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "MI",
-                  "start": "1245",
                   "end": "1715",
                   "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS ARZE RUBEN DARIO",
                   "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1630",
+                  "duration": 5,
+                  "room": "616",
+                  "teacher": "POMA MAMANI DIEGO ALBERT",
+                  "isClass": false
                 }
               ],
               "teacher": "ROJAS ARZE RUBEN DARIO"
@@ -684,15 +684,6 @@
                 {
                   "day": "MA",
                   "start": "815",
-                  "end": "1200",
-                  "duration": 5,
-                  "room": "613",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "MA",
-                  "start": "815",
                   "end": "1245",
                   "duration": 6,
                   "room": "613",
@@ -700,12 +691,12 @@
                   "isClass": true
                 },
                 {
-                  "day": "MI",
-                  "start": "1245",
-                  "end": "1630",
+                  "day": "MA",
+                  "start": "815",
+                  "end": "1200",
                   "duration": 5,
-                  "room": "616",
-                  "teacher": "ROMERO COCA DAYANA NICOLE",
+                  "room": "613",
+                  "teacher": "ROJAS RIBERA WILLIAM",
                   "isClass": false
                 }
               ],
@@ -789,20 +780,20 @@
                 {
                   "day": "VI",
                   "start": "815",
-                  "end": "1200",
-                  "duration": 5,
-                  "room": "613",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "VI",
-                  "start": "815",
                   "end": "1245",
                   "duration": 6,
                   "room": "613",
                   "teacher": "MOREIRA ROSAS BORIS ARTURO",
                   "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 5,
+                  "room": "613",
+                  "teacher": "VILLCA SARZURI NOELIA",
+                  "isClass": false
                 }
               ],
               "teacher": "MOREIRA ROSAS BORIS ARTURO"
@@ -837,20 +828,20 @@
                 {
                   "day": "LU",
                   "start": "815",
-                  "end": "1200",
-                  "duration": 5,
-                  "room": "613",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "LU",
-                  "start": "815",
                   "end": "1245",
                   "duration": 6,
                   "room": "613",
                   "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
                   "isClass": true
+                },
+                {
+                  "day": "LU",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 5,
+                  "room": "613",
+                  "teacher": "ROJAS RIBERA WILLIAM",
+                  "isClass": false
                 }
               ],
               "teacher": "ROJAS ARNEZ CINTHIA CAROLA"
@@ -861,20 +852,20 @@
                 {
                   "day": "VI",
                   "start": "815",
-                  "end": "1200",
-                  "duration": 5,
-                  "room": "614",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "VI",
-                  "start": "815",
                   "end": "1245",
                   "duration": 6,
                   "room": "614",
                   "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
                   "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 5,
+                  "room": "614",
+                  "teacher": "POMA MAMANI DIEGO ALBERT",
+                  "isClass": false
                 }
               ],
               "teacher": "ROJAS ARNEZ CINTHIA CAROLA"
@@ -2161,20 +2152,20 @@
                 {
                   "day": "MI",
                   "start": "815",
-                  "end": "1200",
-                  "duration": 5,
-                  "room": "616",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "MI",
-                  "start": "815",
                   "end": "1245",
                   "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "1200",
+                  "duration": 5,
+                  "room": "616",
+                  "teacher": "MORALES RODRIGUEZ ANAHI YADIRA",
+                  "isClass": false
                 }
               ],
               "teacher": "ROJAS CESPEDES JENNY"
@@ -2257,20 +2248,20 @@
                 {
                   "day": "VI",
                   "start": "1415",
-                  "end": "1800",
-                  "duration": 5,
-                  "room": "616",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "VI",
-                  "start": "1415",
                   "end": "1845",
                   "duration": 6,
                   "room": "616",
                   "teacher": "MUNOZ COLLAZOS MARIA SUSANA DEL ROSARIO",
                   "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 5,
+                  "room": "616",
+                  "teacher": "MORALES RODRIGUEZ ANAHI YADIRA",
+                  "isClass": false
                 }
               ],
               "teacher": "MUNOZ COLLAZOS MARIA SUSANA DEL ROSARIO"
@@ -2436,7 +2427,7 @@
                   "end": "1800",
                   "duration": 5,
                   "room": "615",
-                  "teacher": "AUXILIAR POR DESIGNAR",
+                  "teacher": "BOHORQUEZ CARLA NICOL",
                   "isClass": false
                 }
               ],
@@ -2460,7 +2451,7 @@
                   "end": "1800",
                   "duration": 5,
                   "room": "615",
-                  "teacher": "AUXILIAR POR DESIGNAR",
+                  "teacher": "ORDONEZ CORDOVA RUTH",
                   "isClass": false
                 }
               ],
@@ -2705,20 +2696,20 @@
                 {
                   "day": "VI",
                   "start": "945",
+                  "end": "1330",
+                  "duration": 5,
+                  "room": "615",
+                  "teacher": "AUXILIAR POR DESIGNAR",
+                  "isClass": false
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
                   "end": "1415",
                   "duration": 6,
                   "room": "615",
                   "teacher": "DOMINGUEZ CHURA RAUL AGAPITO",
                   "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "945",
-                  "end": "1330",
-                  "duration": 5,
-                  "room": "615",
-                  "teacher": "ROMERO COCA DAYANA NICOLE",
-                  "isClass": false
                 }
               ],
               "teacher": "DOMINGUEZ CHURA RAUL AGAPITO"
@@ -2729,20 +2720,20 @@
                 {
                   "day": "JU",
                   "start": "1415",
-                  "end": "1800",
-                  "duration": 5,
-                  "room": "615",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "JU",
-                  "start": "1415",
                   "end": "1845",
                   "duration": 6,
                   "room": "615",
                   "teacher": "ALVAREZ CAERO MARIA MERCEDES",
                   "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 5,
+                  "room": "615",
+                  "teacher": "ESCALERA PACSI GLADYS",
+                  "isClass": false
                 }
               ],
               "teacher": "ALVAREZ CAERO MARIA MERCEDES"
@@ -2753,20 +2744,20 @@
                 {
                   "day": "LU",
                   "start": "945",
-                  "end": "1330",
-                  "duration": 5,
-                  "room": "615",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "LU",
-                  "start": "945",
                   "end": "1415",
                   "duration": 6,
                   "room": "615",
                   "teacher": "ESCALERA MEJIA EDWIN",
                   "isClass": true
+                },
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1330",
+                  "duration": 5,
+                  "room": "615",
+                  "teacher": "ESCALERA PACSI GLADYS",
+                  "isClass": false
                 }
               ],
               "teacher": "ESCALERA MEJIA EDWIN"
@@ -2795,7 +2786,7 @@
                   "end": "1630",
                   "duration": 5,
                   "room": "615",
-                  "teacher": "AUXILIAR POR DESIGNAR",
+                  "teacher": "ORDONEZ CORDOVA RUTH",
                   "isClass": false
                 }
               ],
@@ -2831,20 +2822,20 @@
                 {
                   "day": "VI",
                   "start": "1415",
-                  "end": "1800",
-                  "duration": 5,
-                  "room": "615",
-                  "teacher": "AUXILIAR POR DESIGNAR",
-                  "isClass": false
-                },
-                {
-                  "day": "VI",
-                  "start": "1415",
                   "end": "1845",
                   "duration": 6,
                   "room": "615",
                   "teacher": "DAVILA CABRERA MARCELO ARMANDO",
                   "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 5,
+                  "room": "615",
+                  "teacher": "BOHORQUEZ CARLA NICOL",
+                  "isClass": false
                 }
               ],
               "teacher": "DAVILA CABRERA MARCELO ARMANDO"

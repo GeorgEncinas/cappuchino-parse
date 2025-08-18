@@ -6,7 +6,7 @@
   "code": 319801,
   "name": "MECANICA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/319801.pdf",
-  "updatet_at": "2025-08-08T22:32:00",
+  "updatet_at": "2025-08-14T17:05:00",
   "levels": [
     {
       "code": "A",
@@ -1096,6 +1096,39 @@
                 }
               ],
               "teacher": "POR DESGINAR DOCENTE"
+            },
+            {
+              "code": "8",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "623",
+                  "teacher": "FLORES GARCIA HERNAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "FLORES GARCIA HERNAN",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "FLORES GARCIA HERNAN",
+                  "isClass": true
+                }
+              ],
+              "teacher": "FLORES GARCIA HERNAN"
             }
           ]
         },
@@ -2826,8 +2859,8 @@
                 },
                 {
                   "day": "MA",
-                  "start": "1200",
-                  "end": "1415",
+                  "start": "945",
+                  "end": "1200",
                   "duration": 3,
                   "room": "682L3",
                   "teacher": "ACHA PEREZ SAMUEL",

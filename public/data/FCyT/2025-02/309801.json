@@ -6,7 +6,7 @@
   "code": 309801,
   "name": "INDUSTRIAL",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/309801.pdf",
-  "updatet_at": "2025-08-12T16:52:00",
+  "updatet_at": "2025-08-14T17:05:00",
   "levels": [
     {
       "code": "A",
@@ -380,6 +380,72 @@
                 }
               ],
               "teacher": "VARGAS COLQUE AIDEE"
+            },
+            {
+              "code": "4",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "692A",
+                  "teacher": "VARGAS COLQUE AIDEE",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "VARGAS COLQUE AIDEE",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1545",
+                  "end": "1715",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "AUXILIAR POR DESIGNAR",
+                  "isClass": false
+                }
+              ],
+              "teacher": "VARGAS COLQUE AIDEE"
+            },
+            {
+              "code": "5",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "USTARIZ VARGAS HERNAN",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692B",
+                  "teacher": "USTARIZ VARGAS HERNAN",
+                  "isClass": true
+                },
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "AUXILIAR POR DESIGNAR",
+                  "isClass": false
+                }
+              ],
+              "teacher": "USTARIZ VARGAS HERNAN"
             }
           ]
         },
@@ -2236,6 +2302,15 @@
                   "isClass": false
                 },
                 {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "693A",
+                  "teacher": "ACHA PEREZ SAMUEL",
+                  "isClass": false
+                },
+                {
                   "day": "MI",
                   "start": "645",
                   "end": "815",
@@ -2243,15 +2318,6 @@
                   "room": "693B",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "660",
-                  "teacher": "ACHA PEREZ SAMUEL",
-                  "isClass": false
                 }
               ],
               "teacher": "ACHA PEREZ SAMUEL"
@@ -4538,10 +4604,10 @@
               "schedule": [
                 {
                   "day": "LU",
-                  "start": "1715",
-                  "end": "1845",
+                  "start": "1545",
+                  "end": "1715",
                   "duration": 2,
-                  "room": "AUDIND",
+                  "room": "692G",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }

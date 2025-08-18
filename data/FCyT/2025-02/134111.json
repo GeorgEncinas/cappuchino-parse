@@ -6,7 +6,7 @@
   "code": 134111,
   "name": "INFORMATICA (ING)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
-  "updatet_at": "2025-08-08T22:32:00",
+  "updatet_at": "2025-08-14T17:05:00",
   "levels": [
     {
       "code": "A",
@@ -822,20 +822,20 @@
               "code": "1",
               "schedule": [
                 {
-                  "day": "VI",
-                  "start": "645",
-                  "end": "815",
+                  "day": "LU",
+                  "start": "1545",
+                  "end": "1715",
                   "duration": 2,
-                  "room": "691C",
+                  "room": "692C",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": true
                 },
                 {
-                  "day": "SA",
-                  "start": "645",
-                  "end": "815",
+                  "day": "MA",
+                  "start": "1715",
+                  "end": "1845",
                   "duration": 2,
-                  "room": "691B",
+                  "room": "691D",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": true
                 }
@@ -3128,20 +3128,20 @@
               "code": "1",
               "schedule": [
                 {
-                  "day": "MI",
-                  "start": "1415",
-                  "end": "1545",
+                  "day": "MA",
+                  "start": "2015",
+                  "end": "2145",
                   "duration": 2,
-                  "room": "692D",
+                  "room": "692E",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
                   "day": "VI",
-                  "start": "1415",
-                  "end": "1545",
+                  "start": "2015",
+                  "end": "2145",
                   "duration": 2,
-                  "room": "692D",
+                  "room": "691B",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
