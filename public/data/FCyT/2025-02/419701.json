@@ -1,0 +1,95 @@
+{
+  "madeIn": "SCESI UMSS",
+  "semester": "2/2025",
+  "support": "@willypaz243",
+  "path": "2025-02",
+  "code": 419701,
+  "name": "SISTEMAS",
+  "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/419701.pdf",
+  "updatet_at": "2025-08-08T22:33:00",
+  "levels": [
+    {
+      "code": "J",
+      "subjects": [
+        {
+          "code": 2010122,
+          "name": "PROYECTO FINAL",
+          "groups": [
+            {
+              "code": "2",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "INFDEP",
+                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "MONTANO QUIROGA VICTOR HUGO"
+            },
+            {
+              "code": "3",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "GARCIA PEREZ CARMEN ROSA"
+            },
+            {
+              "code": "4",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "625C",
+                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "ROMERO RODRIGUEZ PATRICIA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

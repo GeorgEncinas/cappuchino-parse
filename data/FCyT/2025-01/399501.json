@@ -6,7 +6,7 @@
   "code": 399501,
   "name": "BIOLOGIA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/399501.pdf",
-  "updatet_at": "2025-02-10T20:00:00",
+  "updatet_at": "2025-02-10T23:18:00",
   "levels": [
     {
       "code": "A",
@@ -61,7 +61,7 @@
                   "day": "LU",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": false
@@ -79,7 +79,7 @@
                   "day": "MI",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": false
@@ -88,7 +88,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": true
@@ -199,7 +199,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "614",
                   "teacher": "ALFARO DENUS GONZALO",
                   "isClass": false
@@ -208,7 +208,7 @@
                   "day": "JU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
@@ -234,7 +234,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
                   "isClass": true
@@ -243,7 +243,7 @@
                   "day": "JU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
                   "isClass": true
@@ -264,7 +264,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "GARCIA ORELLANA ANA LINETH",
                   "isClass": true
@@ -273,7 +273,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "GARCIA ORELLANA ANA LINETH",
                   "isClass": true
@@ -464,7 +464,7 @@
                   "day": "MA",
                   "start": "1330",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "ANTEZANA VALERA CAROLA FATIMA",
                   "isClass": true
@@ -473,7 +473,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "ANTEZANA VALERA CAROLA FATIMA",
                   "isClass": true
@@ -486,30 +486,29 @@
         {
           "code": 2004092,
           "name": "QUIMICA ORGANICA",
+          "groups": []
+        },
+        {
+          "code": 2002009,
+          "name": "ZOOLOGIA DE INVERTEBRADOS",
           "groups": [
             {
-              "code": "2002009 ZOOLOGIA DE INVERTEBRADOS",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "606",
-                  "teacher": "1DEL CASTILLO ANTEZANA MARITHZA",
+                  "teacher": "DEL CASTILLO ANTEZANA MARITHZA",
                   "isClass": true
-                }
-              ],
-              "teacher": "1DEL CASTILLO ANTEZANA MARITHZA"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "VI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "DEL CASTILLO ANTEZANA MARITHZA",
                   "isClass": true
@@ -535,7 +534,7 @@
                   "day": "LU",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "GARCIA ORELLANA ANA LINETH",
                   "isClass": true
@@ -544,7 +543,7 @@
                   "day": "VI",
                   "start": "1030",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "GARCIA ORELLANA ANA LINETH",
                   "isClass": true
@@ -574,7 +573,7 @@
                   "day": "JU",
                   "start": "730",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
                   "isClass": true
@@ -583,7 +582,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "RIVERO LUJAN MIRTHA JUDITH",
                   "isClass": false
@@ -604,7 +603,7 @@
                   "day": "LU",
                   "start": "1200",
                   "end": "2015",
-                  "duration": 2,
+                  "duration": 11,
                   "room": "609A",
                   "teacher": "SAHONERO IRAHOLA RICARDO",
                   "isClass": true
@@ -634,7 +633,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "GOITIA ARZE LESLIE EDGAR",
                   "isClass": true
@@ -643,7 +642,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "GOITIA ARZE LESLIE EDGAR",
                   "isClass": true
@@ -664,7 +663,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": true
@@ -673,7 +672,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "FERNANDEZ TERRAZAS ERIKA",
                   "isClass": true
@@ -699,7 +698,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "615",
                   "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": false
@@ -708,7 +707,7 @@
                   "day": "VI",
                   "start": "900",
                   "end": "1115",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "VILASECA GAMARRA LUIS ANTONIO",
                   "isClass": true
@@ -717,7 +716,7 @@
                   "day": "LU",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "CAHILL MANGUDO JENNIFER ROSA AURORA",
                   "isClass": true
@@ -726,7 +725,7 @@
                   "day": "MA",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "CAHILL MANGUDO JENNIFER ROSA AURORA",
                   "isClass": true
@@ -747,7 +746,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "FERNANDEZ CALATAYUD MILTON",
                   "isClass": true
@@ -756,7 +755,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "FERNANDEZ CALATAYUD MILTON",
                   "isClass": true
@@ -777,7 +776,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "NAVARRO ANTEZANA FREDDY",
                   "isClass": true
@@ -786,7 +785,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "NAVARRO ANTEZANA FREDDY",
                   "isClass": true
@@ -846,7 +845,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "HERBARI",
                   "teacher": "ARRAZOLA RIVERO SILVIA SUSANA",
                   "isClass": true
@@ -855,7 +854,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "HERBARI",
                   "teacher": "ARRAZOLA RIVERO SILVIA SUSANA",
                   "isClass": true
@@ -881,7 +880,7 @@
                   "day": "JU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "MICBIO",
                   "teacher": "IRIARTE PU\u00d1A MERCEDES",
                   "isClass": true
@@ -890,7 +889,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "606",
                   "teacher": "IRIARTE PU\u00d1A MERCEDES",
                   "isClass": true
@@ -911,7 +910,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "MALDONADO MALDONADO MABEL",
                   "isClass": true
@@ -920,7 +919,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "MALDONADO MALDONADO MABEL",
                   "isClass": true
@@ -941,7 +940,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
                   "isClass": true
@@ -950,7 +949,7 @@
                   "day": "VI",
                   "start": "1030",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "BRUCKNER BAZOBERRY MARIA LIDIA AMPARO",
                   "isClass": true
@@ -971,7 +970,7 @@
                   "day": "LU",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "AVILA ALBA MARTHA TERESA",
                   "isClass": true
@@ -980,7 +979,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "AVILA ALBA MARTHA TERESA",
                   "isClass": true
@@ -1001,7 +1000,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "CAHILL MANGUDO JENNIFER ROSA AURORA",
                   "isClass": true
@@ -1010,7 +1009,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "CAHILL MANGUDO JENNIFER ROSA AURORA",
                   "isClass": true
@@ -1036,7 +1035,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "AVILA ALBA MARTHA TERESA",
                   "isClass": true
@@ -1045,7 +1044,7 @@
                   "day": "VI",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "AVILA ALBA MARTHA TERESA",
                   "isClass": true
@@ -1066,7 +1065,7 @@
                   "day": "MA",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "606",
                   "teacher": "PEREZ ZUBIETA JOSE CARLOS",
                   "isClass": true
@@ -1075,7 +1074,7 @@
                   "day": "MI",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "606",
                   "teacher": "PEREZ ZUBIETA JOSE CARLOS",
                   "isClass": true
@@ -1096,7 +1095,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "MALDONADO MALDONADO MABEL",
                   "isClass": true
@@ -1105,7 +1104,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "606",
                   "teacher": "MALDONADO MALDONADO MABEL",
                   "isClass": true
@@ -1126,7 +1125,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "NAVARRO ANTEZANA FREDDY",
                   "isClass": true
@@ -1135,7 +1134,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "NAVARRO ANTEZANA FREDDY",
                   "isClass": true
@@ -1156,7 +1155,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "USTARIZ OLIVERA KARINA ROSSIO",
                   "isClass": true
@@ -1165,7 +1164,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "USTARIZ OLIVERA KARINA ROSSIO",
                   "isClass": true
@@ -1186,7 +1185,7 @@
                   "day": "MA",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "AGUAYO VEDIA RODRIGO",
                   "isClass": true
@@ -1195,7 +1194,7 @@
                   "day": "VI",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "AGUAYO VEDIA RODRIGO",
                   "isClass": true
@@ -1216,7 +1215,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "ANTEZANA VALERA CAROLA FATIMA",
                   "isClass": true
@@ -1237,7 +1236,7 @@
                   "day": "MI",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "ZAPATA SCHULTZE MARIA LOTTY ESTRELLA",
                   "isClass": true
@@ -1246,7 +1245,7 @@
                   "day": "VI",
                   "start": "730",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "ZAPATA SCHULTZE MARIA LOTTY ESTRELLA",
                   "isClass": true
@@ -1272,7 +1271,7 @@
                   "day": "LU",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "PEREZ ZUBIETA JOSE CARLOS",
                   "isClass": true
@@ -1281,7 +1280,7 @@
                   "day": "JU",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "606",
                   "teacher": "PEREZ ZUBIETA JOSE CARLOS",
                   "isClass": true
@@ -1302,7 +1301,7 @@
                   "day": "MA",
                   "start": "1330",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "NAVARRO ANTEZANA FREDDY",
                   "isClass": true
@@ -1311,7 +1310,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "NAVARRO ANTEZANA FREDDY",
                   "isClass": true
@@ -1332,7 +1331,7 @@
                   "day": "LU",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AULVIR",
                   "teacher": "HIDALGO SANCHEZ MARY ISABEL",
                   "isClass": true
@@ -1341,7 +1340,7 @@
                   "day": "MI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "AULVIR",
                   "teacher": "HIDALGO SANCHEZ MARY ISABEL",
                   "isClass": true
@@ -1362,7 +1361,7 @@
                   "day": "JU",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608A",
                   "teacher": "ROJAS VALENCIA MAX ROLANDO",
                   "isClass": true
@@ -1371,7 +1370,7 @@
                   "day": "SA",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690A",
                   "teacher": "ROJAS VALENCIA MAX ROLANDO",
                   "isClass": true
@@ -1392,7 +1391,7 @@
                   "day": "MI",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "DE LA BARRA RICALDEZ NELLY BRIGIDA",
                   "isClass": true
@@ -1413,7 +1412,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "GOITIA ARZE LESLIE EDGAR",
                   "isClass": true
@@ -1422,7 +1421,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "GOITIA ARZE LESLIE EDGAR",
                   "isClass": true
@@ -1443,7 +1442,7 @@
                   "day": "MI",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "AVILA LARA ALFREDO",
                   "isClass": true
@@ -1452,7 +1451,7 @@
                   "day": "JU",
                   "start": "1800",
                   "end": "2015",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608",
                   "teacher": "AVILA LARA ALFREDO",
                   "isClass": true
@@ -1473,7 +1472,7 @@
                   "day": "MI",
                   "start": "730",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "ZAPATA SCHULTZE MARIA LOTTY ESTRELLA",
                   "isClass": true
@@ -1482,7 +1481,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609A",
                   "teacher": "ZAPATA SCHULTZE MARIA LOTTY ESTRELLA",
                   "isClass": true
@@ -1503,7 +1502,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "609",
                   "teacher": "IRIARTE PU\u00d1A MERCEDES",
                   "isClass": true
@@ -1529,7 +1528,7 @@
                   "day": "LU",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "FERNANDEZ CALATAYUD MILTON",
                   "isClass": true
@@ -1538,7 +1537,7 @@
                   "day": "MA",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "608B",
                   "teacher": "FERNANDEZ CALATAYUD MILTON",
                   "isClass": true

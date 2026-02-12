@@ -6,7 +6,7 @@
   "code": 339701,
   "name": "QUIMICA (ING)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/339701.pdf",
-  "updatet_at": "2025-02-10T20:04:00",
+  "updatet_at": "2025-02-10T23:21:00",
   "levels": [
     {
       "code": "A",
@@ -637,7 +637,7 @@
                   "day": "MI",
                   "start": "1245",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS ARZE RUBEN DARIO",
                   "isClass": true
@@ -652,7 +652,7 @@
                   "day": "VI",
                   "start": "1245",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "614",
                   "teacher": "TERRAZAS MALDONADO ISRAEL",
                   "isClass": true
@@ -661,7 +661,7 @@
                   "day": "VI",
                   "start": "1245",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "614",
                   "teacher": "COCA COSSIO MELISSA NICOLE",
                   "isClass": false
@@ -676,7 +676,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "ANTEZANA FERNANDEZ HENRY",
                   "isClass": true
@@ -685,7 +685,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "VARGAS ALVAREZ MAURICIO",
                   "isClass": false
@@ -694,7 +694,7 @@
                   "day": "MI",
                   "start": "1245",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "ROMERO COCA DAYANA NICOLE",
                   "isClass": false
@@ -709,7 +709,7 @@
                   "day": "LU",
                   "start": "1500",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "MENDIETA BRITO SONIA",
                   "isClass": true
@@ -718,7 +718,7 @@
                   "day": "LU",
                   "start": "1500",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
                   "isClass": false
@@ -733,7 +733,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "HERBAS ANGULO ADELINA",
                   "isClass": true
@@ -742,7 +742,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "DAZA GUIZADA JORGE",
                   "isClass": false
@@ -757,7 +757,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
                   "isClass": true
@@ -766,7 +766,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "ZERDA RODRIGUEZ HELEN DAYANA",
                   "isClass": false
@@ -781,7 +781,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "MOREIRA ROSAS BORIS ARTURO",
                   "isClass": true
@@ -790,7 +790,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "PENALOZA RODRIGUEZ MIGUEL ANGEL",
                   "isClass": false
@@ -805,7 +805,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "PEREZ CHACON MARIBEL",
                   "isClass": true
@@ -814,7 +814,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "VARGAS GODOY GUSTAVO ALEJANDRO",
                   "isClass": false
@@ -829,7 +829,7 @@
                   "day": "LU",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "613",
                   "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
                   "isClass": true
@@ -838,7 +838,7 @@
                   "day": "LU",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "613",
                   "teacher": "DAZA GUIZADA JORGE",
                   "isClass": false
@@ -853,7 +853,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "614",
                   "teacher": "ROJAS ARNEZ CINTHIA CAROLA",
                   "isClass": true
@@ -862,7 +862,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "614",
                   "teacher": "COCA COSSIO MELISSA NICOLE",
                   "isClass": false
@@ -2000,7 +2000,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
@@ -2015,7 +2015,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
@@ -2024,7 +2024,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "CUSSI QUISPE SANDRA",
                   "isClass": false
@@ -2039,7 +2039,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "",
                   "isClass": false
@@ -2048,7 +2048,7 @@
                   "day": "MA",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ROJAS CESPEDES JENNY",
                   "isClass": true
@@ -2057,7 +2057,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "SAINZ RAMOS NEMESIS FARHA",
                   "isClass": false
@@ -2072,7 +2072,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "ESPINOZA ALCOCER JENNY",
                   "isClass": true
@@ -2081,7 +2081,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "CUSSI QUISPE SANDRA",
                   "isClass": false
@@ -2096,7 +2096,7 @@
                   "day": "SA",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "MOREIRA ROSAS BORIS ARTURO",
                   "isClass": true
@@ -2105,7 +2105,7 @@
                   "day": "SA",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "COSSIO GUILLEN LINCY PATRICIA",
                   "isClass": false
@@ -2120,7 +2120,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "616",
                   "teacher": "MUNOZ COLLAZOS MARIA SUSANA DEL ROSARIO",
                   "isClass": true
@@ -2129,7 +2129,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "616",
                   "teacher": "COSSIO GUILLEN LINCY PATRICIA",
                   "isClass": false
@@ -2281,7 +2281,85 @@
           "name": "LABORATORIO DE QUIMICA ORGANICA",
           "groups": [
             {
-              "code": "D",
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 6,
+                  "room": "615",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "LU",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 5,
+                  "room": "615",
+                  "teacher": "SOTO GONZALES IVAN ISRAEL",
+                  "isClass": false
+                },
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1800",
+                  "duration": 1,
+                  "room": "615",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
+                }
+              ],
+              "teacher": "DOCENTE POR DESIGNAR"
+            },
+            {
+              "code": "2",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1845",
+                  "duration": 6,
+                  "room": "615",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1800",
+                  "duration": 5,
+                  "room": "615",
+                  "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
+                  "isClass": false
+                }
+              ],
+              "teacher": "DOCENTE POR DESIGNAR"
+            },
+            {
+              "code": "3",
+              "schedule": [
+                {
+                  "day": "SA",
+                  "start": "1245",
+                  "end": "1715",
+                  "duration": 6,
+                  "room": "616",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                }
+              ],
+              "teacher": "DOCENTE POR DESIGNAR"
+            }
+          ]
+        },
+        {
+          "code": 2004053,
+          "name": "QUIMICA ORGANICA",
+          "groups": [
+            {
+              "code": "1",
               "schedule": [
                 {
                   "day": "JU",
@@ -2289,26 +2367,62 @@
                   "end": "815",
                   "duration": 2,
                   "room": "693C",
-                  "teacher": "2004053 QUIMICA ORGANICA",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
-                }
-              ],
-              "teacher": "2004053 QUIMICA ORGANICA"
-            },
-            {
-              "code": "VI",
-              "schedule": [
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "622",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
                 {
                   "day": "SA",
                   "start": "645",
                   "end": "815",
                   "duration": 2,
                   "room": "693C",
-                  "teacher": "645 -0815622",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 }
               ],
-              "teacher": "645 -0815622"
+              "teacher": "DOCENTE POR DESIGNAR"
+            },
+            {
+              "code": "2",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "660",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                }
+              ],
+              "teacher": "DOCENTE POR DESIGNAR"
             }
           ]
         },
@@ -2317,7 +2431,51 @@
           "name": "TERMODINAMICA I",
           "groups": [
             {
-              "code": "2004184 FENOMENOS DE TRANSPORTE A",
+              "code": 1,
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "651",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "691D",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                }
+              ],
+              "teacher": "DOCENTE POR DESIGNAR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "subjects": [
+        {
+          "code": 2004184,
+          "name": "FENOMENOS DE TRANSPORTE A",
+          "groups": [
+            {
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -2325,15 +2483,9 @@
                   "end": "815",
                   "duration": 2,
                   "room": "693A",
-                  "teacher": "1ALFARO DENUS GONZALO",
+                  "teacher": "ALFARO DENUS GONZALO",
                   "isClass": true
-                }
-              ],
-              "teacher": "1ALFARO DENUS GONZALO"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MA",
                   "start": "645",
@@ -2356,12 +2508,7 @@
               "teacher": "ALFARO DENUS GONZALO"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "E",
-      "subjects": [
+        },
         {
           "code": 2004169,
           "name": "LABORATORIO DE QUIMICA ANALITICA CUANTITATIVA",
@@ -2373,7 +2520,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "614",
                   "teacher": "ARZABE MAURE JOSE OMAR",
                   "isClass": true
@@ -2382,58 +2529,16 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "614",
                   "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
                   "isClass": false
-                },
-                {
-                  "day": "LU",
-                  "start": "1415",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1415",
-                  "end": "1800",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": "SOTO GONZALES IVAN ISRAEL",
-                  "isClass": false
-                },
-                {
-                  "day": "LU",
-                  "start": "1715",
-                  "end": "1800",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": true
                 }
               ],
-              "teacher": "POR DESIGNAR DOCENTE"
+              "teacher": "ARZABE MAURE JOSE OMAR"
             },
             {
-              "code": "1715-1845",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "651",
-                  "teacher": "6071",
-                  "isClass": true
-                }
-              ],
-              "teacher": "6071"
-            },
-            {
-              "code": "DOCENTE POR DESIGNAR",
+              "code": "2",
               "schedule": [
                 {
                   "day": "LU",
@@ -2441,24 +2546,9 @@
                   "end": "1245",
                   "duration": 2,
                   "room": "691D",
-                  "teacher": "2DOCENTE POR DESIGNAR",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 },
-                {
-                  "day": "SA",
-                  "start": "1245",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "616",
-                  "teacher": "3DOCENTE POR DESIGNAR",
-                  "isClass": true
-                }
-              ],
-              "teacher": "3DOCENTE POR DESIGNAR"
-            },
-            {
-              "code": "2",
-              "schedule": [
                 {
                   "day": "JU",
                   "start": "1115",
@@ -2481,7 +2571,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
@@ -2490,7 +2580,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
                   "isClass": false
@@ -2499,7 +2589,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "",
                   "isClass": false
@@ -2508,7 +2598,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ESCALERA MEJIA EDWIN",
                   "isClass": true
@@ -2523,7 +2613,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "DOMINGUEZ CHURA RAUL AGAPITO",
                   "isClass": true
@@ -2532,7 +2622,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "ROMERO COCA DAYANA NICOLE",
                   "isClass": false
@@ -2547,7 +2637,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ALVAREZ CAERO MARIA MERCEDES",
                   "isClass": true
@@ -2556,7 +2646,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "ROMERO COCA DAYANA NICOLE",
                   "isClass": false
@@ -2571,7 +2661,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ESCALERA MEJIA EDWIN",
                   "isClass": true
@@ -2580,7 +2670,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "HUANCA ALCAZAR MARIELA LIZBETH",
                   "isClass": false
@@ -2601,7 +2691,7 @@
                   "day": "MI",
                   "start": "1115",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "",
                   "isClass": false
@@ -2610,7 +2700,7 @@
                   "day": "MI",
                   "start": "1115",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "ORTU\u00d1O FERRUFINO FARY",
                   "isClass": true
@@ -2625,7 +2715,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "615",
                   "teacher": "DAVILA CABRERA MARCELO ARMANDO",
                   "isClass": true
@@ -2634,7 +2724,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "615",
                   "teacher": "RODRIGUEZ LEDEZMA BELKA RUTH",
                   "isClass": false
@@ -2767,9 +2857,19 @@
         {
           "code": 2004196,
           "name": "TERMODINAMICA II",
+          "groups": []
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "subjects": [
+        {
+          "code": 2004198,
+          "name": "DISE\u00d1O EXPERIMENTAL",
           "groups": [
             {
-              "code": "2004198 DISE\u00d1O EXPERIMENTAL",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -2777,15 +2877,9 @@
                   "end": "815",
                   "duration": 2,
                   "room": "692C",
-                  "teacher": "1ALCON PU\u00d1A JUAN NOLASCO",
+                  "teacher": "ALCON PU\u00d1A JUAN NOLASCO",
                   "isClass": true
-                }
-              ],
-              "teacher": "1ALCON PU\u00d1A JUAN NOLASCO"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MI",
                   "start": "815",
@@ -2794,68 +2888,12 @@
                   "room": "690C",
                   "teacher": "ALCON PU\u00d1A JUAN NOLASCO",
                   "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "692G",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "617B",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "617C",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
                 }
               ],
-              "teacher": "DOCENTE POR DESIGNAR"
-            },
-            {
-              "code": "2",
-              "schedule": [
-                {
-                  "day": "SA",
-                  "start": "815",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "SA",
-                  "start": "815",
-                  "end": "1200",
-                  "duration": 2,
-                  "room": "615",
-                  "teacher": "SOTO GONZALES IVAN ISRAEL",
-                  "isClass": false
-                }
-              ],
-              "teacher": "DOCENTE POR DESIGNAR"
+              "teacher": "ALCON PU\u00d1A JUAN NOLASCO"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "F",
-      "subjects": [
+        },
         {
           "code": 2004197,
           "name": "FENOMENOS DE TRANSPORTE B",
@@ -2982,36 +3020,9 @@
                   "room": "692D",
                   "teacher": "ROMERO JALDIN ANA MARIA",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "690B",
-                  "teacher": "SOTO SOLIZ JOSE ROBERTO",
-                  "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "691B",
-                  "teacher": "SOTO SOLIZ JOSE ROBERTO",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "691B",
-                  "teacher": "SOTO SOLIZ JOSE ROBERTO",
-                  "isClass": true
                 }
               ],
-              "teacher": "SOTO SOLIZ JOSE ROBERTO"
+              "teacher": "ROMERO JALDIN ANA MARIA"
             }
           ]
         },
@@ -3059,6 +3070,39 @@
           "name": "LABORATORIO DE TERMODINAMICA",
           "groups": [
             {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "690B",
+                  "teacher": "SOTO SOLIZ JOSE ROBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "LU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "SOTO SOLIZ JOSE ROBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "SOTO SOLIZ JOSE ROBERTO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "SOTO SOLIZ JOSE ROBERTO"
+            },
+            {
               "code": "2",
               "schedule": [
                 {
@@ -3090,39 +3134,6 @@
                 }
               ],
               "teacher": "DOCENTE POR DESIGNAR"
-            },
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "616",
-                  "teacher": "RIOS DEL PRADO JUAN",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "683B",
-                  "teacher": "RIOS DEL PRADO JUAN",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "683B",
-                  "teacher": "RIOS DEL PRADO JUAN",
-                  "isClass": true
-                }
-              ],
-              "teacher": "RIOS DEL PRADO JUAN"
             }
           ]
         }
@@ -3232,7 +3243,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L3",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": false
@@ -3245,11 +3256,50 @@
         {
           "code": 2004078,
           "name": "OPERACIONES UNITARIAS II",
-          "groups": []
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "616",
+                  "teacher": "RIOS DEL PRADO JUAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "683B",
+                  "teacher": "RIOS DEL PRADO JUAN",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "815",
+                  "end": "945",
+                  "duration": 2,
+                  "room": "683B",
+                  "teacher": "RIOS DEL PRADO JUAN",
+                  "isClass": true
+                }
+              ],
+              "teacher": "RIOS DEL PRADO JUAN"
+            }
+          ]
         },
         {
           "code": 2004005,
           "name": "PREPARACION Y EVALUACION DE PROYECTOS I",
+          "groups": []
+        },
+        {
+          "code": 2004200,
+          "name": "TECNOLOGIA QUIMICA",
           "groups": []
         }
       ]
@@ -3472,90 +3522,9 @@
                   "room": "660",
                   "teacher": "RIOS DEL PRADO JUAN",
                   "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "632",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "632",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1415",
-                  "end": "1545",
-                  "duration": 2,
-                  "room": "632",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "617C",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "690D",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "1545",
-                  "end": "1715",
-                  "duration": 2,
-                  "room": "691C",
-                  "teacher": "DOCENTE POR DESIGNARO",
-                  "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "692E",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "692G",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "693C",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
                 }
               ],
-              "teacher": "DOCENTE POR DESIGNAR"
+              "teacher": "RIOS DEL PRADO JUAN"
             }
           ]
         },
@@ -3798,36 +3767,9 @@
                   "day": "MA",
                   "start": "1545",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "614",
                   "teacher": "LOPEZ ARZE JAVIER BERNARDO",
-                  "isClass": true
-                },
-                {
-                  "day": "LU",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "683B",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1415",
-                  "end": "1545",
-                  "duration": 2,
-                  "room": "683B",
-                  "teacher": "DOCENTE POR DESIGNAR",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1415",
-                  "end": "1545",
-                  "duration": 2,
-                  "room": "683B",
-                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 }
               ],
@@ -3840,7 +3782,7 @@
                   "day": "MI",
                   "start": "1415",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "615",
                   "teacher": "LOPEZ ARZE JAVIER BERNARDO",
                   "isClass": true

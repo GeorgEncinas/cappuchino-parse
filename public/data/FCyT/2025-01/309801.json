@@ -6,7 +6,7 @@
   "code": 309801,
   "name": "INDUSTRIAL",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/309801.pdf",
-  "updatet_at": "2025-02-10T20:02:00",
+  "updatet_at": "2025-02-10T23:20:00",
   "levels": [
     {
       "code": "A",
@@ -1131,7 +1131,7 @@
                   "day": "JU",
                   "start": "1415",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 1,
                   "room": "692F",
                   "teacher": "FRIAS CRUZ ROSALIA",
                   "isClass": false
@@ -1140,7 +1140,7 @@
                   "day": "JU",
                   "start": "1500",
                   "end": "1545",
-                  "duration": 2,
+                  "duration": 1,
                   "room": "692F",
                   "teacher": "FLORES VARGAS JORGE EDUARDO",
                   "isClass": false
@@ -1236,7 +1236,7 @@
                   "day": "JU",
                   "start": "1715",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "623",
                   "teacher": "MENDEZ VELASQUEZ IVAN",
                   "isClass": true
@@ -1260,7 +1260,7 @@
                   "day": "VI",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692H",
                   "teacher": "MENDEZ VELASQUEZ IVAN",
                   "isClass": true
@@ -2121,9 +2121,19 @@
         {
           "code": 2004044,
           "name": "FISICOQUIMICA",
+          "groups": []
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "subjects": [
+        {
+          "code": 2016011,
+          "name": "ECONOMIA INDUSTRIAL",
           "groups": [
             {
-              "code": "2016011 ECONOMIA INDUSTRIAL",
+              "code": "1",
               "schedule": [
                 {
                   "day": "LU",
@@ -2131,15 +2141,9 @@
                   "end": "1245",
                   "duration": 2,
                   "room": "661",
-                  "teacher": "1GUTIERREZ ANDRADE OSVALDO WALTER",
+                  "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
                   "isClass": true
-                }
-              ],
-              "teacher": "1GUTIERREZ ANDRADE OSVALDO WALTER"
-            },
-            {
-              "code": "1",
-              "schedule": [
+                },
                 {
                   "day": "MI",
                   "start": "1115",
@@ -2222,12 +2226,7 @@
               "teacher": "TRIGO ROCHA INGRID VICKY"
             }
           ]
-        }
-      ]
-    },
-    {
-      "code": "D",
-      "subjects": [
+        },
         {
           "code": 2014087,
           "name": "ELECTROTECNIA INDUSTRIAL",
@@ -2266,7 +2265,7 @@
                   "day": "JU",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L3",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": false
@@ -2290,7 +2289,7 @@
                   "day": "MA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L3",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": false
@@ -2595,7 +2594,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L8IN",
                   "teacher": "CRESPO GARCIA ALBERTO RUDY",
                   "isClass": false
@@ -3098,7 +3097,7 @@
                   "day": "MA",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692A",
                   "teacher": "ALVAREZ QUIROZ RICHARD MILTON",
                   "isClass": true
@@ -3131,7 +3130,7 @@
                   "day": "MI",
                   "start": "1115",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L8IN",
                   "teacher": "ALVAREZ QUIROZ RICHARD MILTON",
                   "isClass": true
@@ -3334,7 +3333,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692E",
                   "teacher": "MALDONADO LOPEZ PASCUAL",
                   "isClass": true
@@ -3882,7 +3881,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692D",
                   "teacher": "GOITIA ARZE OSCAR JAVIER",
                   "isClass": true
@@ -4128,7 +4127,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "617",
                   "teacher": "RODRIGUEZ RAMIREZ CARLOS ALBERTO",
                   "isClass": true
@@ -4143,7 +4142,7 @@
                   "day": "MA",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L8IN",
                   "teacher": "VARGAS REINAGA JUAN CARLOS",
                   "isClass": true
@@ -4187,7 +4186,7 @@
                   "day": "JU",
                   "start": "1930",
                   "end": "2145",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L8IN",
                   "teacher": "CRESPO GARCIA ALBERTO RUDY",
                   "isClass": true
@@ -4247,7 +4246,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "L813",
                   "teacher": "GALARZA BARRON ANGEL",
                   "isClass": true
@@ -4256,7 +4255,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "L813",
                   "teacher": "GALARZA BARRON ANGEL",
                   "isClass": true
@@ -4469,7 +4468,7 @@
                   "day": "MA",
                   "start": "1115",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L6IN",
                   "teacher": "ARNEZ CAMACHO MARIA DEL CARMEN",
                   "isClass": true
@@ -4495,7 +4494,7 @@
                   "day": "MA",
                   "start": "1930",
                   "end": "2145",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "691D",
                   "teacher": "JALDIN SALAZAR JUAN",
                   "isClass": true
@@ -4510,7 +4509,7 @@
                   "day": "MI",
                   "start": "1930",
                   "end": "2145",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "693C",
                   "teacher": "JALDIN SALAZAR JUAN",
                   "isClass": true
@@ -4531,7 +4530,7 @@
                   "day": "LU",
                   "start": "645",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L6IN",
                   "teacher": "GUZMAN ORELLANA GONZALO ENRIQUE ANTONIO",
                   "isClass": true
@@ -4564,7 +4563,7 @@
                   "day": "JU",
                   "start": "645",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L6IN",
                   "teacher": "GUZMAN ORELLANA GONZALO ENRIQUE ANTONIO",
                   "isClass": true
@@ -4651,7 +4650,7 @@
                   "day": "MI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L8IN",
                   "teacher": "KOLLER CLAURE ADRIANA URPITA",
                   "isClass": true
@@ -4666,7 +4665,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L6IN",
                   "teacher": "RIVERO ADRIAZOLA MARIA DE LOS ANGELES AMALIA",
                   "isClass": true
@@ -4720,7 +4719,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L6IN",
                   "teacher": "ARNEZ CAMACHO MARIA DEL CARMEN",
                   "isClass": true
@@ -4783,7 +4782,7 @@
                   "day": "LU",
                   "start": "1115",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L6IN",
                   "teacher": "ARNEZ CAMACHO MARIA DEL CARMEN",
                   "isClass": true

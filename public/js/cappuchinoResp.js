@@ -89,11 +89,11 @@ var Events = new (function () {
                     if (typeof carrera.levels === 'undefined') {
                         Config.carreras[i] = json
                         Render.renderNiveles(i)
-                        window.scrollTo(0, 0);
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
                         $('li.added').find('a:contains("'.concat(carrera.name, '")')).parent().removeClass().addClass('opt')
                         element.text(carrera.name + ' ☕')
-                        $('li.added').hide()
-                        $('li.add').show()
+                        $('li.added').hide(300)
+                        $('li.add').show(300)
 
                     }
                 })
@@ -102,10 +102,12 @@ var Events = new (function () {
 
                 })
         } else {
-            window.scrollTo(0, 0);
-            ul.children('ul').fadeToggle()
-            $('li.added').hide()
-            $('li.add').show()
+            ul.children('ul').slideToggle(300)
+            .css('display', function(_, display) {
+                return display === 'none' ? 'block' : 'block';
+            });
+            $('li.added').hide(300)
+            $('li.add').show(300)
         }
         return false
     }
@@ -115,7 +117,10 @@ var Events = new (function () {
             var i = $(this).parent().attr('name').substring(6).split('-')
             Render.renderMaterias(i)
         } else {
-            ul.children('ul').fadeToggle()
+            ul.children('ul').slideToggle(300)
+            .css('display', function(_, display) {
+                return display === 'none' ? 'block' : 'block';
+            });
         }
         return false
     }
@@ -125,7 +130,10 @@ var Events = new (function () {
             var i = $(this).parent().attr('name').substring(8).split('-')
             Render.renderGrupos(i)
         } else {
-            ul.children('ul').fadeToggle()
+            ul.children('ul').slideToggle(300)
+            .css('display', function(_, display) {
+                return display === 'none' ? 'block' : 'block';
+            });
         }
         return false
     }
@@ -146,24 +154,24 @@ var Events = new (function () {
     }
     this.preview = function () {
         if ($('#schedule').hasClass('preview')) {
-            $('#options').show('slow')
+            $('#options').slideDown(300)
             $('.tools').removeClass('preview')
-            $('footer').show('slow')
+            $('footer').slideDown(300)
             $('#schedule').removeClass('preview')
-            window.scrollTo(0, 0);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         else {
-            $('#options').hide('slow')
+            $('#options').slideUp(300)
             $('.tools').addClass('preview')
-            $('footer').hide('slow')
+            $('footer').slideUp(300)
             $('#schedule').addClass('preview')
         }
     }
     this.print = function () {
         if (!$('#schedule').hasClass('preview')) {
-            $('#options').hide('slow')
+            $('#options').slideUp(300)
             $('.tools').addClass('preview')
-            $('footer').hide('slow')
+            $('footer').slideUp(300)
             $('#schedule').addClass('preview')
         }
         Tablero.minifyShedule()
@@ -173,16 +181,16 @@ var Events = new (function () {
 
     this.sidebar = function () {
         if ($('#schedule').hasClass('preview')) {
-            $('#options').show('slow')
+            $('#options').slideDown(300)
+            $('#options').addClass('active')
             $('#schedule').removeClass('preview')
-            // $('div.tools').css('display', '')
-            window.scrollTo(0, 0);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         else {
             $('nav').css('position', 'fixed')
-            $('#options').hide('slow')
+            $('#options').slideUp(300)
+            $('#options').removeClass('active')
             $('#schedule').addClass('preview')
-            // $('div.tools').css('display', 'none')
             if (Mobile.current) {
                 $('table tr td').css('font-size', '10px')
                 $("#viewport").attr(
