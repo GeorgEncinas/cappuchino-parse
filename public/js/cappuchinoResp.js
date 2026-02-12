@@ -54,7 +54,7 @@ var Templates = new (function () {
     this.nivel = '<li name="nivel-{0}-{1}"><a class="nivel">Nivel {2}</a></li>'
     this.materia = '<li name="materia-{0}-{1}-{2}">'
         + '<a class="materia">{3}</a></li>'
-    this.grupo = '<li name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" />'
+    this.grupo = '<li class="flex" name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" />'
         + '<a class="grupo">G: {4} {5}</a></li>'
     this.menu = '<div class="container change">\
                 <div class="bar1"></div>\
