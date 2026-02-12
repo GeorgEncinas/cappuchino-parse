@@ -378,3 +378,27 @@ a.grupo.selected {
     padding-left: 2.25em;
     color: rgb(113, 119, 88);
 }
+
+.newCappuccino {
+  font-family: "GeoSansLight";
+  font-weight: 800;
+  border-radius: 10px;
+  border: none;
+  color: black;
+  background-color: #9095ce;
+}
+
+.newCappuccino:hover {
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background-color: #101227;
+}
+
+.newCappuccino:active {
+  font-family: "GeoSansLight";
+  border-radius: 10px;
+  border: none;
+  color: black;
+  background-color: #9095ce;
+}
