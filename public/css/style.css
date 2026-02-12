@@ -159,7 +159,7 @@ footer ul li a:hover {
     font-weight: 600;
 }
 
-@media (min-width: 769px) {
+@media (min-width: 1080px) {
     #wrapper {
         display: flex;
         gap: 16px;
@@ -170,7 +170,7 @@ footer ul li a:hover {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     #wrapper {
         width: 100%;
         padding: 48px 8px 60px;
@@ -186,8 +186,8 @@ footer ul li a:hover {
     padding: 12px 8px 12px 12px;
     position: relative;
     z-index: 10;
-    height: fit-content;
-    max-height: calc(100vh - 100px);
+    /* height: fit-content; */
+    /* max-height: calc(100vh - 100px); */
     overflow-y: auto;
     overflow-x: hidden;
     border: 2px solid var(--color-sin-escorbuto);
@@ -639,7 +639,7 @@ li.add a.carrera:hover {
     vertical-align: top;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1080px) {
     header h1 {
         font-size: 14px;
         padding: 10px 12px;
@@ -649,8 +649,7 @@ li.add a.carrera:hover {
         position: fixed;
         top: 48px;
         left: -280px;
-        width: 280px;
-        height: calc(100vh - 48px);
+        width: 100% !important; 
         max-height: none;
         border-radius: 0;
         transition: left var(--transition-medium);
@@ -762,7 +761,6 @@ li.add a.carrera:hover {
 
     #schedule table tr th.hour,
     #schedule table td.hour {
-        color: var(--color-cream);
         text-align: right;
         padding-right: 12px;
         font-size: 11px;
