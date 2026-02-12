@@ -1631,7 +1631,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "671C",
                   "teacher": "ROCABADO QUIROGA JAZMIN GABRIELA",
                   "isClass": false
@@ -1873,7 +1873,7 @@
                   "day": "LU",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
                   "isClass": false
@@ -1882,7 +1882,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
                   "isClass": false
@@ -1924,7 +1924,7 @@
                   "day": "MI",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "VALLEJO CAMACHO MARCO ANTONIO",
                   "isClass": false
@@ -2059,7 +2059,7 @@
                   "day": "LU",
                   "start": "1715",
                   "end": "2015",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "671A",
                   "teacher": "TANCARA SANDAGORDA JOSE FELIX",
                   "isClass": false
@@ -2161,7 +2161,7 @@
                   "day": "LU",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "617B",
                   "teacher": "TORREJON ROCABADO JULIO MARCELO",
                   "isClass": true
@@ -2325,7 +2325,7 @@
                   "day": "MI",
                   "start": "1545",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "671A",
                   "teacher": "SARAMANI AGUILAR ARTURO",
                   "isClass": true
@@ -2364,7 +2364,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L2",
                   "teacher": "PEREZ PEREDO YURI GERMAN",
                   "isClass": false
@@ -2373,7 +2373,7 @@
                   "day": "MA",
                   "start": "1545",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L1",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
                   "isClass": true
@@ -2448,7 +2448,7 @@
                   "day": "LU",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L3",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
                   "isClass": false
@@ -2457,7 +2457,7 @@
                   "day": "MA",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L3",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
                   "isClass": false
@@ -2881,7 +2881,7 @@
                   "day": "LU",
                   "start": "1930",
                   "end": "2145",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667B",
                   "teacher": "JALDIN FLORERO HERNAN",
                   "isClass": true
@@ -2890,7 +2890,7 @@
                   "day": "MA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667B",
                   "teacher": "JALDIN FLORERO HERNAN",
                   "isClass": false
@@ -2899,7 +2899,7 @@
                   "day": "JU",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667B",
                   "teacher": "JALDIN FLORERO HERNAN",
                   "isClass": true
@@ -2929,7 +2929,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 6,
                   "room": "667B",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
                   "isClass": true
@@ -3162,7 +3162,7 @@
                   "day": "JU",
                   "start": "1545",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "671A",
                   "teacher": "SARAMANI AGUILAR ARTURO",
                   "isClass": true
@@ -3231,7 +3231,7 @@
                   "day": "MA",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "669A",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -3261,7 +3261,7 @@
                   "day": "VI",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690B",
                   "teacher": "BUTRON GANDARILLAS FERNANDO",
                   "isClass": true
@@ -3282,7 +3282,7 @@
                   "day": "MA",
                   "start": "1500",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "670",
                   "teacher": "SARAMANI AGUILAR ARTURO",
                   "isClass": true
@@ -3321,7 +3321,7 @@
                   "day": "JU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -3395,7 +3395,7 @@
                   "day": "LU",
                   "start": "1545",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "670",
                   "teacher": "SARAMANI AGUILAR ARTURO",
                   "isClass": true
@@ -3530,7 +3530,7 @@
                   "day": "LU",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682A",
                   "teacher": "MONTANO FERNANDEZ LUIS DIEGO",
                   "isClass": false
@@ -3539,7 +3539,7 @@
                   "day": "LU",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "COSSIO CABRERA WALTER FELIX",
                   "isClass": true
@@ -3724,7 +3724,7 @@
                   "day": "JU",
                   "start": "1545",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "671B",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
                   "isClass": true
@@ -3913,7 +3913,7 @@
         },
         {
           "code": 2014049,
-          "name": "TOPICOS ELECTRONICOS  (AVIONICA)",
+          "name": "TOPICOS ELECTRONICOS",
           "groups": [
             {
               "code": "1",
@@ -3943,7 +3943,7 @@
         },
         {
           "code": 2014046,
-          "name": "TOPICOS ELECTRONICOS  (TELEFONIA BASICA)",
+          "name": "TOPICOS ELECTRONICOS",
           "groups": [
             {
               "code": "1",

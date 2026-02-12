@@ -1152,7 +1152,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "CAE",
                   "teacher": "MENDEZ VELASQUEZ IVAN",
                   "isClass": true
@@ -1823,7 +1823,7 @@
                   "day": "JU",
                   "start": "1545",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "691F",
                   "teacher": "TERRAZAS LOBO JUAN",
                   "isClass": true
@@ -1838,7 +1838,7 @@
                   "day": "MA",
                   "start": "1715",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "691D",
                   "teacher": "MALDONADO CESPEDES RAUL",
                   "isClass": true
@@ -2466,7 +2466,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 5,
                   "room": "681B",
                   "teacher": "DIAZ COIMBRA ROLANDO",
                   "isClass": true
@@ -2637,7 +2637,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1115",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "PDTF",
                   "teacher": "MALDONADO LOPEZ PASCUAL",
                   "isClass": true
@@ -2697,7 +2697,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1115",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "CADCAM",
                   "teacher": "CRESPO GARCIA ALBERTO RUDY",
                   "isClass": false
@@ -2825,7 +2825,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L3",
                   "teacher": "ACHA PEREZ SAMUEL",
                   "isClass": false
@@ -2921,7 +2921,7 @@
                   "day": "JU",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692H",
                   "teacher": "BAUTISTA HERBAS TORIBIO",
                   "isClass": true
@@ -3118,7 +3118,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1115",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "681L7",
                   "teacher": "GOMEZ UGARTE GUIDO",
                   "isClass": true
@@ -3157,7 +3157,7 @@
                   "day": "SA",
                   "start": "900",
                   "end": "1115",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692F",
                   "teacher": "COSSIO CABRERA WALTER FELIX",
                   "isClass": true
@@ -3226,7 +3226,7 @@
                   "day": "JU",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "691C",
                   "teacher": "TRIVENO HERRERA PEDRO",
                   "isClass": true
@@ -3247,7 +3247,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 1,
                   "room": "681B",
                   "teacher": "GARRIDO VARGAS ANDRES",
                   "isClass": true
@@ -3277,7 +3277,7 @@
                   "day": "MI",
                   "start": "1115",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "640",
                   "teacher": "TERRAZAS LOBO JUAN",
                   "isClass": true
@@ -3312,7 +3312,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "LABMETR",
                   "teacher": "MORATO GAMBOA OSCAR",
                   "isClass": true
@@ -3372,7 +3372,7 @@
                   "day": "LU",
                   "start": "1715",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "640",
                   "teacher": "CANEDO ESPINOZA WALTER",
                   "isClass": false
@@ -3429,7 +3429,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "652",
                   "teacher": "PEREZ PARRA GUSTAVO ADOLFO",
                   "isClass": true
@@ -3611,7 +3611,7 @@
                   "day": "VI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "CADCAM",
                   "teacher": "MORATO GAMBOA OSCAR",
                   "isClass": true
@@ -3641,7 +3641,7 @@
                   "day": "MI",
                   "start": "1115",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692D",
                   "teacher": "GARRIDO VARGAS ANDRES",
                   "isClass": true
@@ -3671,7 +3671,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "622",
                   "teacher": "ORELLANA LAFUENTE RENAN JORGE",
                   "isClass": true
@@ -3686,7 +3686,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "681B",
                   "teacher": "MENDEZ VELASQUEZ IVAN",
                   "isClass": true
@@ -3716,7 +3716,7 @@
                   "day": "LU",
                   "start": "1500",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "651",
                   "teacher": "LANGE GONZALES WILHELM EDUARDO",
                   "isClass": true
@@ -3749,7 +3749,7 @@
                   "day": "SA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692F",
                   "teacher": "POR DESIGNAR DOCENTE",
                   "isClass": true
@@ -3823,7 +3823,7 @@
                   "day": "MI",
                   "start": "1500",
                   "end": "1715",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "625D",
                   "teacher": "ROCHA TRIVENO EDWIN AUGUSTO",
                   "isClass": true
@@ -3883,7 +3883,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692D",
                   "teacher": "GOITIA ARZE OSCAR JAVIER",
                   "isClass": true
@@ -3916,7 +3916,7 @@
                   "day": "MA",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "691C",
                   "teacher": "TRIVENO HERRERA PEDRO",
                   "isClass": true

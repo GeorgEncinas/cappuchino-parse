@@ -1565,7 +1565,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "671C",
                   "teacher": "ROCABADO QUIROGA JAZMIN GABRIELA",
                   "isClass": false
@@ -1807,7 +1807,7 @@
                   "day": "LU",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
                   "isClass": false
@@ -1816,7 +1816,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "ARAOZ JALDIN JOAQUIN RICARDO",
                   "isClass": false
@@ -1858,7 +1858,7 @@
                   "day": "MI",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "VALLEJO CAMACHO MARCO ANTONIO",
                   "isClass": false
@@ -1993,7 +1993,7 @@
                   "day": "LU",
                   "start": "1715",
                   "end": "2015",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "671A",
                   "teacher": "TANCARA SANDAGORDA JOSE FELIX",
                   "isClass": false
@@ -2032,7 +2032,7 @@
                   "day": "VI",
                   "start": "1545",
                   "end": "1800",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690D",
                   "teacher": "LANGE GONZALES WILHELM EDUARDO",
                   "isClass": true
@@ -2053,7 +2053,7 @@
                   "day": "LU",
                   "start": "1245",
                   "end": "1500",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "617B",
                   "teacher": "TORREJON ROCABADO JULIO MARCELO",
                   "isClass": true
@@ -2169,7 +2169,7 @@
                   "day": "MI",
                   "start": "1545",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "671A",
                   "teacher": "SARAMANI AGUILAR ARTURO",
                   "isClass": true
@@ -2208,7 +2208,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 11,
                   "room": "667A",
                   "teacher": "CASTILLO ZEGARRA JUAN CARLOS",
                   "isClass": false
@@ -2217,7 +2217,7 @@
                   "day": "MA",
                   "start": "1200",
                   "end": "1415",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "ORELLANA JIMENEZ JAIME",
                   "isClass": true
@@ -2331,7 +2331,7 @@
                   "day": "MA",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
                   "isClass": false
@@ -2340,7 +2340,7 @@
                   "day": "JU",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "668",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
                   "isClass": false
@@ -2397,7 +2397,7 @@
                   "day": "VI",
                   "start": "1030",
                   "end": "1245",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "ARISPE SANTANDER AGUSTIN WALTER",
                   "isClass": false
@@ -2423,7 +2423,7 @@
                   "day": "LU",
                   "start": "1415",
                   "end": "1630",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L2",
                   "teacher": "PEREZ PEREDO YURI GERMAN",
                   "isClass": false
@@ -2432,7 +2432,7 @@
                   "day": "MA",
                   "start": "1545",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 4,
                   "room": "682L1",
                   "teacher": "URRUTIA MEDRANO JOSE A.",
                   "isClass": true
@@ -2570,7 +2570,7 @@
                   "day": "LU",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "CASTILLO ZEGARRA JUAN CARLOS",
                   "isClass": false
@@ -2579,7 +2579,7 @@
                   "day": "MA",
                   "start": "1630",
                   "end": "1845",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "CASTILLO ZEGARRA JUAN CARLOS",
                   "isClass": false
@@ -2597,7 +2597,7 @@
                   "day": "JU",
                   "start": "1715",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "ORELLANA JIMENEZ JAIME",
                   "isClass": true
@@ -2615,7 +2615,7 @@
                   "day": "JU",
                   "start": "1715",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "MONTOYA CARDOZO HETZEL",
                   "isClass": false
@@ -2678,7 +2678,7 @@
                   "day": "VI",
                   "start": "1715",
                   "end": "1930",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "ROMAN ARISPE MANUEL FDO.",
                   "isClass": true
@@ -2752,7 +2752,7 @@
                   "day": "LU",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682B",
                   "teacher": "ROJAS ZURITA RAMIRO",
                   "isClass": true
@@ -2812,7 +2812,7 @@
                   "day": "LU",
                   "start": "1930",
                   "end": "2145",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667B",
                   "teacher": "JALDIN FLORERO HERNAN",
                   "isClass": true
@@ -2821,7 +2821,7 @@
                   "day": "MA",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667B",
                   "teacher": "JALDIN FLORERO HERNAN",
                   "isClass": false
@@ -2830,7 +2830,7 @@
                   "day": "JU",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667B",
                   "teacher": "JALDIN FLORERO HERNAN",
                   "isClass": true
@@ -2852,50 +2852,7 @@
         {
           "code": 2014018,
           "name": "INSTALACIONES ELECTRICAS II",
-          "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "617B",
-                  "teacher": "MONTANO MEDINA SERGIO ARNALDO",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "617C",
-                  "teacher": "MONTANO MEDINA SERGIO ARNALDO",
-                  "isClass": false
-                },
-                {
-                  "day": "SA",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "690C",
-                  "teacher": "MONTANO MEDINA SERGIO ARNALDO",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1715",
-                  "end": "1845",
-                  "duration": 2,
-                  "room": "625D",
-                  "teacher": "POR DESIGNAR DOCENTE",
-                  "isClass": true
-                }
-              ],
-              "teacher": "POR DESIGNAR DOCENTE"
-            }
-          ]
+          "groups": []
         },
         {
           "code": 2014017,
@@ -2961,7 +2918,7 @@
                   "day": "MI",
                   "start": "730",
                   "end": "945",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682A",
                   "teacher": "PACHECO GARCIA ROBERTO",
                   "isClass": true
@@ -3013,9 +2970,45 @@
                   "room": "644A",
                   "teacher": "",
                   "isClass": false
+                },
+                {
+                  "day": "LU",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "617B",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "617C",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": false
+                },
+                {
+                  "day": "SA",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "690C",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1715",
+                  "end": "1845",
+                  "duration": 2,
+                  "room": "625D",
+                  "teacher": "POR DESIGNAR DOCENTE",
+                  "isClass": true
                 }
               ],
-              "teacher": "HINOJOSA TORRICO MARCELO JOSE"
+              "teacher": "POR DESIGNAR DOCENTE"
             }
           ]
         },
@@ -3100,41 +3093,7 @@
         {
           "code": 2014023,
           "name": "SUBESTACIONES",
-          "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "682B",
-                  "teacher": "HINOJOSA TORRICO MARCELO JOSE",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "690D",
-                  "teacher": "HINOJOSA TORRICO MARCELO JOSE",
-                  "isClass": true
-                },
-                {
-                  "day": "SA",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "682B",
-                  "teacher": "HINOJOSA TORRICO MARCELO JOSE",
-                  "isClass": true
-                }
-              ],
-              "teacher": "HINOJOSA TORRICO MARCELO JOSE"
-            }
-          ]
+          "groups": []
         },
         {
           "code": 2014025,
@@ -3230,7 +3189,7 @@
                   "day": "MI",
                   "start": "945",
                   "end": "1200",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690C",
                   "teacher": "ROCHA TRIVENO EDWIN AUGUSTO",
                   "isClass": true
@@ -3278,7 +3237,7 @@
                   "day": "VI",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692F",
                   "teacher": "COSSIO CABRERA WALTER FELIX",
                   "isClass": true
@@ -3299,7 +3258,7 @@
                   "day": "SA",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "690C",
                   "teacher": "MEZA ROSSO FELIX",
                   "isClass": true
@@ -3329,7 +3288,7 @@
                   "day": "VI",
                   "start": "645",
                   "end": "900",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "682L2",
                   "teacher": "JALDIN FLORERO HERNAN",
                   "isClass": true
@@ -3354,9 +3313,36 @@
                   "room": "661",
                   "teacher": "CASTILLO ZEGARRA JUAN CARLOS",
                   "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "682B",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "690D",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
+                },
+                {
+                  "day": "SA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "682B",
+                  "teacher": "DOCENTE POR DESIGNAR",
+                  "isClass": true
                 }
               ],
-              "teacher": "CASTILLO ZEGARRA JUAN CARLOS"
+              "teacher": "DOCENTE POR DESIGNAR"
             },
             {
               "code": "10",
@@ -3518,7 +3504,7 @@
                   "day": "SA",
                   "start": "1115",
                   "end": "1330",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "692H",
                   "teacher": "MEZA ROSSO FELIX",
                   "isClass": true
@@ -3531,32 +3517,7 @@
         {
           "code": 2014041,
           "name": "TOPICOS ELECTRICOS I (TELEFONIA BASICA)",
-          "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "690D",
-                  "teacher": "ANTEZANA NOGALES VICTOR HUGO",
-                  "isClass": true
-                },
-                {
-                  "day": "SA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "691E",
-                  "teacher": "ANTEZANA NOGALES VICTOR HUGO",
-                  "isClass": true
-                }
-              ],
-              "teacher": "ANTEZANA NOGALES VICTOR HUGO"
-            }
-          ]
+          "groups": []
         }
       ]
     },
@@ -3583,7 +3544,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667B",
                   "teacher": "MONTERO GUEVARA JUAN JOSE EDGAR",
                   "isClass": true
@@ -3652,7 +3613,7 @@
                   "day": "VI",
                   "start": "815",
                   "end": "1030",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "667A",
                   "teacher": "COSSIO CABRERA WALTER FELIX",
                   "isClass": true
@@ -3691,7 +3652,7 @@
                   "day": "VI",
                   "start": "1930",
                   "end": "2145",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "661",
                   "teacher": "MANZANEDA MAMANI JUVENAL",
                   "isClass": true
@@ -3712,7 +3673,7 @@
                   "day": "LU",
                   "start": "1845",
                   "end": "2100",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "671B",
                   "teacher": "ORELLANA JIMENEZ JAIME",
                   "isClass": true
@@ -3729,11 +3690,11 @@
                   "end": "945",
                   "duration": 2,
                   "room": "625D",
-                  "teacher": "USTARIZ ARAMAYO VICTOR",
+                  "teacher": "DOCENTE POR DESIGNAR",
                   "isClass": true
                 }
               ],
-              "teacher": "USTARIZ ARAMAYO VICTOR"
+              "teacher": "DOCENTE POR DESIGNAR"
             },
             {
               "code": "7",
@@ -3772,7 +3733,7 @@
                   "day": "JU",
                   "start": "1930",
                   "end": "2145",
-                  "duration": 2,
+                  "duration": 3,
                   "room": "670",
                   "teacher": "ROMAN ARISPE MANUEL FDO.",
                   "isClass": true
