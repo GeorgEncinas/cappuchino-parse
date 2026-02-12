@@ -556,11 +556,10 @@ li.add a.carrera:hover {
     table-layout: fixed;
     border-collapse: separate;
     border-spacing: 0;
-    border: 3px solid var(--color-dark-kiwi);
+    border: 2px solid rgba(116, 128, 56, 0.3);
     border-radius: var(--radius-md);
     overflow: hidden;
     margin: 12px 0;
-    /* background-color: #ffffff; */
     box-shadow: var(--shadow-md);
 }
 
@@ -587,8 +586,7 @@ li.add a.carrera:hover {
 }
 
 #schedule table th {
-    background: linear-gradient(180deg, var(--color-selva) 0%, var(--color-dark-kiwi) 100%);
-    color: var(--color-cream);
+    border: 1px solid rgba(116, 128, 56, 0.3);
     font-weight: 700;
     padding: 10px 8px;
     font-family: var(--font-sans);
@@ -625,11 +623,9 @@ li.add a.carrera:hover {
 
 #schedule table tr th.hour,
 #schedule table td.hour {
-    color: var(--color-cream);
     text-align: right;
     padding-right: 12px;
     font-size: 11px;
-    border-right: 2px solid var(--color-sin-escorbuto);
     font-weight: 600;
     height: 45px;
     vertical-align: middle;
