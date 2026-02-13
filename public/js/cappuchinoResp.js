@@ -503,53 +503,9 @@ var Render = new (function () {
 
 $(document).ready(function () {
     Mobile.current = Mobile.isMobile()
-    if (Mobile.current) {
-        $('footer').css('position', 'relative')
-        // $('table tr td').css('font-size', '10px')
-        $('div.tools').css('display', 'none')
-        $('#options').css('position', 'fixed')
-        $('#options').css('width', '215px')
-        $('#schedule').mousedown(Events.sidebar)
-
-        $.mobile.ajaxEnabled = false;
-        $.mobile.loading().hide();
-
-        $('#options').on("swipeleft", Events.sidebar);
-        $('#menu').append(Templates.menu).on('click', Events.sidebar)
-        $('#news').on("click", Events.sidebar);
-
-        $(window).on("orientationchange", function (event) {
-            
-            if (event.orientation === 'landscape'){
-                console.log(event.orientation)    
-                $('table tr td').css('font-size', '10px')
-                $("#viewport").attr(
-                    "content",
-                    "width=".concat(
-                        Math.round($("table").height() * 1.6),
-                        ", initial-scale=1, user-scalable=yes"
-                    )
-                );
-
-            } else {
-                $('table tr td').css('font-size', '10px')
-                $("#viewport").attr(
-                    "content",
-                    "width=".concat(
-                        $("table").height() + parseInt($("table").css("margin-right")),
-                        ", initial-scale=1, user-scalable=yes"
-                    )
-                );
-            }
-
-
-            // $("#orientation").text("This device is in " + event.orientation + " mode!");
-        });
-
-    } else {
-        $('#options').css('position', 'inherit')
-        $('#options').css('width', '290px')
-    }
+    $('#options').css('position', 'inherit')
+    $('#options').css('width', '290px')
+    
     jQuery.fn.exists = function () { return this.length > 0; }
     $.getJSON(Config.data, function (data) {
         var defaultFaculty = data[data.default];
