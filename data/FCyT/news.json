@@ -1,8 +1,6 @@
 {
-    "date": "Actualizado el 10 de febrero de 2026 a las 20:24",
+    "date": "Actualizado el 3 de agosto de 2026 a las 18:05",
     "files": [
-        "LICENCIATURA EN SISTEMAS (NUEVO)",
-        "LICENCIATURA EN QUIMICA (ING)",
         "LICENCIATURA EN ALIMENTOS",
         "LICENCIATURA EN BIOLOGIA",
         "LICENCIATURA EN BIOTECNOLOGIA",
@@ -19,7 +17,9 @@
         "LICENCIATURA EN MATEMATICA (ING)",
         "LICENCIATURA EN MATEMATICA (LIC)",
         "LICENCIATURA EN MECANICA",
+        "LICENCIATURA EN QUIMICA (ING)",
         "LICENCIATURA EN QUIMICA (LIC)",
-        "LICENCIATURA EN SISTEMAS"
+        "LICENCIATURA EN SISTEMAS",
+        "LICENCIATURA EN SISTEMAS (NUEVO)"
     ]
 }
