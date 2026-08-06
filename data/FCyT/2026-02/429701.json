@@ -6,7 +6,7 @@
   "code": 429701,
   "name": "ELECTRONICA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/429701.pdf",
-  "updated_at": "2026-08-03T18:03:00",
+  "updated_at": "2026-08-05T10:58:00",
   "levels": [
     {
       "code": "A",
@@ -2091,39 +2091,6 @@
           "code": 2010012,
           "name": "METODOS TECNICAS Y TALLER DE PROGRAMACION",
           "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "FLORES VILLARROEL CORINA",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "625D",
-                  "teacher": "FLORES VILLARROEL CORINA",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "FLORES VILLARROEL CORINA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "FLORES VILLARROEL CORINA"
-            },
             {
               "code": "2",
               "schedule": [

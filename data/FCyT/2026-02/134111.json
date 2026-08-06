@@ -6,7 +6,7 @@
   "code": 134111,
   "name": "INFORMATICA (ING)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
-  "updated_at": "2026-08-03T18:04:00",
+  "updated_at": "2026-08-05T12:51:00",
   "levels": [
     {
       "code": "A",
@@ -250,11 +250,11 @@
               "code": "B3",
               "schedule": [
                 {
-                  "day": "MA",
-                  "start": "945",
-                  "end": "1115",
+                  "day": "VI",
+                  "start": "815",
+                  "end": "945",
                   "duration": 2,
-                  "room": "684L6",
+                  "room": "621",
                   "teacher": "[P] ORDONEZ SALVATIERRA MIGUEL ANGEL",
                   "isClass": true
                 }
@@ -412,25 +412,25 @@
               "code": "5",
               "schedule": [
                 {
-                  "day": "JU",
-                  "start": "945",
-                  "end": "1115",
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
                   "duration": 2,
-                  "room": "692F",
-                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "room": "INFLAB",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
-                  "day": "VI",
-                  "start": "1115",
-                  "end": "1245",
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
                   "duration": 2,
-                  "room": "691B",
-                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "room": "INFLAB",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "CESPEDES GUIZADA MARIA BENITA"
+              "teacher": "POR DESGINAR DOCENTE"
             }
           ]
         },
@@ -1377,72 +1377,6 @@
                 }
               ],
               "teacher": "FLORES VILLARROEL CORINA"
-            },
-            {
-              "code": "2",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "MANZUR SORIA CARLOS B.",
-                  "isClass": true
-                },
-                {
-                  "day": "VI",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "651",
-                  "teacher": "MANZUR SORIA CARLOS B.",
-                  "isClass": true
-                },
-                {
-                  "day": "SA",
-                  "start": "645",
-                  "end": "815",
-                  "duration": 2,
-                  "room": "607",
-                  "teacher": "MANZUR SORIA CARLOS B.",
-                  "isClass": true
-                }
-              ],
-              "teacher": "MANZUR SORIA CARLOS B."
-            },
-            {
-              "code": "5",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "690E",
-                  "teacher": "MONTOYA BURGOS YONY RICHARD",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "INFLAB",
-                  "teacher": "MONTOYA BURGOS YONY RICHARD",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
-                  "duration": 2,
-                  "room": "INFLAB",
-                  "teacher": "MONTOYA BURGOS YONY RICHARD",
-                  "isClass": true
-                }
-              ],
-              "teacher": "MONTOYA BURGOS YONY RICHARD"
             }
           ]
         },
@@ -2005,39 +1939,6 @@
                 }
               ],
               "teacher": "GARCIA PEREZ CARMEN ROSA"
-            },
-            {
-              "code": "2",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "691C",
-                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "690B",
-                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "692C",
-                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA"
             }
           ]
         },
@@ -3064,54 +2965,6 @@
           "code": 2010215,
           "name": "TALLER DE GRADO II",
           "groups": [
-            {
-              "code": "2",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "INFLAB",
-                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "INFDEP",
-                  "teacher": "MONTANO QUIROGA VICTOR HUGO",
-                  "isClass": true
-                }
-              ],
-              "teacher": "MONTANO QUIROGA VICTOR HUGO"
-            },
-            {
-              "code": "3",
-              "schedule": [
-                {
-                  "day": "MI",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "690E",
-                  "teacher": "GARCIA PEREZ CARMEN ROSA",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "690E",
-                  "teacher": "GARCIA PEREZ CARMEN ROSA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "GARCIA PEREZ CARMEN ROSA"
-            },
             {
               "code": "4",
               "schedule": [

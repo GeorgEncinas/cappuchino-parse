@@ -6,7 +6,7 @@
   "code": 411702,
   "name": "SISTEMAS (NUEVO)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/411702.pdf",
-  "updated_at": "2026-08-03T18:05:00",
+  "updated_at": "2026-08-05T12:52:00",
   "levels": [
     {
       "code": "A",
@@ -1048,25 +1048,25 @@
               "code": "5",
               "schedule": [
                 {
-                  "day": "JU",
-                  "start": "945",
-                  "end": "1115",
+                  "day": "MA",
+                  "start": "645",
+                  "end": "815",
                   "duration": 2,
-                  "room": "692F",
-                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "room": "INFLAB",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
-                  "day": "VI",
-                  "start": "1115",
-                  "end": "1245",
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
                   "duration": 2,
-                  "room": "691B",
-                  "teacher": "CESPEDES GUIZADA MARIA BENITA",
+                  "room": "INFLAB",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "CESPEDES GUIZADA MARIA BENITA"
+              "teacher": "POR DESGINAR DOCENTE"
             }
           ]
         },
@@ -2339,39 +2339,6 @@
           "name": "METODOS TECNICAS Y TALLER DE PROGRAMACION",
           "groups": [
             {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "FLORES VILLARROEL CORINA",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "625D",
-                  "teacher": "FLORES VILLARROEL CORINA",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "815",
-                  "end": "945",
-                  "duration": 2,
-                  "room": "652",
-                  "teacher": "FLORES VILLARROEL CORINA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "FLORES VILLARROEL CORINA"
-            },
-            {
               "code": "2",
               "schedule": [
                 {
@@ -3571,39 +3538,6 @@
           "code": 2010027,
           "name": "INTELIGENCIA ARTIFICIAL",
           "groups": [
-            {
-              "code": "1",
-              "schedule": [
-                {
-                  "day": "MA",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "692D",
-                  "teacher": "GARCIA PEREZ CARMEN ROSA",
-                  "isClass": true
-                },
-                {
-                  "day": "MI",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "692A",
-                  "teacher": "GARCIA PEREZ CARMEN ROSA",
-                  "isClass": true
-                },
-                {
-                  "day": "JU",
-                  "start": "1115",
-                  "end": "1245",
-                  "duration": 2,
-                  "room": "692D",
-                  "teacher": "GARCIA PEREZ CARMEN ROSA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "GARCIA PEREZ CARMEN ROSA"
-            },
             {
               "code": "2",
               "schedule": [
@@ -4932,30 +4866,6 @@
                 }
               ],
               "teacher": "GARCIA PEREZ CARMEN ROSA"
-            },
-            {
-              "code": "4",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "692G",
-                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "ROMERO RODRIGUEZ PATRICIA"
             },
             {
               "code": "5",

@@ -6,7 +6,7 @@
   "code": 419701,
   "name": "SISTEMAS",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/419701.pdf",
-  "updated_at": "2026-08-03T18:05:00",
+  "updated_at": "2026-08-05T10:59:00",
   "levels": [
     {
       "code": "J",
@@ -62,30 +62,6 @@
                 }
               ],
               "teacher": "GARCIA PEREZ CARMEN ROSA"
-            },
-            {
-              "code": "4",
-              "schedule": [
-                {
-                  "day": "LU",
-                  "start": "1245",
-                  "end": "1415",
-                  "duration": 2,
-                  "room": "692G",
-                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
-                  "isClass": true
-                },
-                {
-                  "day": "MA",
-                  "start": "945",
-                  "end": "1115",
-                  "duration": 2,
-                  "room": "625C",
-                  "teacher": "ROMERO RODRIGUEZ PATRICIA",
-                  "isClass": true
-                }
-              ],
-              "teacher": "ROMERO RODRIGUEZ PATRICIA"
             }
           ]
         }
